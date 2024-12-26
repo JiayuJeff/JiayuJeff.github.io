@@ -1,13 +1,21 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome to Jiayu's Webpage!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+👋 Hi, I’m @JiayuJeff, a second year CS student in [HKUST](https://hkust.edu.hk/).
+💞️ I’m interested in Playing [piano](https://youtu.be/5r_Y9tE_fbo?si=Rnv-_KuOYPt7_rPF), [violin](https://youtu.be/-ohoA3pO9Ks?si=8ZsqIn7GO0pp31UR), football and [working out in gym](http://xhslink.com/a/GeNO8R9xpvx0)
+🌱 I’m currently learning topics about Natural Language Processing, especially on NLP application in [information fact-checking](https://aclanthology.org/2024.fever-1.14.pdf) and verbal uncertainty elicitation and calibration
+👀 I am serving as a research assistant in [HKUST KnowComp Group](https://github.com/HKUST-KnowComp), and I’m open to collaboration in research topics related to AI
+🖋️ Here is my [Google Scholar](https://scholar.google.com/citations?user=PIQxhfMAAAAJ&hl=en)  
+📫 You can reach on my school email: jliufv@connect.ust.hk
+😄 Pronouns: He/Him
+⚡ Fun fact: I have been to ten countries at the age of 18!
+
 
 A data-driven personal website
 ======
