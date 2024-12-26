@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "LIU Jiayu / HKUST Undergraduate"
 title_separator          : "-"
-name                     : &name LIU Jiayu
+name                     : &name "LIU Jiayu"
 description              : &description "personal description"
 url                      : https://JiayuJeff.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
