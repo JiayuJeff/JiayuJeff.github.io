@@ -49,16 +49,16 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
+  instagram        : "jeff_liu2005"
+  linkedin         : "Jiayu LIU" # Username
   bluesky          : # "bsky.app" # Replace this with you Bluesky username
-  facebook         : "jeff_liu2005" # Username
+  facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Username
   lastfm           : # Username
-  linkedin         : "Jiayu LIU" # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
