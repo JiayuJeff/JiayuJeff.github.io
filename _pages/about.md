@@ -31,5 +31,3 @@ redirect_from:
 
 
 ⚡ Fun fact: I have been to ten countries at the age of 18!
-
-
