@@ -18,7 +18,7 @@ redirect_from:
 🌱 I’m currently interested in Natural Language Processing, especially on NLP application in [information fact-checking](https://aclanthology.org/2024.fever-1.14.pdf) and verbal uncertainty elicitation and calibration.
 
 
-👀 I am a research assistant in [HKUST KnowComp Group](https://github.com/HKUST-KnowComp), and I’m open to collaboration in research topics related to AI.
+👀 I am a research assistant in [HKUST KnowComp Group](https://github.com/HKUST-KnowComp) led by [Prof. Yangqiu Song](https://www.cse.ust.hk/~yqsong/), and I’m open to collaboration in research topics related to AI.
 
 
 🖋️ Here is my [Google Scholar](https://scholar.google.com/citations?user=PIQxhfMAAAAJ&hl=en).
