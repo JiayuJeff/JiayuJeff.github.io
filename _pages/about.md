@@ -18,9 +18,6 @@ redirect_from:
 🌱 I’m currently interested in Natural Language Processing, especially on NLP application in [information fact-checking](https://aclanthology.org/2024.fever-1.14.pdf) and verbal uncertainty elicitation and calibration.
 
 
-👀 I am a research assistant in [HKUST KnowComp Group](https://github.com/HKUST-KnowComp) led by [Prof. Yangqiu Song](https://www.cse.ust.hk/~yqsong/) from 2024 April to now, and I’m open to collaboration in research topics related to AI.
-
-
 🖋️ Here is my [Google Scholar](https://scholar.google.com/citations?user=PIQxhfMAAAAJ&hl=en).
 
 
@@ -38,5 +35,9 @@ redirect_from:
 
 ### &#128293; News
 
+[2025/2] Honored to join HKUST [RenAI Lab](https://mayrfung.github.io/group/)! Looking forward to learning from [Prof. Fung Yiren](https://mayrfung.github.io/)!
+[2025/1] Honored to receive HKIE Scholarship 2024/25!
+[2025/10] Our paper [GProofT](https://aclanthology.org/2024.fever-1.14/) accepted by [The Seventh FEVER Workshop](https://fever.ai/2024/workshop.html)! 
+[2025/6] Honored to join HKUST [HKUST KnowComp Group](https://github.com/HKUST-KnowComp)! Looking forward to learning from [Prof. Song Yangqiu](https://www.cse.ust.hk/~yqsong/)!
 
 
