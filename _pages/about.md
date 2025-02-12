@@ -41,7 +41,7 @@ redirect_from:
 
 [2024/10] Our paper [GProofT](https://aclanthology.org/2024.fever-1.14/) accepted by [The Seventh FEVER Workshop](https://fever.ai/2024/workshop.html)! 
 
-[2024/6] Travel to Charles University in Prague for summer exchange! Wonderful experience for me, Love everything there 🥰
+[2024/6] Travel to [Charles University](https://cuni.cz/UKEN-1.html) in Prague for summer exchange! Wonderful experience for me, Love everything there 🥰
 
 [2024/6] Honored to join HKUST [HKUST KnowComp Group](https://github.com/HKUST-KnowComp)! Looking forward to learning from [Prof. Song Yangqiu](https://www.cse.ust.hk/~yqsong/)!
 
