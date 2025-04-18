@@ -21,7 +21,7 @@ repository               : "JiayuJeff/JiayuJeff.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "LIU Jiayu"
   pronouns         : "He/him" # example: "she/her"  
   bio              : "Year 2 Computer Science Undergraduate at HKUST"
