@@ -24,7 +24,7 @@ redirect_from:
 📫 You can reach me on my school email: jliufv@connect.ust.hk
 
 
-😄 Pronouns: He/Him ([💗](https://www.linkedin.com/in/cassandra-yang-atletico19030426/))
+😄 Pronouns: He/Him 
 
 
 
