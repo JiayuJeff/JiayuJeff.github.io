@@ -15,7 +15,7 @@ redirect_from:
 💞️ I’m passionate about playing [piano](https://youtu.be/5r_Y9tE_fbo?si=Rnv-_KuOYPt7_rPF), [violin](https://youtu.be/-ohoA3pO9Ks?si=8ZsqIn7GO0pp31UR), football and [working out in gym](http://xhslink.com/a/GeNO8R9xpvx0).
 
 
-🌱 I’m currently interested in Natural Language Processing, especially on NLP application in [information fact-checking](https://aclanthology.org/2024.fever-1.14.pdf) and verbal uncertainty elicitation and calibration.
+🌱 I’m currently interested in Natural Language Processing, especially on NLP application in [information fact-checking](https://aclanthology.org/2024.fever-1.14.pdf) and [verbal uncertainty elicitation and calibration](https://arxiv.org/abs/2505.24778).
 
 
 🖋️ Here is my [Google Scholar](https://scholar.google.com/citations?user=PIQxhfMAAAAJ&hl=en).
@@ -34,6 +34,8 @@ redirect_from:
 
 
 ### &#128293; News
+
+[2025/5] Our paper [Revisiting Epistemic Markers in Confidence Estimation: Can Markers Accurately Reflect Large Language Models' Uncertainty?](https://arxiv.org/abs/2505.24778) is accepted to ACL2025 Main! Sincere gratitude to all my collaborators!
 
 [2025/2] Honored to join HKUST [RenAI Lab](https://mayrfung.github.io/group/)! Looking forward to learning from [Prof. Fung Yiren](https://mayrfung.github.io/)!
 
