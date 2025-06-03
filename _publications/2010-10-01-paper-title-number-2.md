@@ -2,7 +2,7 @@
 title: "Revisiting Epistemic Markers in Confidence Estimation: Can Markers Accurately Reflect Large Language Models' Uncertainty?"
 collection: publications
 category: Conference Paper
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publications/2010-10-01-paper-title-number-2
 excerpt: 'Our work at ACL2025'
 date: 2025-2-15
 venue: 'ACL'
