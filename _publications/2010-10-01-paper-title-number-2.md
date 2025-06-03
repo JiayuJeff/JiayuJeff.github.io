@@ -8,7 +8,7 @@ date: 2025-2-15
 venue: 'ACL'
 slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'https://arxiv.org/pdf/2505.24778'
-citation: 'J Liu et al (2024). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'J Liu et al (2025). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
 **Abstract**
