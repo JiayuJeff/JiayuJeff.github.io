@@ -16,14 +16,14 @@ redirect_from:
 
 
 🌱 I’m currently interested in Natural Language Processing, especially in:
-- LLM truthworthiness: [information fact-checking](https://aclanthology.org/2024.fever-1.14.pdf) and [verbal uncertainty elicitation and calibration](https://arxiv.org/pdf/2505.24778)
-- LLM reasoning: How diversity affects reasoning and how current models fails in reasoning process
+- LLM truthworthiness: [information fact-checking](https://aclanthology.org/2024.fever-1.14.pdf) and [verbal uncertainty elicitation and calibration](https://arxiv.org/pdf/2505.24778).
+- LLM reasoning: How diversity affects reasoning and how current models fails in reasoning process.
 
 
 🖋️ Here is my [Google Scholar](https://scholar.google.com/citations?user=PIQxhfMAAAAJ&hl=en).
 
 
-📫 You can reach me on my school email: jliufv@connect.ust.hk
+📫 You can reach me on my school email: jliufv@connect.ust.hk. I am actively seeking collaborations and feel free to connect!
 
 
 😄 Pronouns: He/Him 
