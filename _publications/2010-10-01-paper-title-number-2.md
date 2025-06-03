@@ -4,7 +4,7 @@ collection: publications
 category: Conference Paper
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'Our work at ACL2025'
-date: 2024-5-30
+date: 2025-2-15
 venue: 'ACL'
 slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'https://arxiv.org/pdf/2505.24778'
