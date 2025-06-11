@@ -16,8 +16,8 @@ redirect_from:
 
 
 🌱 I’m currently interested in Natural Language Processing, especially in:
-- Improve model truthworthiness: [information fact-checking](https://aclanthology.org/2024.fever-1.14.pdf) and [verbal uncertainty elicitation and calibration](https://arxiv.org/pdf/2505.24778).
-- Enhance model reasoning capabilities: How current SoTA LRMs fail in reasoning process and how we could implement post-training algorithms beyond simple accuracy to enhance the LRMs.
+- Improving model truthworthiness: [information fact-checking](https://aclanthology.org/2024.fever-1.14.pdf) and [verbal uncertainty elicitation and calibration](https://arxiv.org/pdf/2505.24778).
+- Enhancing model reasoning capabilities: How current SoTA LRMs fail in reasoning process and how we could implement post-training algorithms beyond simple accuracy to enhance the LRMs.
 
 
 🖋️ Here is my [Google Scholar](https://scholar.google.com/citations?user=PIQxhfMAAAAJ&hl=en).
@@ -44,6 +44,8 @@ redirect_from:
 [2025/1] Honored to receive HKIE Scholarship 2024/25!
 
 [2024/10] Our paper [GProofT](https://aclanthology.org/2024.fever-1.14/) is accepted by [**The Seventh FEVER Workshop**](https://fever.ai/2024/workshop.html)! 
+
+[2024/9] Honored to receive The Joseph Lau Luen Hung Charitable Trust Scholarship 2024/25!
 
 [2024/6] Travel to [Charles University](https://cuni.cz/UKEN-1.html) in Prague for summer exchange! Wonderful experience for me, Love everything there 🥰
 
