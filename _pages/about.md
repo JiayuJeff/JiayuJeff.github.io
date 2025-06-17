@@ -43,7 +43,7 @@ redirect_from:
 
 [2025/1] Honored to receive HKIE Scholarship 2024/25!
 
-[2024/10] My Cofirst-author paper [GProofT](https://aclanthology.org/2024.fever-1.14/) is accepted by [**The Seventh FEVER Workshop**](https://fever.ai/2024/workshop.html)! 
+[2024/10] My cofirst-author paper [GProofT](https://aclanthology.org/2024.fever-1.14/) is accepted by [**The Seventh FEVER Workshop**](https://fever.ai/2024/workshop.html)! 
 
 [2024/9] Honored to receive The Joseph Lau Luen Hung Charitable Trust Scholarship 2024/25!
 
