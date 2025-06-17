@@ -37,13 +37,13 @@ redirect_from:
 
 ### &#128293; News
 
-[2025/5] Our paper [Revisiting Epistemic Markers in Confidence Estimation: Can Markers Accurately Reflect Large Language Models' Uncertainty?](https://arxiv.org/abs/2505.24778) is accepted to [**ACL2025 Main**](https://2025.aclweb.org/)! Sincere gratitude to all my collaborators!
+[2025/5] My first-author paper [Revisiting Epistemic Markers in Confidence Estimation: Can Markers Accurately Reflect Large Language Models' Uncertainty?](https://arxiv.org/abs/2505.24778) is accepted to [**ACL2025 Main**](https://2025.aclweb.org/)! Sincere gratitude to all my collaborators!
 
 [2025/2] Honored to join HKUST [RenAI Lab](https://mayrfung.github.io/group/)! Looking forward to learning from [Prof. Fung Yiren](https://mayrfung.github.io/)!
 
 [2025/1] Honored to receive HKIE Scholarship 2024/25!
 
-[2024/10] Our paper [GProofT](https://aclanthology.org/2024.fever-1.14/) is accepted by [**The Seventh FEVER Workshop**](https://fever.ai/2024/workshop.html)! 
+[2024/10] My Cofirst-author paper [GProofT](https://aclanthology.org/2024.fever-1.14/) is accepted by [**The Seventh FEVER Workshop**](https://fever.ai/2024/workshop.html)! 
 
 [2024/9] Honored to receive The Joseph Lau Luen Hung Charitable Trust Scholarship 2024/25!
 
