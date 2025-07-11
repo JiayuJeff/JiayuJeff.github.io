@@ -53,3 +53,8 @@ redirect_from:
 
 [2023/9] Honored to receive China Soong Ching Ling Foundation Zhiyuan Bursary!
 
+
+
+### Academic services
+[2025/5] reviewer of IJCAI 2025
+
