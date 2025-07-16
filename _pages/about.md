@@ -1,5 +1,5 @@
 ---
-permalink: /temp-disabled/
+permalink: /
 title: "Welcome to Jiayu's Webpage!"
 title: "About me"
 excerpt: "About me"
