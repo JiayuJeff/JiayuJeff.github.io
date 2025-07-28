@@ -16,7 +16,7 @@ redirect_from:
 
 
 🌱 I’m currently interested in Natural Language Processing, especially in:
-- Improving model truthworthiness: information fact-checking [(Seventh FEVER Workshop)](https://aclanthology.org/2024.fever-1.14.pdf) and verbal uncertainty elicitation and calibration [(ACL2025 Main)](https://arxiv.org/pdf/2505.24778).
+- Improving model truthworthiness: information fact-checking [(Seventh FEVER Workshop)](https://aclanthology.org/2024.fever-1.14.pdf) and verbal uncertainty elicitation and calibration [(ACL2025 Main)](https://aclanthology.org/2025.acl-short.18.pdf).
 - Enhancing model reasoning capabilities: How current SoTA Large reasoning models fail in reasoning process [(arxiv preprint)](https://arxiv.org/abs/2506.17114) and how we could implement post-training algorithms to train the model beyond simple accuracy to enhance their performance [(arxiv preprint)](https://openreview.net/pdf?id=T0TXd2DQxn).
 
 
