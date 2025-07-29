@@ -17,7 +17,7 @@ redirect_from:
 
 🌱 I’m currently interested in Natural Language Processing, especially in:
 - Improving model truthworthiness: [(Seventh FEVER Workshop,](https://aclanthology.org/2024.fever-1.14.pdf) [ACL2025 Main)](https://aclanthology.org/2025.acl-short.18.pdf).
-- Evaluating and enhancing model reasoning capabilities: [(arxiv preprint,](https://arxiv.org/abs/2506.17114) [arxiv preprint)](https://openreview.net/pdf?id=T0TXd2DQxn).
+- Evaluating and enhancing model reasoning capabilities: [(arxiv preprint,](https://arxiv.org/abs/2506.17114) [arxiv preprint)](https://www.arxiv.org/abs/2507.20187).
 
 
 🖋️ Here is my [Google Scholar](https://scholar.google.com/citations?user=PIQxhfMAAAAJ&hl=en).
