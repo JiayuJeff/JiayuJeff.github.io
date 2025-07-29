@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-👋 Welcome to my homepage! :D 🥂 Hi, I’m Jiayu LIU, a second year CS student in [HKUST](https://hkust.edu.hk/).
+👋 Welcome to my homepage! :D 🥂 I’m Jiayu LIU, a second year CS student in [HKUST](https://hkust.edu.hk/).
 
 
 💞️ I’m passionate about playing [piano](https://youtu.be/5r_Y9tE_fbo?si=Rnv-_KuOYPt7_rPF), [violin](https://youtu.be/-ohoA3pO9Ks?si=8ZsqIn7GO0pp31UR), football and working out in gym.
