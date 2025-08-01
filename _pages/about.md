@@ -16,7 +16,7 @@ redirect_from:
 
 
 🌱 I’m currently interested in Natural Language Processing, especially in:
-- Improving LLM truthworthiness [GProofT (Seventh FEVER Workshop)](https://aclanthology.org/2024.fever-1.14.pdf), [MarCon (ACL2025 Main)](https://aclanthology.org/2025.acl-short.18.pdf).
+- Improving LLM truthworthiness [GProofT](https://aclanthology.org/2024.fever-1.14.pdf) (Seventh FEVER Workshop), [MarCon](https://aclanthology.org/2025.acl-short.18.pdf) (ACL2025 Main).
 - Evaluating and enhancing LLM reasoning capabilities [RFMDataset (arxiv preprint)](https://arxiv.org/abs/2506.17114), [Multirole-R1 (arxiv preprint)](https://www.arxiv.org/abs/2507.20187).
 
 
