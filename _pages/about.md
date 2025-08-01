@@ -37,6 +37,8 @@ redirect_from:
 
 ### &#128293; News
 
+[2025/7] Released [Diversity-Enhanced Subjective Question-Answering](https://huggingface.co/papers/2507.20187) which got 22 upvotes and ranked 8th in [huggingface daily papers on June 29th](https://huggingface.co/papers/date/2025-07-29)!
+
 [2025/7] Will be in [University of Illinois Urbana-Champaign](https://illinois.edu/) as a exchange undergraduate student in 2026 Spring! **Actively seeking research internship opportunities!**
 
 [2025/5] My first-author paper [Revisiting Epistemic Markers in Confidence Estimation: Can Markers Accurately Reflect Large Language Models' Uncertainty?](https://arxiv.org/abs/2505.24778) is accepted to [**ACL2025 Main**](https://2025.aclweb.org/)! Sincere gratitude to all my collaborators!
