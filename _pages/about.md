@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /private
 title: "Welcome to Jiayu's Webpage!"
 title: "About me"
 excerpt: "About me"
@@ -36,7 +36,7 @@ redirect_from:
 
 
 
-### &#128293; News
+## &#128293; News
 
 [2025/8] Honored to received the UROP Support Grant and UROP Research Travel Sponsorship!
 
@@ -61,7 +61,32 @@ redirect_from:
 [2023/9] Honored to receive China Soong Ching Ling Foundation Zhiyuan Bursary!
 
 
+## Publications
 
-### Academic services
+### Trustworthiness and Reliability
+
+### Advanced Reasoning
+
+[Diversity-Enhanced Reasoning for Subjective Questions](https://www.arxiv.org/pdf/2507.20187)
+Yumeng Wang*, Zhiyuan Fan*, **Jiayu Liu***, Yi R. Fung
+Under review in ICLR 2026
+
+[Mathematical Proof as a Litmus Test: Revealing Failure Modes of Advanced Large Reasoning Models](https://arxiv.org/pdf/2506.17114)
+Dadi Guo*, **Jiayu Liu***, Zhiyuan Fan, Zhitao He, Haoran Li, Yumeng Wang, Yi R. Fung
+MathNLP 2025, Under review in ACL rolling review
+
+### Tool Use
+
+TBD
+
+### Collaboration
+
+VLM-Dixit: Investigating Multi-Modal Abductive Reasoning and Entailment Verification with VLMs in Dixit Gameplay
+
+MO Yunxiang*, Tianshi Zheng*, Qing Zong, **Jiayu Liu**, Baixuan Xu, Yauwai Yim, Chunkit Chan, Jiaxin Bai, Yangqiu Song
+
+[The 5th Wordplay: When Language Meets Games @ EMNLP 2025](https://openreview.net/group?id=EMNLP/2025/Workshop/Wordplay/Authors&referrer=%5BHomepage%5D(%2F))
+
+## Academic services
 [2025/5] reviewer of IJCAI 2025
 
