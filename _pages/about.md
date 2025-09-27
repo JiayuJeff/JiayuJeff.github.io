@@ -68,11 +68,15 @@ redirect_from:
 ### Advanced Reasoning
 
 [Diversity-Enhanced Reasoning for Subjective Questions](https://www.arxiv.org/pdf/2507.20187)
+
 Yumeng Wang*, Zhiyuan Fan*, **Jiayu Liu***, Yi R. Fung
+
 Under review in ICLR 2026
 
 [Mathematical Proof as a Litmus Test: Revealing Failure Modes of Advanced Large Reasoning Models](https://arxiv.org/pdf/2506.17114)
+
 Dadi Guo*, **Jiayu Liu***, Zhiyuan Fan, Zhitao He, Haoran Li, Yumeng Wang, Yi R. Fung
+
 MathNLP 2025, Under review in ACL rolling review
 
 ### Tool Use
