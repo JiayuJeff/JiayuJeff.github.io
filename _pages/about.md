@@ -16,9 +16,9 @@ redirect_from:
 
 
 🌱 I’m currently interested in Natural Language Processing, especially in:
-- Improving LLM truthworthiness: [GProofT](https://aclanthology.org/2024.fever-1.14.pdf) (FEVER 2024), [MarCon](https://aclanthology.org/2025.acl-short.18.pdf) (ACL2025 Main), [MarPT](https://arxiv.org/abs/2508.08992) (Under review in ACL rolling review).
+- Improving LLM truthworthiness: [GProofT](https://aclanthology.org/2024.fever-1.14.pdf) (FEVER 2024), [MarCon](https://aclanthology.org/2025.acl-short.18.pdf) (ACL2025 Main), [MarPT](https://arxiv.org/abs/2508.08992) (Under review in ACL rolling review), CritiCal.
 - Evaluating and enhancing LLM reasoning capabilities: [RFMDataset](https://arxiv.org/pdf/2506.17114) (MathNLP 2025, under review in ACL rolling review), [Multirole-R1](https://www.arxiv.org/pdf/2507.20187) (under review in ICLR).
-- Advanced tool use capabilities in agentic systems.
+- Advanced tool use capabilities in agentic systems: CostBench.
 
 
 🖋️ Here is my [Google Scholar](https://scholar.google.com/citations?user=PIQxhfMAAAAJ&hl=en).
