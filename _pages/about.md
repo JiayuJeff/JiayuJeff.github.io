@@ -67,11 +67,11 @@ I’m **Jiayu LIU**, a third-year CS student supervised by [Prof. Yangqiu Song](
 *ACL 2025 Main*
 
 **[GProofT: A Multi-dimension Multi-round Fact Checking Framework Based on Claim Fact Extraction](https://aclanthology.org/2024.fever-1.14/)**  
-**Jiayu Liu\***, Junhao Tang*, Hanwen Wang*, Baixuan Xu, Haochen Shi, Weiqi Wang, Yangqiu Song  
+**Jiayu Liu\***, Junhao Tang\*, Hanwen Wang\*, Baixuan Xu, Haochen Shi, Weiqi Wang, Yangqiu Song  
 *Proceedings of the Seventh Fact Extraction and VERification Workshop (FEVER)*
 
 **[Prospect Theory Fails for LLMs: Revealing Instability of Decision-Making under Epistemic Uncertainty](https://arxiv.org/abs/2508.08992)**  
-Rui Wang*, Qihan Lin*, **Jiayu Liu\***, Qing Zong, Tianshi Zheng, Weiqi Wang, Yangqiu Song  
+Rui Wang\*, Qihan Lin\*, **Jiayu Liu\***, Qing Zong, Tianshi Zheng, Weiqi Wang, Yangqiu Song  
 *Under review in ACL Rolling Review*
 
 **[CritiCal: Can Critique Help LLM Uncertainty or Confidence Calibration?](https://arxiv.org/abs/2510.24505)**  
@@ -83,11 +83,11 @@ Qing Zong, **Jiayu Liu**, Tianshi Zheng, Chunyang Li, Baixuan Xu, Haochen Shi, W
 ### 🧠 Advanced Reasoning
 
 **[Diversity-Enhanced Reasoning for Subjective Questions](https://www.arxiv.org/pdf/2507.20187)**  
-Yumeng Wang*, Zhiyuan Fan*, **Jiayu Liu\***, Yi R. Fung  
+Yumeng Wang\*, Zhiyuan Fan\*, **Jiayu Liu\***, Yi R. Fung  
 *Under review in ICLR 2026*
 
 **[Mathematical Proof as a Litmus Test: Revealing Failure Modes of Advanced Large Reasoning Models](https://arxiv.org/pdf/2506.17114)**  
-Dadi Guo*, **Jiayu Liu\***, Zhiyuan Fan, Zhitao He, Haoran Li, Yumeng Wang, Yi R. Fung  
+Dadi Guo\*, **Jiayu Liu\***, Zhiyuan Fan, Zhitao He, Haoran Li, Yumeng Wang, Yi R. Fung  
 *MathNLP 2025, under review in ACL Rolling Review*
 
 ---
