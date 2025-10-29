@@ -77,6 +77,18 @@ ACL 2025 Main
 
 Proceedings of the Seventh Fact Extraction and VERification Workshop (FEVER)
 
+[Prospect Theory Fails for LLMs: Revealing Instability of Decision-Making under Epistemic Uncertainty](https://arxiv.org/abs/2508.08992)
+
+Rui Wang*, Qihan Lin*, **Jiayu Liu***, Qing Zong, Tianshi Zheng, Weiqi Wang, Yangqiu Song
+
+Under review in ACL rolling review
+
+[CritiCal: Can Critique Help LLM Uncertainty or Confidence Calibration?](https://arxiv.org/abs/2510.24505)
+
+Qing Zong, **Jiayu Liu**, Tianshi Zheng, Chunyang Li, Baixuan Xu, Haochen Shi, Weiqi Wang, Zhaowei Wang, Chunkit Chan, Yangqiu Song
+
+Under review in ACL rolling review
+
 ### Advanced Reasoning
 
 [Diversity-Enhanced Reasoning for Subjective Questions](https://www.arxiv.org/pdf/2507.20187)
