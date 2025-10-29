@@ -61,9 +61,21 @@ redirect_from:
 [2023/9] Honored to receive China Soong Ching Ling Foundation Zhiyuan Bursary!
 
 
-## Publications
+## &#128214; Publications
 
 ### Trustworthiness and Reliability
+
+[Revisiting Epistemic Markers in Confidence Estimation: Can Markers Accurately Reflect Large Language Models' Uncertainty?](https://arxiv.org/abs/2505.24778)
+
+**Jiayu Liu**, Qing Zong, Weiqi Wang, Yangqiu Song
+
+ACL 2025 Main
+
+[GProofT: A Multi-dimension Multi-round Fact Checking Framework Based on Claim Fact Extraction](https://aclanthology.org/2024.fever-1.14/)
+
+**Jiayu Liu***, Junhao Tang*, Hanwen Wang*, Baixuan Xu, Haochen Shi, Weiqi Wang, Yangqiu Song
+
+Proceedings of the Seventh Fact Extraction and VERification Workshop (FEVER)
 
 ### Advanced Reasoning
 
@@ -81,7 +93,11 @@ MathNLP 2025, Under review in ACL rolling review
 
 ### Tool Use
 
-TBD
+CostBench: Evaluating Multi-Turn Cost-Optimal Planning and Adaptation in Dynamic Environments for LLM Agents
+
+**Jiayu Liu**, Cheng Qian, Zhaochen Su, Qing Zong, Shijue Huang, Bingxiang He, Yi R. Fung 
+
+Under review in ACL rolling review
 
 ### Collaboration
 
