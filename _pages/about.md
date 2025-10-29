@@ -10,7 +10,7 @@ redirect_from:
 ---
 
 👋 **Welcome to my homepage!** 🥂  
-I’m **Jiayu LIU**, a third-year CS student supervised by [Prof. Yangqiu Song](https://www.cse.ust.hk/~yqsong/) and [Prof. Yiren Fung](https://mayrfung.github.io/) at [HKUST](https://hkust.edu.hk/).
+I’m **Jiayu LIU**, a third-year undergraduate CS student supervised by [Prof. Yangqiu Song](https://www.cse.ust.hk/~yqsong/) and [Prof. Yiren Fung](https://mayrfung.github.io/) at [HKUST](https://hkust.edu.hk/).
 
 ---
 
