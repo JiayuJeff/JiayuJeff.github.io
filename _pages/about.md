@@ -29,7 +29,7 @@ I’m **Jiayu LIU**, a third-year undergraduate CS student supervised by [Prof. 
   [Multirole-R1](https://www.arxiv.org/pdf/2507.20187) (*Under review in ICLR*).
 
 - **Advanced tool-use capabilities in agentic systems:**  
-  CostBench. (*Under review in ACL Rolling Review*)
+  [CostBench](https://arxiv.org/abs/2511.02734). (*Under review in ACL Rolling Review*)
 
 🖋️ [**Google Scholar**](https://scholar.google.com/citations?user=PIQxhfMAAAAJ&hl=en)  
 📫 Contact: *jliufv@connect.ust.hk*  
@@ -94,7 +94,7 @@ Dadi Guo\*, **Jiayu Liu\***, Zhiyuan Fan, Zhitao He, Haoran Li, Yumeng Wang, Yi 
 
 ### 🧰 Tool Use
 
-**CostBench: Evaluating Multi-Turn Cost-Optimal Planning and Adaptation in Dynamic Environments for LLM Agents**  
+**[CostBench: Evaluating Multi-Turn Cost-Optimal Planning and Adaptation in Dynamic Environments for LLM Agents](https://arxiv.org/abs/2511.02734)**  
 **Jiayu Liu**, Cheng Qian, Zhaochen Su, Qing Zong, Shijue Huang, Bingxiang He, Yi R. Fung  
 *Under review in ACL Rolling Review*
 
