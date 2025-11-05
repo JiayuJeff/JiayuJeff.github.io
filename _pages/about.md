@@ -103,7 +103,7 @@ Dadi Guo\*, **Jiayu Liu\***, Zhiyuan Fan, Zhitao He, Haoran Li, Yumeng Wang, Yi 
 ### 🤝 Collaboration
 
 **VLM-Dixit: Investigating Multi-Modal Abductive Reasoning and Entailment Verification with VLMs in Dixit Gameplay**  
-MO Yunxiang*, Tianshi Zheng*, Qing Zong, **Jiayu Liu**, Baixuan Xu, Yauwai Yim, Chunkit Chan, Jiaxin Bai, Yangqiu Song  
+MO Yunxiang\*, Tianshi Zheng\*, Qing Zong, **Jiayu Liu**, Baixuan Xu, Yauwai Yim, Chunkit Chan, Jiaxin Bai, Yangqiu Song  
 [*The 5th Wordplay: When Language Meets Games @ EMNLP 2025*](https://openreview.net/group?id=EMNLP/2025/Workshop/Wordplay/Authors&referrer=%5BHomepage%5D(%2F))
 
 ---
