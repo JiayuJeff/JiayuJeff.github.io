@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Jiayu's Webpage!"
+title: "Welcome to Jiayu Liu's Webpage!"
 title: "About me"
 excerpt: "About me"
 author_profile: true
@@ -10,7 +10,7 @@ redirect_from:
 ---
 
 👋 **Welcome to my homepage!** 🥂  
-I’m **Jiayu LIU**, a third-year undergraduate CS student supervised by [Prof. Yangqiu Song](https://www.cse.ust.hk/~yqsong/) and [Prof. Yiren Fung](https://mayrfung.github.io/) at [HKUST](https://hkust.edu.hk/).
+I’m **Jiayu LIU 刘家毓**, a third-year undergraduate CS student supervised by [Prof. Yangqiu Song](https://www.cse.ust.hk/~yqsong/) and [Prof. Yiren Fung](https://mayrfung.github.io/) at [HKUST](https://hkust.edu.hk/).
 
 ---
 
