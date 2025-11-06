@@ -1,7 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Jiayu Liu's Webpage!"
-title: "About me"
+title: "Jiayu Liu 刘家毓"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
