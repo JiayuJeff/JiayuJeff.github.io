@@ -19,7 +19,7 @@ I’m **Jiayu LIU 刘家毓**, a third-year undergraduate CS student supervised 
 
 - **Improving LLM trustworthiness:**  
   [GProofT](https://aclanthology.org/2024.fever-1.14.pdf) (*FEVER 2024*),  
-  [MarCon](https://aclanthology.org/2025.acl-short.18.pdf) (*ACL 2025 Main*),  
+  [MarConf](https://aclanthology.org/2025.acl-short.18.pdf) (*ACL 2025 Main*),  
   [MarPT](https://arxiv.org/abs/2508.08992) (*Under review in ACL Rolling Review*),  
   [CritiCal](https://arxiv.org/abs/2510.24505) (*Under review in ACL Rolling Review*).
 
