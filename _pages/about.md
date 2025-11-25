@@ -83,7 +83,7 @@ Qing Zong, **Jiayu Liu**, Tianshi Zheng, Chunyang Li, Baixuan Xu, Haochen Shi, W
 ### 🧠 Advanced Reasoning
 
 **[Diversity-Enhanced Reasoning for Subjective Questions](https://www.arxiv.org/pdf/2507.20187)**  
-Yumeng Wang\*, Zhiyuan Fan\*, **Jiayu Liu\***, Yi R. Fung  
+Yumeng Wang\*, Zhiyuan Fan\*, **Jiayu Liu\***, Jen-tse Huang, Yi R. Fung  
 *Under review in ICLR 2026*
 
 **[Mathematical Proof as a Litmus Test: Revealing Failure Modes of Advanced Large Reasoning Models](https://arxiv.org/pdf/2506.17114)**  
