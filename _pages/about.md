@@ -38,7 +38,7 @@ I’m **Jiayu LIU 刘家毓**, a third-year undergraduate CS student supervised 
 
 ## 🔥 News
 
-- **[2025/11]** Released [*CostBench: Evaluating Multi-Turn Cost-Optimal Planning and Adaptation in Dynamic Environments for LLM Tool-Use Agents*](https://huggingface.co/papers/2511.02734), which got **19 upvotes** and ranked **#4** in [Hugging Face Daily Papers (November 6th)](https://huggingface.co/papers/date/2025-11-06)!
+- **[2025/11]** Released [*CostBench: Evaluating Multi-Turn Cost-Optimal Planning and Adaptation in Dynamic Environments for LLM Tool-Use Agents*](https://huggingface.co/papers/2511.02734), which got **20 upvotes** and ranked **#4** in [Hugging Face Daily Papers (November 6th)](https://huggingface.co/papers/date/2025-11-06)!
 - **[2025/8]** Honored to receive the **UROP Support Grant** and **UROP Research Travel Sponsorship**!  
 - **[2025/7]** Released [*Diversity-Enhanced Subjective Question-Answering*](https://huggingface.co/papers/2507.20187), which got **22 upvotes** and ranked **#8** in [Hugging Face Daily Papers (July 29th)](https://huggingface.co/papers/date/2025-07-29)!  
 - **[2025/7]** Will join [University of Illinois Urbana-Champaign](https://illinois.edu/) as an **exchange undergraduate student in Spring 2026**!  
