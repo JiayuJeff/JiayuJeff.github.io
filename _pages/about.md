@@ -110,4 +110,5 @@ MO Yunxiang\*, Tianshi Zheng\*, Qing Zong, **Jiayu Liu**, Baixuan Xu, Yauwai Yim
 
 ## 🧾 Academic Services
 
+- **[2025/6]** HKUST COMP and CPEG Mentor 2024/25
 - **[2025/5]** Reviewer of *IJCAI 2025*
