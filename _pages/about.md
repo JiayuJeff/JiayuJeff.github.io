@@ -15,11 +15,11 @@ I’m **Jiayu LIU 刘家毓**, a junior undergraduate CS student supervised by [
 
 Currently, I am focusing on:
 
-- **Improving LLM trustworthiness:** Training robust and reliable LLMs to se
-- **Evaluating and enhancing LLM reasoning capabilities:** 
-- **Advanced tool-use capabilities in agentic systems:** 
+- **Evaluating and enhancing LLM reasoning capabilities:** Pinpointing the crucial flaws in LLM reasoning and training diverse-thinking reasoning models
+- **Advanced tool-use capabilities in agentic systems:** Building high-performing, cost-effective agents
+- **Improving LLM trustworthiness:** Analyzing LLM confidence elicitation patterns and training well-calibrated LLMs, especially in knowledge enhanced scenarios
 
-Here is my [**google Scholar**](https://scholar.google.com/citations?user=PIQxhfMAAAAJ&hl=en)  
+Here is my [google Scholar](https://scholar.google.com/citations?user=PIQxhfMAAAAJ&hl=en)  
 📫 Contact: *jliufv@connect.ust.hk*
 
 ---
@@ -100,7 +100,7 @@ MO Yunxiang\*, Tianshi Zheng\*, Qing Zong, **Jiayu Liu**, Baixuan Xu, Yauwai Yim
 
 - **[2025/6]** HKUST COMP and CPEG Mentor 2024/25
 - **[2025/5]** Reviewer of *IJCAI 2025*
-  **[2024/6]** HKUST PMP group mentor
+- **[2024/6]** HKUST PMP group mentor
 - **[2024/2]** IT Secretary of Chinese Folks and Arts Society, HKUST
 
 ---
