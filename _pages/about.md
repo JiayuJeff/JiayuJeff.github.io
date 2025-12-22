@@ -43,7 +43,7 @@ Here is my [google Scholar](https://scholar.google.com/citations?user=PIQxhfMAAA
 
 ## 📖 Publications
 
-### 🧰 Tool Use
+### 🧰 Tool Use & Agent
 
 **CostBench: Evaluating Multi-Turn Cost-Optimal Planning and Adaptation in Dynamic Environments for LLM Agents**  
 **Jiayu Liu**, Cheng Qian, Zhaochen Su, Qing Zong, Shijue Huang, Bingxiang He, Yi R. Fung  
