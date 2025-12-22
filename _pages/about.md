@@ -9,26 +9,17 @@ redirect_from:
 ---
 
 👋 **Welcome to my homepage!** 🥂  
-I’m **Jiayu LIU 刘家毓**, a third-year undergraduate CS student supervised by [Prof. Yangqiu Song](https://www.cse.ust.hk/~yqsong/) and [Prof. Yiren Fung](https://mayrfung.github.io/) at [HKUST](https://hkust.edu.hk/).
+I’m **Jiayu LIU 刘家毓**, a junior undergraduate CS student supervised by [Prof. Yangqiu Song](https://www.cse.ust.hk/~yqsong/) and [Prof. Yiren Fung](https://mayrfung.github.io/) at [HKUST](https://hkust.edu.hk/).
 
 ---
 
 💞️ I’m passionate about playing [piano](https://youtu.be/5r_Y9tE_fbo?si=Rnv-_KuOYPt7_rPF), [violin](https://youtu.be/-ohoA3pO9Ks?si=8ZsqIn7GO0pp31UR), football, and working out in the gym.
 
-🌱 I’m currently interested in **Natural Language Processing**, especially in:
+🌱 Currently, I am focusing on:
 
-- **Improving LLM trustworthiness:**  
-  [GProofT](https://aclanthology.org/2024.fever-1.14.pdf) (*FEVER 2024*),  
-  [MarConf](https://aclanthology.org/2025.acl-short.18.pdf) (*ACL 2025 Main*),  
-  [MarPT](https://arxiv.org/abs/2508.08992) (*Under review in ACL Rolling Review*),  
-  [CritiCal](https://arxiv.org/abs/2510.24505) (*Under review in ACL Rolling Review*).
-
-- **Evaluating and enhancing LLM reasoning capabilities:**  
-  [RFMDataset](https://arxiv.org/pdf/2506.17114) (*MathNLP 2025, under review in ACL Rolling Review*),  
-  [Multirole-R1](https://www.arxiv.org/pdf/2507.20187) (*Under review in ICLR*).
-
-- **Advanced tool-use capabilities in agentic systems:**  
-  [CostBench](https://arxiv.org/abs/2511.02734). (*Under review in ACL Rolling Review*)
+- **Improving LLM trustworthiness:** Training robust and reliable LLMs to se
+- **Evaluating and enhancing LLM reasoning capabilities:** 
+- **Advanced tool-use capabilities in agentic systems:** 
 
 🖋️ [**Google Scholar**](https://scholar.google.com/citations?user=PIQxhfMAAAAJ&hl=en)  
 📫 Contact: *jliufv@connect.ust.hk*  
@@ -108,7 +99,10 @@ MO Yunxiang\*, Tianshi Zheng\*, Qing Zong, **Jiayu Liu**, Baixuan Xu, Yauwai Yim
 
 ---
 
-## 🧾 Academic Services
+## 🧾 Academic & community services
 
 - **[2025/6]** HKUST COMP and CPEG Mentor 2024/25
 - **[2025/5]** Reviewer of *IJCAI 2025*
+- **[2024/2]** IT Secretary of Chinese Folks and Arts Society, HKUST
+- **[2023/9]** Hong Kong University of Science and Technology Mainland Students Football Team
+- **[2022/3]** Guangdong Experimental High School Football Team
