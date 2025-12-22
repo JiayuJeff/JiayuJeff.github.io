@@ -43,6 +43,8 @@ Here is my [google Scholar](https://scholar.google.com/citations?user=PIQxhfMAAA
 
 ## 📖 Publications
 
+Note: * denotes equal contribution.
+
 ### 🧰 Tool Use & Agent
 
 **CostBench: Evaluating Multi-Turn Cost-Optimal Planning and Adaptation in Dynamic Environments for LLM Agents**  
