@@ -13,17 +13,14 @@ I’m **Jiayu LIU 刘家毓**, a junior undergraduate CS student supervised by [
 
 ---
 
-💞️ I’m passionate about playing [piano](https://youtu.be/5r_Y9tE_fbo?si=Rnv-_KuOYPt7_rPF), [violin](https://youtu.be/-ohoA3pO9Ks?si=8ZsqIn7GO0pp31UR), football, and working out in the gym.
-
-🌱 Currently, I am focusing on:
+Currently, I am focusing on:
 
 - **Improving LLM trustworthiness:** Training robust and reliable LLMs to se
 - **Evaluating and enhancing LLM reasoning capabilities:** 
 - **Advanced tool-use capabilities in agentic systems:** 
 
-🖋️ [**Google Scholar**](https://scholar.google.com/citations?user=PIQxhfMAAAAJ&hl=en)  
-📫 Contact: *jliufv@connect.ust.hk*  
-😄 Pronouns: *He/Him*
+Here is my [**google Scholar**](https://scholar.google.com/citations?user=PIQxhfMAAAAJ&hl=en)  
+📫 Contact: *jliufv@connect.ust.hk*
 
 ---
 
@@ -105,5 +102,13 @@ MO Yunxiang\*, Tianshi Zheng\*, Qing Zong, **Jiayu Liu**, Baixuan Xu, Yauwai Yim
 - **[2025/5]** Reviewer of *IJCAI 2025*
   **[2024/6]** HKUST PMP group mentor
 - **[2024/2]** IT Secretary of Chinese Folks and Arts Society, HKUST
+
+---
+
+## Misc
+
+
+💞️ I’m passionate about playing [piano](https://youtu.be/5r_Y9tE_fbo?si=Rnv-_KuOYPt7_rPF), [violin](https://youtu.be/-ohoA3pO9Ks?si=8ZsqIn7GO0pp31UR), football, and working out in the gym.
+
 - **[2023/9]** Hong Kong University of Science and Technology Mainland Students Football Team
 - **[2022/3]** Guangdong Experimental High School Football Team
