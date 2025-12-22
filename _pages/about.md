@@ -11,8 +11,6 @@ redirect_from:
 👋 **Welcome to my homepage!** 🥂  
 I’m **Jiayu LIU 刘家毓**, a junior undergraduate CS student supervised by [Prof. Yangqiu Song](https://www.cse.ust.hk/~yqsong/) and [Prof. Yiren Fung](https://mayrfung.github.io/) at [HKUST](https://hkust.edu.hk/).
 
----
-
 Currently, I am focusing on:
 
 - **Evaluating and enhancing LLM reasoning capabilities:** Pinpointing the crucial flaws in LLM reasoning and training diverse-thinking reasoning models
