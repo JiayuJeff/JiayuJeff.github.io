@@ -103,6 +103,7 @@ MO Yunxiang\*, Tianshi Zheng\*, Qing Zong, **Jiayu Liu**, Baixuan Xu, Yauwai Yim
 
 - **[2025/6]** HKUST COMP and CPEG Mentor 2024/25
 - **[2025/5]** Reviewer of *IJCAI 2025*
+  **[2024/6]** HKUST PMP group mentor
 - **[2024/2]** IT Secretary of Chinese Folks and Arts Society, HKUST
 - **[2023/9]** Hong Kong University of Science and Technology Mainland Students Football Team
 - **[2022/3]** Guangdong Experimental High School Football Team
