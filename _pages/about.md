@@ -11,8 +11,8 @@ redirect_from:
 👋 **Welcome to my homepage!** 🥂  
 I’m **Jiayu LIU 刘家毓**, a junior undergraduate CS student supervised by [Prof. Yangqiu Song](https://www.cse.ust.hk/~yqsong/) and [Prof. Yiren Fung](https://mayrfung.github.io/) at [HKUST](https://hkust.edu.hk/). Currently, I am focusing on:
 
-- **Evaluating and enhancing LLM reasoning capabilities:** Pinpointing the crucial flaws in LLM reasoning and training diverse-thinking reasoning models
 - **Advanced tool-use capabilities in agentic systems:** Building high-performing, cost-effective agents
+- **Evaluating and enhancing LLM reasoning capabilities:** Pinpointing the crucial flaws in LLM reasoning and training diverse-thinking reasoning models
 - **Improving LLM trustworthiness:** Analyzing LLM confidence elicitation patterns and training well-calibrated LLMs, especially in knowledge enhanced scenarios
 
 Here is my [google Scholar](https://scholar.google.com/citations?user=PIQxhfMAAAAJ&hl=en)  
@@ -45,21 +45,11 @@ Here is my [google Scholar](https://scholar.google.com/citations?user=PIQxhfMAAA
 
 ### 🧩 Trustworthiness and Reliability
 
-**Revisiting Epistemic Markers in Confidence Estimation: Can Markers Accurately Reflect Large Language Models' Uncertainty?**  
-**Jiayu Liu**, Qing Zong, Weiqi Wang, Yangqiu Song  
-*ACL 2025 Main* [[arxiv]](https://arxiv.org/abs/2505.24778) [[code]](https://github.com/HKUST-KnowComp/MarConf)
+### 🧰 Tool Use
 
-**GProofT: A Multi-dimension Multi-round Fact Checking Framework Based on Claim Fact Extraction**  
-**Jiayu Liu\***, Junhao Tang\*, Hanwen Wang\*, Baixuan Xu, Haochen Shi, Weiqi Wang, Yangqiu Song  
-*Proceedings of the Seventh Fact Extraction and VERification Workshop (FEVER)* [[aclanthology]](https://aclanthology.org/2024.fever-1.14/) [[code]](https://github.com/HKUST-KnowComp/GProofT)
-
-**Prospect Theory Fails for LLMs: Revealing Instability of Decision-Making under Epistemic Uncertainty**  
-Rui Wang\*, Qihan Lin\*, **Jiayu Liu\***, Qing Zong, Tianshi Zheng, Weiqi Wang, Yangqiu Song  
-*Under review in ACL Rolling Review* [[arxiv]](https://arxiv.org/abs/2508.08992) [[code]](https://github.com/HKUST-KnowComp/MarPT)
-
-**CritiCal: Can Critique Help LLM Uncertainty or Confidence Calibration?**  
-Qing Zong, **Jiayu Liu**, Tianshi Zheng, Chunyang Li, Baixuan Xu, Haochen Shi, Weiqi Wang, Zhaowei Wang, Chunkit Chan, Yangqiu Song  
-*Under review in ACL Rolling Review* [[arxiv]](https://arxiv.org/abs/2510.24505) [[code]](https://github.com/HKUST-KnowComp/Critical)
+**CostBench: Evaluating Multi-Turn Cost-Optimal Planning and Adaptation in Dynamic Environments for LLM Agents**  
+**Jiayu Liu**, Cheng Qian, Zhaochen Su, Qing Zong, Shijue Huang, Bingxiang He, Yi R. Fung  
+*Under review in ACL Rolling Review* [[arxiv]](https://arxiv.org/pdf/2511.02734v1) [[huggingface daily papers]](https://huggingface.co/papers/2511.02734) [[code]](https://github.com/JiayuJeff/CostBench)
 
 ---
 
@@ -75,11 +65,21 @@ Dadi Guo\*, **Jiayu Liu\***, Zhiyuan Fan, Zhitao He, Haoran Li, Yumeng Wang, Yi 
 
 ---
 
-### 🧰 Tool Use
+**Revisiting Epistemic Markers in Confidence Estimation: Can Markers Accurately Reflect Large Language Models' Uncertainty?**  
+**Jiayu Liu**, Qing Zong, Weiqi Wang, Yangqiu Song  
+*ACL 2025 Main* [[arxiv]](https://arxiv.org/abs/2505.24778) [[code]](https://github.com/HKUST-KnowComp/MarConf)
 
-**CostBench: Evaluating Multi-Turn Cost-Optimal Planning and Adaptation in Dynamic Environments for LLM Agents**  
-**Jiayu Liu**, Cheng Qian, Zhaochen Su, Qing Zong, Shijue Huang, Bingxiang He, Yi R. Fung  
-*Under review in ACL Rolling Review* [[arxiv]](https://arxiv.org/pdf/2511.02734v1) [[huggingface daily papers]](https://huggingface.co/papers/2511.02734) [[code]](https://github.com/JiayuJeff/CostBench)
+**GProofT: A Multi-dimension Multi-round Fact Checking Framework Based on Claim Fact Extraction**  
+**Jiayu Liu\***, Junhao Tang\*, Hanwen Wang\*, Baixuan Xu, Haochen Shi, Weiqi Wang, Yangqiu Song  
+*Proceedings of the Seventh Fact Extraction and VERification Workshop (FEVER)* [[aclanthology]](https://aclanthology.org/2024.fever-1.14/) [[code]](https://github.com/HKUST-KnowComp/GProofT)
+
+**Prospect Theory Fails for LLMs: Revealing Instability of Decision-Making under Epistemic Uncertainty**  
+Rui Wang\*, Qihan Lin\*, **Jiayu Liu\***, Qing Zong, Tianshi Zheng, Weiqi Wang, Yangqiu Song  
+*Under review in ACL Rolling Review* [[arxiv]](https://arxiv.org/abs/2508.08992) [[code]](https://github.com/HKUST-KnowComp/MarPT)
+
+**CritiCal: Can Critique Help LLM Uncertainty or Confidence Calibration?**  
+Qing Zong, **Jiayu Liu**, Tianshi Zheng, Chunyang Li, Baixuan Xu, Haochen Shi, Weiqi Wang, Zhaowei Wang, Chunkit Chan, Yangqiu Song  
+*Under review in ACL Rolling Review* [[arxiv]](https://arxiv.org/abs/2510.24505) [[code]](https://github.com/HKUST-KnowComp/Critical)
 
 ---
 
