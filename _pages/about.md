@@ -64,39 +64,39 @@ I’m **Jiayu LIU 刘家毓**, a third-year undergraduate CS student supervised 
 
 **Revisiting Epistemic Markers in Confidence Estimation: Can Markers Accurately Reflect Large Language Models' Uncertainty?**  
 **Jiayu Liu**, Qing Zong, Weiqi Wang, Yangqiu Song  
-*ACL 2025 Main* [arxiv](https://arxiv.org/abs/2505.24778) [code](https://github.com/HKUST-KnowComp/MarConf)
+*ACL 2025 Main* [[arxiv]](https://arxiv.org/abs/2505.24778) [[code]](https://github.com/HKUST-KnowComp/MarConf)
 
 **GProofT: A Multi-dimension Multi-round Fact Checking Framework Based on Claim Fact Extraction**  
 **Jiayu Liu\***, Junhao Tang\*, Hanwen Wang\*, Baixuan Xu, Haochen Shi, Weiqi Wang, Yangqiu Song  
-*Proceedings of the Seventh Fact Extraction and VERification Workshop (FEVER)* [aclanthology](https://aclanthology.org/2024.fever-1.14/) [code](https://github.com/HKUST-KnowComp/GProofT)
+*Proceedings of the Seventh Fact Extraction and VERification Workshop (FEVER)* [[aclanthology]](https://aclanthology.org/2024.fever-1.14/) [[code]](https://github.com/HKUST-KnowComp/GProofT)
 
 **Prospect Theory Fails for LLMs: Revealing Instability of Decision-Making under Epistemic Uncertainty**  
 Rui Wang\*, Qihan Lin\*, **Jiayu Liu\***, Qing Zong, Tianshi Zheng, Weiqi Wang, Yangqiu Song  
-*Under review in ACL Rolling Review* [arxiv](https://arxiv.org/abs/2508.08992) [code](https://github.com/HKUST-KnowComp/MarPT)
+*Under review in ACL Rolling Review* [[arxiv]](https://arxiv.org/abs/2508.08992) [[code]](https://github.com/HKUST-KnowComp/MarPT)
 
-**[CritiCal: Can Critique Help LLM Uncertainty or Confidence Calibration?](https://arxiv.org/abs/2510.24505)**  
+**CritiCal: Can Critique Help LLM Uncertainty or Confidence Calibration?**  
 Qing Zong, **Jiayu Liu**, Tianshi Zheng, Chunyang Li, Baixuan Xu, Haochen Shi, Weiqi Wang, Zhaowei Wang, Chunkit Chan, Yangqiu Song  
-*Under review in ACL Rolling Review* [arxiv](https://arxiv.org/abs/2510.24505) [code](https://github.com/HKUST-KnowComp/Critical)
+*Under review in ACL Rolling Review* [[arxiv]](https://arxiv.org/abs/2510.24505) [[code]](https://github.com/HKUST-KnowComp/Critical)
 
 ---
 
 ### 🧠 Advanced Reasoning
 
-**[Diversity-Enhanced Reasoning for Subjective Questions](https://www.arxiv.org/pdf/2507.20187)**  
+**Diversity-Enhanced Reasoning for Subjective Questions**  
 Yumeng Wang\*, Zhiyuan Fan\*, **Jiayu Liu\***, Jen-tse Huang, Yi R. Fung  
-*Under review in ICLR 2026* [arxiv](https://arxiv.org/abs/2507.20187) [code](https://github.com/toward-agi/diverse-o1)
+*Under review in ICLR 2026* [[arxiv]](https://arxiv.org/abs/2507.20187) [[code]](https://github.com/toward-agi/diverse-o1)
 
-**[Mathematical Proof as a Litmus Test: Revealing Failure Modes of Advanced Large Reasoning Models](https://arxiv.org/pdf/2506.17114)**  
+**Mathematical Proof as a Litmus Test: Revealing Failure Modes of Advanced Large Reasoning Models**  
 Dadi Guo\*, **Jiayu Liu\***, Zhiyuan Fan, Zhitao He, Haoran Li, Yumeng Wang, Yi R. Fung  
-*MathNLP 2025, under review in ACL Rolling Review* [arxiv](https://arxiv.org/pdf/2506.17114) [code](https://github.com/guodadi/RFMDataset)
+*MathNLP 2025, under review in ACL Rolling Review* [[arxiv]](https://arxiv.org/pdf/2506.17114) [[code]](https://github.com/guodadi/RFMDataset)
 
 ---
 
 ### 🧰 Tool Use
 
-**[CostBench: Evaluating Multi-Turn Cost-Optimal Planning and Adaptation in Dynamic Environments for LLM Agents](https://arxiv.org/abs/2511.02734)**  
+**CostBench: Evaluating Multi-Turn Cost-Optimal Planning and Adaptation in Dynamic Environments for LLM Agents**  
 **Jiayu Liu**, Cheng Qian, Zhaochen Su, Qing Zong, Shijue Huang, Bingxiang He, Yi R. Fung  
-*Under review in ACL Rolling Review* [arxiv](https://arxiv.org/pdf/2511.02734v1) [code](https://github.com/JiayuJeff/CostBench)
+*Under review in ACL Rolling Review* [[arxiv]](https://arxiv.org/pdf/2511.02734v1) [[code]](https://github.com/JiayuJeff/CostBench)
 
 ---
 
@@ -104,7 +104,7 @@ Dadi Guo\*, **Jiayu Liu\***, Zhiyuan Fan, Zhitao He, Haoran Li, Yumeng Wang, Yi 
 
 **VLM-Dixit: Investigating Multi-Modal Abductive Reasoning and Entailment Verification with VLMs in Dixit Gameplay**  
 MO Yunxiang\*, Tianshi Zheng\*, Qing Zong, **Jiayu Liu**, Baixuan Xu, Yauwai Yim, Chunkit Chan, Jiaxin Bai, Yangqiu Song  
-[*The 5th Wordplay: When Language Meets Games @ EMNLP 2025*](https://openreview.net/group?id=EMNLP/2025/Workshop/Wordplay/Authors&referrer=%5BHomepage%5D(%2F))
+*The 5th Wordplay: When Language Meets Games @ EMNLP 2025* [(arxiv)](https://arxiv.org/abs/2510.10117) [(code)]()
 
 ---
 
