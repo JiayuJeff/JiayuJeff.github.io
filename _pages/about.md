@@ -43,8 +43,6 @@ Here is my [google Scholar](https://scholar.google.com/citations?user=PIQxhfMAAA
 
 ## 📖 Publications
 
-### 🧩 Trustworthiness and Reliability
-
 ### 🧰 Tool Use
 
 **CostBench: Evaluating Multi-Turn Cost-Optimal Planning and Adaptation in Dynamic Environments for LLM Agents**  
@@ -64,6 +62,8 @@ Dadi Guo\*, **Jiayu Liu\***, Zhiyuan Fan, Zhitao He, Haoran Li, Yumeng Wang, Yi 
 *MathNLP 2025, under review in ACL Rolling Review* [[arxiv]](https://arxiv.org/pdf/2506.17114) [[code]](https://github.com/guodadi/RFMDataset)
 
 ---
+
+### 🧩 Trustworthiness and Reliability
 
 **Revisiting Epistemic Markers in Confidence Estimation: Can Markers Accurately Reflect Large Language Models' Uncertainty?**  
 **Jiayu Liu**, Qing Zong, Weiqi Wang, Yangqiu Song  
