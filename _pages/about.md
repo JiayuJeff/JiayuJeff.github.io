@@ -40,7 +40,7 @@ I’m **Jiayu LIU 刘家毓**, a third-year undergraduate CS student supervised 
 
 - **[2025/11]** Released [*CostBench: Evaluating Multi-Turn Cost-Optimal Planning and Adaptation in Dynamic Environments for LLM Tool-Use Agents*](https://huggingface.co/papers/2511.02734), which got **20 upvotes** and ranked **#4** in [Hugging Face Daily Papers (November 6th)](https://huggingface.co/papers/date/2025-11-06)!
 - **[2025/8]** Honored to receive the **UROP Support Grant** and **UROP Research Travel Sponsorship**!  
-- **[2025/7]** Released [*Diversity-Enhanced Subjective Question-Answering*](https://huggingface.co/papers/2507.20187), which got **22 upvotes** and ranked **#8** in [Hugging Face Daily Papers (July 29th)](https://huggingface.co/papers/date/2025-07-29)!  
+- **[2025/7]** Released [*Diversity-Enhanced Subjective Question-Answering*](https://huggingface.co/papers/2507.20187), which got **25 upvotes** and ranked **#8** in [Hugging Face Daily Papers (July 29th)](https://huggingface.co/papers/date/2025-07-29)!  
 - **[2025/7]** Will join [University of Illinois Urbana-Champaign](https://illinois.edu/) as an **exchange undergraduate student in Spring 2026**!  
   **Actively seeking research internship opportunities!**  
 - **[2025/5]** My first-author paper [*Revisiting Epistemic Markers in Confidence Estimation*](https://arxiv.org/abs/2505.24778) is **accepted to [ACL 2025 Main](https://2025.aclweb.org/)!**  
@@ -84,7 +84,7 @@ Qing Zong, **Jiayu Liu**, Tianshi Zheng, Chunyang Li, Baixuan Xu, Haochen Shi, W
 
 **Diversity-Enhanced Reasoning for Subjective Questions**  
 Yumeng Wang\*, Zhiyuan Fan\*, **Jiayu Liu\***, Jen-tse Huang, Yi R. Fung  
-*Under review in ICLR 2026* [[arxiv]](https://arxiv.org/abs/2507.20187) [[code]](https://github.com/toward-agi/diverse-o1)
+*Under review in ICLR 2026* [[arxiv]](https://arxiv.org/abs/2507.20187) [[huggingface daily papers]](https://huggingface.co/papers/2507.20187) [[code]](https://github.com/toward-agi/diverse-o1)
 
 **Mathematical Proof as a Litmus Test: Revealing Failure Modes of Advanced Large Reasoning Models**  
 Dadi Guo\*, **Jiayu Liu\***, Zhiyuan Fan, Zhitao He, Haoran Li, Yumeng Wang, Yi R. Fung  
@@ -96,7 +96,7 @@ Dadi Guo\*, **Jiayu Liu\***, Zhiyuan Fan, Zhitao He, Haoran Li, Yumeng Wang, Yi 
 
 **CostBench: Evaluating Multi-Turn Cost-Optimal Planning and Adaptation in Dynamic Environments for LLM Agents**  
 **Jiayu Liu**, Cheng Qian, Zhaochen Su, Qing Zong, Shijue Huang, Bingxiang He, Yi R. Fung  
-*Under review in ACL Rolling Review* [[arxiv]](https://arxiv.org/pdf/2511.02734v1) [[code]](https://github.com/JiayuJeff/CostBench)
+*Under review in ACL Rolling Review* [[arxiv]](https://arxiv.org/pdf/2511.02734v1) [[huggingface daily papers]](https://huggingface.co/papers/2511.02734) [[code]](https://github.com/JiayuJeff/CostBench)
 
 ---
 
@@ -104,7 +104,7 @@ Dadi Guo\*, **Jiayu Liu\***, Zhiyuan Fan, Zhitao He, Haoran Li, Yumeng Wang, Yi 
 
 **VLM-Dixit: Investigating Multi-Modal Abductive Reasoning and Entailment Verification with VLMs in Dixit Gameplay**  
 MO Yunxiang\*, Tianshi Zheng\*, Qing Zong, **Jiayu Liu**, Baixuan Xu, Yauwai Yim, Chunkit Chan, Jiaxin Bai, Yangqiu Song  
-*The 5th Wordplay: When Language Meets Games @ EMNLP 2025* [(arxiv)](https://arxiv.org/abs/2510.10117) [(code)]()
+*The 5th Wordplay: When Language Meets Games @ EMNLP 2025* [[arxiv]](https://arxiv.org/abs/2510.10117) [[code]](https://github.com/HKUST-KnowComp/DixitWorld)
 
 ---
 
