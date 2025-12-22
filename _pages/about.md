@@ -103,8 +103,9 @@ MO Yunxiang\*, Tianshi Zheng\*, Qing Zong, **Jiayu Liu**, Baixuan Xu, Yauwai Yim
 
 ## Misc
 
+In my spare time, I’m passionate about music and sports. I play the piano and violin, and I also enjoy singing and sharing my performances on social media. For sports, football is my absolute favorite—I’m a member of both the HKUST Mainland Students Football Team and the Guangdong Experimental High School Football Team, and I truly cherish the memories and friendships from those times.
 
-💞️ I’m passionate about playing [piano](https://youtu.be/5r_Y9tE_fbo?si=Rnv-_KuOYPt7_rPF), [violin](https://youtu.be/-ohoA3pO9Ks?si=8ZsqIn7GO0pp31UR), football, and working out in the gym.
-
-- **[2023/9]** Hong Kong University of Science and Technology Mainland Students Football Team
-- **[2022/3]** Guangdong Experimental High School Football Team
+Feel free to check out some of my music:
+- Me playing Chopin's Fantaisie-Impromptu: [Youtube](https://youtu.be/5r_Y9tE_fbo?si=Rnv-_KuOYPt7_rPF)
+- Me playing a Chinese ballad called *Why are the Flowers So Red*: [Youtube](https://youtu.be/-ohoA3pO9Ks?si=8ZsqIn7GO0pp31UR)
+- My singing social platform link: [WeSing (全民k歌)](https://static-play.kg.qq.com/node/personal_v2?uid=6a9f9483252b3f8a3c&shareUid=6a9f9483252b3f8a3c&chain_share_id=12cDdiw3bQNxKeGru7pNO5KrOoI0EhK6_zgdH0wyvu0&pageId=homepage_me)
