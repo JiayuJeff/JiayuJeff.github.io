@@ -22,21 +22,18 @@ Here is my [google Scholar](https://scholar.google.com/citations?user=PIQxhfMAAA
 
 ## 🔥 News
 
+- **[2025/12]** Honored to join UIUC [BLENDER Lab](https://blender.cs.illinois.edu/index.html) as a undergraduate research intern! Looking forward to learning from [Prof. Heng Ji](https://blender.cs.illinois.edu/hengji.html)!  
 - **[2025/11]** Released [*CostBench: Evaluating Multi-Turn Cost-Optimal Planning and Adaptation in Dynamic Environments for LLM Tool-Use Agents*](https://huggingface.co/papers/2511.02734), which got **20 upvotes** and ranked **#4** in [Hugging Face Daily Papers (November 6th)](https://huggingface.co/papers/date/2025-11-06)!
 - **[2025/8]** Honored to receive the **UROP Support Grant** and **UROP Research Travel Sponsorship**!  
 - **[2025/7]** Released [*Diversity-Enhanced Subjective Question-Answering*](https://huggingface.co/papers/2507.20187), which got **25 upvotes** and ranked **#8** in [Hugging Face Daily Papers (July 29th)](https://huggingface.co/papers/date/2025-07-29)!  
-- **[2025/7]** Will join [University of Illinois Urbana-Champaign](https://illinois.edu/) as an **exchange undergraduate student in Spring 2026**! Actively seeking research internship opportunities!
-- **[2025/5]** My first-author paper [*Revisiting Epistemic Markers in Confidence Estimation*](https://arxiv.org/abs/2505.24778) is **accepted to [ACL 2025 Main](https://2025.aclweb.org/)!**  
-  Sincere gratitude to all my collaborators!  
-- **[2025/2]** Honored to join HKUST [RenAI Lab](https://mayrfung.github.io/group/)!  
-  Looking forward to learning from [Prof. Fung Yiren](https://mayrfung.github.io/)!  
+- **[2025/7]** Will join [University of Illinois Urbana-Champaign](https://illinois.edu/) as an **exchange undergraduate student in Spring 2026**! 
+- **[2025/5]** My first-author paper [*Revisiting Epistemic Markers in Confidence Estimation*](https://arxiv.org/abs/2505.24778) is **accepted to [ACL 2025 Main](https://2025.aclweb.org/)!** Sincere gratitude to all my collaborators!
+- **[2025/2]** Honored to join HKUST [RenAI Lab](https://mayrfung.github.io/group/) as a undergraduate research intern! Looking forward to learning from [Prof. Yiren Fung](https://mayrfung.github.io/)!  
 - **[2025/1]** Honored to receive **HKIE Scholarship 2024/25!**  
 - **[2024/10]** My co-first-author paper [*GProofT*](https://aclanthology.org/2024.fever-1.14/) is accepted by [**The Seventh FEVER Workshop**](https://fever.ai/2024/workshop.html)!  
 - **[2024/9]** Honored to receive **The Joseph Lau Luen Hung Charitable Trust Scholarship 2024/25!**  
-- **[2024/6]** Traveled to [Charles University](https://cuni.cz/UKEN-1.html) in Prague for summer exchange!  
-  Wonderful experience — loved everything there 🥰  
-- **[2024/6]** Honored to join HKUST [KnowComp Group](https://github.com/HKUST-KnowComp)!  
-  Looking forward to learning from [Prof. Song Yangqiu](https://www.cse.ust.hk/~yqsong/)!  
+- **[2024/6]** Traveled to [Charles University](https://cuni.cz/UKEN-1.html) in Prague for summer exchange! Wonderful experience — loved everything there 🥰  
+- **[2024/6]** Honored to join HKUST [KnowComp Group](https://github.com/HKUST-KnowComp) as a undergraduate research intern! Looking forward to learning from [Prof. Yangqiu Song](https://www.cse.ust.hk/~yqsong/)!  
 - **[2023/9]** Honored to receive **China Soong Ching Ling Foundation Zhiyuan Bursary!**
 
 ---
