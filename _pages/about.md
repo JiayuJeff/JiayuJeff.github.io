@@ -48,6 +48,10 @@ Note: * denotes equal contribution.
 **Jiayu Liu**, Cheng Qian, Zhaochen Su, Qing Zong, Shijue Huang, Bingxiang He, Yi R. Fung  
 *Under review in ACL Rolling Review* [[arxiv]](https://arxiv.org/pdf/2511.02734v1) [[huggingface daily papers]](https://huggingface.co/papers/2511.02734) [[code]](https://github.com/JiayuJeff/CostBench)
 
+**PACE: A Factor-Guided Coarse-to-Fine Agentic Framework for Long-Video Understanding**
+Baixuan Xu, Yinyui XU, Tianshi Zheng, Zhaowei Wang, Weiqi Wang, Wei Fan, Haochen Shi, **Jiayu Liu**, Qing Zong, Xiyu REN, Xinyu Geng, Zhitao He, Yangqiu Song
+*Under review in ACL Rolling Review*
+
 ---
 
 ### 🧠 Advanced Reasoning
@@ -59,6 +63,14 @@ Yumeng Wang\*, Zhiyuan Fan\*, **Jiayu Liu\***, Jen-tse Huang, Yi R. Fung
 **Mathematical Proof as a Litmus Test: Revealing Failure Modes of Advanced Large Reasoning Models**  
 Dadi Guo\*, **Jiayu Liu\***, Zhiyuan Fan, Zhitao He, Haoran Li, Yumeng Wang, Yi R. Fung  
 *MathNLP 2025, under review in ACL Rolling Review* [[arxiv]](https://arxiv.org/pdf/2506.17114) [[code]](https://github.com/guodadi/RFMDataset)
+
+**VLM-Dixit: Investigating Multi-Modal Abductive Reasoning and Entailment Verification with VLMs in Dixit Gameplay**  
+MO Yunxiang\*, Tianshi Zheng\*, Qing Zong, **Jiayu Liu**, Baixuan Xu, Yauwai Yim, Chunkit Chan, Jiaxin Bai, Yangqiu Song  
+*The 5th Wordplay: When Language Meets Games @ EMNLP 2025* [[arxiv]](https://arxiv.org/abs/2510.10117) [[code]](https://github.com/HKUST-KnowComp/DixitWorld)
+
+**Rethinking Reinforcement Learning from Intrinsic Feedback for LLM Reasoning: Data Insensitivity and Limited Generalization**
+Qingcheng Zeng, Heli Qi, Yutong Yin, Jiarui Liu, Zeqi Zhou, **Jiayu Liu**, Weihao Xuan, Rob Voigt, Zhaoran Wang, Naoto Yokoya
+*Under review in ACL Rolling Review*
 
 ---
 
@@ -72,6 +84,10 @@ Dadi Guo\*, **Jiayu Liu\***, Zhiyuan Fan, Zhitao He, Haoran Li, Yumeng Wang, Yi 
 **Jiayu Liu\***, Junhao Tang\*, Hanwen Wang\*, Baixuan Xu, Haochen Shi, Weiqi Wang, Yangqiu Song  
 *Proceedings of the Seventh Fact Extraction and VERification Workshop (FEVER)* [[aclanthology]](https://aclanthology.org/2024.fever-1.14/) [[code]](https://github.com/HKUST-KnowComp/GProofT)
 
+**NAACL: Noise-AwAre Verbal Confidence Calibration for LLMs in RAG Systems**
+**Jiayu Liu\***, Rui Wang\*, Qing Zong, Qingcheng Zeng, Tianshi Zheng, Haochen Shi, Dadi Guo, Baixuan Xu, Chunyang Li, Yangqiu Song
+*Under review in ACL Rolling Review*
+
 **Prospect Theory Fails for LLMs: Revealing Instability of Decision-Making under Epistemic Uncertainty**  
 Rui Wang\*, Qihan Lin\*, **Jiayu Liu\***, Qing Zong, Tianshi Zheng, Weiqi Wang, Yangqiu Song  
 *Under review in ACL Rolling Review* [[arxiv]](https://arxiv.org/abs/2508.08992) [[code]](https://github.com/HKUST-KnowComp/MarPT)
@@ -79,14 +95,6 @@ Rui Wang\*, Qihan Lin\*, **Jiayu Liu\***, Qing Zong, Tianshi Zheng, Weiqi Wang, 
 **CritiCal: Can Critique Help LLM Uncertainty or Confidence Calibration?**  
 Qing Zong, **Jiayu Liu**, Tianshi Zheng, Chunyang Li, Baixuan Xu, Haochen Shi, Weiqi Wang, Zhaowei Wang, Chunkit Chan, Yangqiu Song  
 *Under review in ACL Rolling Review* [[arxiv]](https://arxiv.org/abs/2510.24505) [[code]](https://github.com/HKUST-KnowComp/Critical)
-
----
-
-### 🤝 Collaboration
-
-**VLM-Dixit: Investigating Multi-Modal Abductive Reasoning and Entailment Verification with VLMs in Dixit Gameplay**  
-MO Yunxiang\*, Tianshi Zheng\*, Qing Zong, **Jiayu Liu**, Baixuan Xu, Yauwai Yim, Chunkit Chan, Jiaxin Bai, Yangqiu Song  
-*The 5th Wordplay: When Language Meets Games @ EMNLP 2025* [[arxiv]](https://arxiv.org/abs/2510.10117) [[code]](https://github.com/HKUST-KnowComp/DixitWorld)
 
 ---
 
