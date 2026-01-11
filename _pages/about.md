@@ -48,8 +48,8 @@ Note: * denotes equal contribution.
 **Jiayu Liu**, Cheng Qian, Zhaochen Su, Qing Zong, Shijue Huang, Bingxiang He, Yi R. Fung  
 *Under review in ACL Rolling Review* [[arxiv]](https://arxiv.org/pdf/2511.02734v1) [[huggingface daily papers]](https://huggingface.co/papers/2511.02734) [[code]](https://github.com/JiayuJeff/CostBench)
 
-**PACE: A Factor-Guided Coarse-to-Fine Agentic Framework for Long-Video Understanding**
-Baixuan Xu, Yinyui XU, Tianshi Zheng, Zhaowei Wang, Weiqi Wang, Wei Fan, Haochen Shi, **Jiayu Liu**, Qing Zong, Xiyu REN, Xinyu Geng, Zhitao He, Yangqiu Song
+**PACE: A Factor-Guided Coarse-to-Fine Agentic Framework for Long-Video Understanding**  
+Baixuan Xu, Yinyui XU, Tianshi Zheng, Zhaowei Wang, Weiqi Wang, Wei Fan, Haochen Shi, **Jiayu Liu**, Qing Zong, Xiyu REN, Xinyu Geng, Zhitao He, Yangqiu Song  
 *Under review in ACL Rolling Review*
 
 ---
