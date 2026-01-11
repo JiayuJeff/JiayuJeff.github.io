@@ -68,8 +68,8 @@ Dadi Guo\*, **Jiayu Liu\***, Zhiyuan Fan, Zhitao He, Haoran Li, Yumeng Wang, Yi 
 MO Yunxiang\*, Tianshi Zheng\*, Qing Zong, **Jiayu Liu**, Baixuan Xu, Yauwai Yim, Chunkit Chan, Jiaxin Bai, Yangqiu Song  
 *The 5th Wordplay: When Language Meets Games @ EMNLP 2025* [[arxiv]](https://arxiv.org/abs/2510.10117) [[code]](https://github.com/HKUST-KnowComp/DixitWorld)
 
-**Rethinking Reinforcement Learning from Intrinsic Feedback for LLM Reasoning: Data Insensitivity and Limited Generalization**
-Qingcheng Zeng, Heli Qi, Yutong Yin, Jiarui Liu, Zeqi Zhou, **Jiayu Liu**, Weihao Xuan, Rob Voigt, Zhaoran Wang, Naoto Yokoya
+**Rethinking Reinforcement Learning from Intrinsic Feedback for LLM Reasoning: Data Insensitivity and Limited Generalization**  
+Qingcheng Zeng, Heli Qi, Yutong Yin, Jiarui Liu, Zeqi Zhou, **Jiayu Liu**, Weihao Xuan, Rob Voigt, Zhaoran Wang, Naoto Yokoya  
 *Under review in ACL Rolling Review*
 
 ---
@@ -84,8 +84,8 @@ Qingcheng Zeng, Heli Qi, Yutong Yin, Jiarui Liu, Zeqi Zhou, **Jiayu Liu**, Weiha
 **Jiayu Liu\***, Junhao Tang\*, Hanwen Wang\*, Baixuan Xu, Haochen Shi, Weiqi Wang, Yangqiu Song  
 *Proceedings of the Seventh Fact Extraction and VERification Workshop (FEVER)* [[aclanthology]](https://aclanthology.org/2024.fever-1.14/) [[code]](https://github.com/HKUST-KnowComp/GProofT)
 
-**NAACL: Noise-AwAre Verbal Confidence Calibration for LLMs in RAG Systems**
-**Jiayu Liu\***, Rui Wang\*, Qing Zong, Qingcheng Zeng, Tianshi Zheng, Haochen Shi, Dadi Guo, Baixuan Xu, Chunyang Li, Yangqiu Song
+**NAACL: Noise-AwAre Verbal Confidence Calibration for LLMs in RAG Systems**  
+**Jiayu Liu\***, Rui Wang\*, Qing Zong, Qingcheng Zeng, Tianshi Zheng, Haochen Shi, Dadi Guo, Baixuan Xu, Chunyang Li, Yangqiu Song  
 *Under review in ACL Rolling Review*
 
 **Prospect Theory Fails for LLMs: Revealing Instability of Decision-Making under Epistemic Uncertainty**  
