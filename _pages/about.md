@@ -86,7 +86,7 @@ Qingcheng Zeng, Heli Qi, Yutong Yin, Jiarui Liu, Zeqi Zhou, **Jiayu Liu**, Weiha
 
 **NAACL: Noise-AwAre Verbal Confidence Calibration for LLMs in RAG Systems**  
 **Jiayu Liu\***, Rui Wang\*, Qing Zong, Qingcheng Zeng, Tianshi Zheng, Haochen Shi, Dadi Guo, Baixuan Xu, Chunyang Li, Yangqiu Song  
-*Under review in ACL Rolling Review*
+*Under review in ACL Rolling Review* [[arxiv]](https://arxiv.org/pdf/2601.11004) [[code]](https://github.com/HKUST-KnowComp/NAACL)
 
 **Prospect Theory Fails for LLMs: Revealing Instability of Decision-Making under Epistemic Uncertainty**  
 Rui Wang\*, Qihan Lin\*, **Jiayu Liu\***, Qing Zong, Tianshi Zheng, Weiqi Wang, Yangqiu Song  
