@@ -78,7 +78,7 @@ Qingcheng Zeng, Heli Qi, Yutong Yin, Jiarui Liu, Zeqi Zhou, **Jiayu Liu**, Weiha
 
 **Revisiting Epistemic Markers in Confidence Estimation: Can Markers Accurately Reflect Large Language Models' Uncertainty?**  
 **Jiayu Liu**, Qing Zong, Weiqi Wang, Yangqiu Song  
-*ACL 2025 Main* [[arxiv]](https://arxiv.org/abs/2505.24778) [[code]](https://github.com/HKUST-KnowComp/MarConf)
+*ACL 2025 Main* [[aclanthology]](https://aclanthology.org/2025.acl-short.18/) [[arxiv]](https://arxiv.org/abs/2505.24778) [[code]](https://github.com/HKUST-KnowComp/MarConf)
 
 **GProofT: A Multi-dimension Multi-round Fact Checking Framework Based on Claim Fact Extraction**  
 **Jiayu Liu\***, Junhao Tang\*, Hanwen Wang\*, Baixuan Xu, Haochen Shi, Weiqi Wang, Yangqiu Song  
