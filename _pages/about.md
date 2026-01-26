@@ -22,6 +22,7 @@ Here is my [google Scholar](https://scholar.google.com/citations?user=PIQxhfMAAA
 
 ## 🔥 News
 
+- **[2026/1]** My co-first-author paper [*Diversity-Enhanced Reasoning for Subjective Questions*](https://openreview.net/forum?id=1Bf0tToGT1) is accepted by [**ICLR 2026**](https://iclr.cc/)!
 - **[2026/1]** Released [*NAACL: Noise-AwAre Verbal Confidence Calibration for LLMs in RAG Systems*](https://huggingface.co/papers/2601.11004), which got **29 upvotes** and ranked **#3** in [Hugging Face Daily Papers (January 20th)](https://huggingface.co/papers/date/2026-01-20)! 
 - **[2025/12]** Honored to join UIUC [BLENDER Lab](https://blender.cs.illinois.edu/index.html) as a undergraduate research intern! Looking forward to learning from [Prof. Heng Ji](https://blender.cs.illinois.edu/hengji.html)!  
 - **[2025/11]** Released [*CostBench: Evaluating Multi-Turn Cost-Optimal Planning and Adaptation in Dynamic Environments for LLM Tool-Use Agents*](https://huggingface.co/papers/2511.02734), which got **21 upvotes** and ranked **#4** in [Hugging Face Daily Papers (November 6th)](https://huggingface.co/papers/date/2025-11-06)!
@@ -59,7 +60,7 @@ Baixuan Xu, Yinyui XU, Tianshi Zheng, Zhaowei Wang, Weiqi Wang, Wei Fan, Haochen
 
 **Diversity-Enhanced Reasoning for Subjective Questions**  
 Yumeng Wang\*, Zhiyuan Fan\*, **Jiayu Liu\***, Jen-tse Huang, Yi R. Fung  
-*Under review in ICLR 2026* [[arxiv]](https://arxiv.org/abs/2507.20187) [[huggingface daily papers]](https://huggingface.co/papers/2507.20187) [[code]](https://github.com/toward-agi/diverse-o1)
+*ICLR 2026* [[arxiv]](https://arxiv.org/abs/2507.20187) [[huggingface daily papers]](https://huggingface.co/papers/2507.20187) [[code]](https://github.com/toward-agi/diverse-o1)
 
 **Mathematical Proof as a Litmus Test: Revealing Failure Modes of Advanced Large Reasoning Models**  
 Dadi Guo\*, **Jiayu Liu\***, Zhiyuan Fan, Zhitao He, Haoran Li, Yumeng Wang, Yi R. Fung  
