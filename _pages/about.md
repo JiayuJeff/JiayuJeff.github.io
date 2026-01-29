@@ -51,7 +51,7 @@ Note: * denotes equal contribution.
 *Under review in ACL Rolling Review* [[arxiv]](https://arxiv.org/pdf/2511.02734v1) [[huggingface daily papers]](https://huggingface.co/papers/2511.02734) [[code]](https://github.com/JiayuJeff/CostBench)
 
 **Code2Math: Can Your Code Agent Effectively Evolve Math Problems Through Exploration?**
-Dadi Guo*, Qingyu Liu*, Yuejin Xie, **Jiayu Liu**, Zhiyuan Fan, Qihan Ren, Shuai Shao, Tianyi Zhou, Dongrui Liu, Yi R. Fung 
+Dadi Guo\*, Qingyu Liu\*, Yuejin Xie, **Jiayu Liu**, Zhiyuan Fan, Qihan Ren, Shuai Shao, Tianyi Zhou, Dongrui Liu, Yi R. Fung 
 *Under review in ICML 2026*
 
 **PACE: A Factor-Guided Coarse-to-Fine Agentic Framework for Long-Video Understanding**  
