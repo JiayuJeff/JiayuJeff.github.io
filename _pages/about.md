@@ -15,10 +15,10 @@ I’m **Jiayu LIU 刘家毓**, a junior undergraduate CS student at [HKUST](http
 - **Evaluating and enhancing LLM reasoning capabilities:** Pinpointing the crucial flaws in LLM reasoning and training diverse-thinking reasoning models
 - **Improving LLM trustworthiness:** Analyzing LLM confidence elicitation patterns and training well-calibrated LLMs, especially in knowledge enhanced scenarios
 
+My research goal is to build LLM/agents which is both robust and creative. 
+
 Here is my [google Scholar](https://scholar.google.com/citations?user=PIQxhfMAAAAJ&hl=en)  
 📫 Contact: *jliufv@connect.ust.hk*
-
-My research goal is to build LLM/agents which is both robust and creative. 
 
 ---
 
