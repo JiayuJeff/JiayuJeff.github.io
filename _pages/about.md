@@ -127,7 +127,7 @@ My research goal is to build LLM/agents which is both robust and creative.
       <p>Analyzing LLM confidence elicitation patterns and training well-calibrated LLMs, especially in knowledge enhanced scenarios</p>
       <ol>
         <li>Investigate LLM confidence expression reliability through epistemic markers <a href="https://arxiv.org/abs/2505.24778">[MarConf]</a> and decision-making stability under uncertainty <a href="https://arxiv.org/abs/2508.08992">[MarPT]</a></li>
-        <li>Develop noise-aware confidence calibration for RAG systems <a href="https://arxiv.org/pdf/2601.11004">[NAACL]</a></li>
+        <li>Improve LLM Calibration Performance (in RAG systems <a href="https://arxiv.org/pdf/2601.11004">[NAACL]</a>, via Critique <a href="https://arxiv.org/abs/2510.24505">[CritiCAL]</a>)</li>
       </ol>
     </div>
   </div>
