@@ -18,6 +18,8 @@ I’m **Jiayu LIU 刘家毓**, a junior undergraduate CS student at [HKUST](http
 Here is my [google Scholar](https://scholar.google.com/citations?user=PIQxhfMAAAAJ&hl=en)  
 📫 Contact: *jliufv@connect.ust.hk*
 
+My research goal is to build LLM/agents which is both robust and creative. 
+
 ---
 
 ## 🔥 News
