@@ -165,20 +165,20 @@ Here is my [google Scholar](https://scholar.google.com/citations?user=PIQxhfMAAA
 </style>
 
 <div class="news-container">
-  <div class="news-item">- <strong>[2026/1]</strong> My co-first-author paper <em>Diversity-Enhanced Reasoning for Subjective Questions</em> is accepted by <strong>ICLR 2026</strong>!</div>
-  <div class="news-item">- <strong>[2026/1]</strong> Released <em>NAACL: Noise-AwAre Verbal Confidence Calibration for LLMs in RAG Systems</em>, which got <strong>30 upvotes</strong> and ranked <strong>#3</strong> in Hugging Face Daily Papers (January 20th)!</div>
-  <div class="news-item">- <strong>[2025/12]</strong> Honored to join UIUC BLENDER Lab as a undergraduate research intern! Looking forward to learning from Prof. Heng Ji!</div>
-  <div class="news-item">- <strong>[2025/11]</strong> Released <em>CostBench: Evaluating Multi-Turn Cost-Optimal Planning and Adaptation in Dynamic Environments for LLM Tool-Use Agents</em>, which got <strong>21 upvotes</strong> and ranked <strong>#4</strong> in Hugging Face Daily Papers (November 6th)!</div>
+  <div class="news-item">- <strong>[2026/1]</strong> My co-first-author paper <a href="https://openreview.net/forum?id=1Bf0tToGT1"><em>Diversity-Enhanced Reasoning for Subjective Questions</em></a> is accepted by <a href="https://iclr.cc/"><strong>ICLR 2026</strong></a>!</div>
+  <div class="news-item">- <strong>[2026/1]</strong> Released <a href="https://huggingface.co/papers/2601.11004"><em>NAACL: Noise-AwAre Verbal Confidence Calibration for LLMs in RAG Systems</em></a>, which got <strong>30 upvotes</strong> and ranked <strong>#3</strong> in <a href="https://huggingface.co/papers/date/2026-01-20">Hugging Face Daily Papers (January 20th)</a>!</div>
+  <div class="news-item">- <strong>[2025/12]</strong> Honored to join UIUC <a href="https://blender.cs.illinois.edu/index.html">BLENDER Lab</a> as a undergraduate research intern! Looking forward to learning from <a href="https://blender.cs.illinois.edu/hengji.html">Prof. Heng Ji</a>!</div>
+  <div class="news-item">- <strong>[2025/11]</strong> Released <a href="https://huggingface.co/papers/2511.02734"><em>CostBench: Evaluating Multi-Turn Cost-Optimal Planning and Adaptation in Dynamic Environments for LLM Tool-Use Agents</em></a>, which got <strong>21 upvotes</strong> and ranked <strong>#4</strong> in <a href="https://huggingface.co/papers/date/2025-11-06">Hugging Face Daily Papers (November 6th)</a>!</div>
   <div class="news-item">- <strong>[2025/8]</strong> Honored to receive the <strong>UROP Support Grant</strong> and <strong>UROP Research Travel Sponsorship</strong>!</div>
-  <div class="news-item">- <strong>[2025/7]</strong> Released <em>Diversity-Enhanced Subjective Question-Answering</em>, which got <strong>26 upvotes</strong> and ranked <strong>#8</strong> in Hugging Face Daily Papers (July 29th)!</div>
-  <div class="news-item">- <strong>[2025/7]</strong> Will join University of Illinois Urbana-Champaign as an <strong>exchange undergraduate student in Spring 2026</strong>!</div>
-  <div class="news-item">- <strong>[2025/5]</strong> My first-author paper <em>Revisiting Epistemic Markers in Confidence Estimation</em> is <strong>accepted to ACL 2025 Main!</strong> Sincere gratitude to all my collaborators!</div>
-  <div class="news-item">- <strong>[2025/2]</strong> Honored to join HKUST RenAI Lab as a undergraduate research intern! Looking forward to learning from Prof. Yiren Fung!</div>
+  <div class="news-item">- <strong>[2025/7]</strong> Released <a href="https://huggingface.co/papers/2507.20187"><em>Diversity-Enhanced Subjective Question-Answering</em></a>, which got <strong>26 upvotes</strong> and ranked <strong>#8</strong> in <a href="https://huggingface.co/papers/date/2025-07-29">Hugging Face Daily Papers (July 29th)</a>!</div>
+  <div class="news-item">- <strong>[2025/7]</strong> Will join <a href="https://illinois.edu/">University of Illinois Urbana-Champaign</a> as an <strong>exchange undergraduate student in Spring 2026</strong>!</div>
+  <div class="news-item">- <strong>[2025/5]</strong> My first-author paper <a href="https://arxiv.org/abs/2505.24778"><em>Revisiting Epistemic Markers in Confidence Estimation</em></a> is <strong>accepted to <a href="https://2025.aclweb.org/">ACL 2025 Main</a>!</strong> Sincere gratitude to all my collaborators!</div>
+  <div class="news-item">- <strong>[2025/2]</strong> Honored to join HKUST <a href="https://mayrfung.github.io/group/">RenAI Lab</a> as a undergraduate research intern! Looking forward to learning from <a href="https://mayrfung.github.io/">Prof. Yiren Fung</a>!</div>
   <div class="news-item">- <strong>[2025/1]</strong> Honored to receive <strong>HKIE Scholarship 2024/25!</strong></div>
-  <div class="news-item">- <strong>[2024/10]</strong> My co-first-author paper <em>GProofT</em> is accepted by <strong>The Seventh FEVER Workshop</strong>!</div>
+  <div class="news-item">- <strong>[2024/10]</strong> My co-first-author paper <a href="https://aclanthology.org/2024.fever-1.14/"><em>GProofT</em></a> is accepted by <a href="https://fever.ai/2024/workshop.html"><strong>The Seventh FEVER Workshop</strong></a>!</div>
   <div class="news-item">- <strong>[2024/9]</strong> Honored to receive <strong>The Joseph Lau Luen Hung Charitable Trust Scholarship 2024/25!</strong></div>
-  <div class="news-item">- <strong>[2024/6]</strong> Traveled to Charles University in Prague for summer exchange! Wonderful experience — loved everything there 🥰</div>
-  <div class="news-item">- <strong>[2024/6]</strong> Honored to join HKUST KnowComp Group as a undergraduate research intern! Looking forward to learning from Prof. Yangqiu Song!</div>
+  <div class="news-item">- <strong>[2024/6]</strong> Traveled to <a href="https://cuni.cz/UKEN-1.html">Charles University</a> in Prague for summer exchange! Wonderful experience — loved everything there 🥰</div>
+  <div class="news-item">- <strong>[2024/6]</strong> Honored to join HKUST <a href="https://github.com/HKUST-KnowComp">KnowComp Group</a> as a undergraduate research intern! Looking forward to learning from <a href="https://www.cse.ust.hk/~yqsong/">Prof. Yangqiu Song</a>!</div>
   <div class="news-item">- <strong>[2023/9]</strong> Honored to receive <strong>China Soong Ching Ling Foundation Zhiyuan Bursary!</strong></div>
 </div>
 
