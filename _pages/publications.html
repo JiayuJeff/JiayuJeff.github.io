@@ -6,51 +6,42 @@ author_profile: true
 ---
 
 <style>
-.full-pub-container {
-  display: flex;
+.full-pub {
   margin-bottom: 28px;
-  gap: 16px;
-  align-items: flex-start;
+  line-height: 1.6;
 }
-.full-pub-image {
-  flex-shrink: 0;
-  width: 140px;
-  height: 140px;
-  object-fit: cover;
-  border-radius: 6px;
-  border: 1px solid #e9ecef;
-}
-.full-pub-info {
-  flex: 1;
-  min-width: 0;
-}
-.full-pub-venue {
+.pub-number {
   font-size: 14px;
   color: #6c757d;
   margin-bottom: 4px;
-  font-weight: 500;
 }
-.full-pub-title {
+.pub-title {
   font-size: 18px;
   font-weight: 600;
   margin-bottom: 8px;
   line-height: 1.4;
 }
-.full-pub-authors {
+.pub-authors {
   font-size: 15px;
-  margin-bottom: 8px;
+  margin-bottom: 6px;
   color: #495057;
   line-height: 1.5;
 }
-.full-pub-links {
+.pub-venue {
+  font-size: 14px;
+  color: #6c757d;
+  font-style: italic;
+  margin-bottom: 6px;
+}
+.pub-links {
   font-size: 14px;
 }
-.full-pub-links a {
+.pub-links a {
   color: #fd7e14;
   text-decoration: none;
   margin-right: 12px;
 }
-.full-pub-links a:hover {
+.pub-links a:hover {
   text-decoration: underline;
 }
 .pub-category {
@@ -75,43 +66,34 @@ Note: * denotes equal contribution.
 <div class="pub-category">
   <h2>🧰 Tool Use & Agent</h2>
 
-  <div class="full-pub-container">
-    <img src="/images/CostBench.png" class="full-pub-image" alt="CostBench">
-    <div class="full-pub-info">
-      <div class="full-pub-venue">Under Review</div>
-      <div class="full-pub-title">CostBench: Evaluating Multi-Turn Cost-Optimal Planning and Adaptation in Dynamic Environments for LLM Tool-Use Agents</div>
-      <div class="full-pub-authors"><strong>Jiayu Liu</strong>, Cheng Qian, Zhaochen Su, Qing Zong, Shijue Huang, Bingxiang He, Yi R. Fung</div>
-      <div class="full-pub-links">
-        <a href="https://arxiv.org/pdf/2511.02734v1">arxiv</a>
-        <a href="https://huggingface.co/papers/2511.02734">HF Daily Papers</a>
-        <a href="https://github.com/JiayuJeff/CostBench">code</a>
-      </div>
+  <div class="full-pub">
+    <div class="pub-venue">Under Review</div>
+    <div class="pub-title">CostBench: Evaluating Multi-Turn Cost-Optimal Planning and Adaptation in Dynamic Environments for LLM Tool-Use Agents</div>
+    <div class="pub-authors"><strong>Jiayu Liu</strong>, Cheng Qian, Zhaochen Su, Qing Zong, Shijue Huang, Bingxiang He, Yi R. Fung</div>
+    <div class="pub-links">
+      <a href="https://arxiv.org/pdf/2511.02734v1">arxiv</a>
+      <a href="https://huggingface.co/papers/2511.02734">HF Daily Papers</a>
+      <a href="https://github.com/JiayuJeff/CostBench">code</a>
     </div>
   </div>
 
-  <div class="full-pub-container">
-    <img src="/images/CostBench.png" class="full-pub-image" alt="Code2Math">
-    <div class="full-pub-info">
-      <div class="full-pub-venue">Under Review</div>
-      <div class="full-pub-title">Code2Math: Can Your Code Agent Effectively Evolve Math Problems Through Exploration?</div>
-      <div class="full-pub-authors">Dadi Guo*, Qingyu Liu*, Yuejin Xie, <strong>Jiayu Liu</strong>, Zhiyuan Fan, Qihan Ren, Shuai Shao, Tianyi Zhou, Dongrui Liu, Yi R. Fung</div>
-      <div class="full-pub-links">
-        <a href="#">arxiv</a>
-        <a href="#">code</a>
-      </div>
+  <div class="full-pub">
+    <div class="pub-venue">Under Review</div>
+    <div class="pub-title">Code2Math: Can Your Code Agent Effectively Evolve Math Problems Through Exploration?</div>
+    <div class="pub-authors">Dadi Guo*, Qingyu Liu*, Yuejin Xie, <strong>Jiayu Liu</strong>, Zhiyuan Fan, Qihan Ren, Shuai Shao, Tianyi Zhou, Dongrui Liu, Yi R. Fung</div>
+    <div class="pub-links">
+      <a href="#">arxiv</a>
+      <a href="#">code</a>
     </div>
   </div>
 
-  <div class="full-pub-container">
-    <img src="/images/CostBench.png" class="full-pub-image" alt="PACE">
-    <div class="full-pub-info">
-      <div class="full-pub-venue">Under Review</div>
-      <div class="full-pub-title">PACE: A Factor-Guided Coarse-to-Fine Agentic Framework for Long-Video Understanding</div>
-      <div class="full-pub-authors">Baixuan Xu, Yinyui XU, Tianshi Zheng, Zhaowei Wang, Weiqi Wang, Wei Fan, Haochen Shi, <strong>Jiayu Liu</strong>, Qing Zong, Xiyu REN, Xinyu Geng, Zhitao He, Yangqiu Song</div>
-      <div class="full-pub-links">
-        <a href="#">arxiv</a>
-        <a href="#">code</a>
-      </div>
+  <div class="full-pub">
+    <div class="pub-venue">Under Review</div>
+    <div class="pub-title">PACE: A Factor-Guided Coarse-to-Fine Agentic Framework for Long-Video Understanding</div>
+    <div class="pub-authors">Baixuan Xu, Yinyui XU, Tianshi Zheng, Zhaowei Wang, Weiqi Wang, Wei Fan, Haochen Shi, <strong>Jiayu Liu</strong>, Qing Zong, Xiyu REN, Xinyu Geng, Zhitao He, Yangqiu Song</div>
+    <div class="pub-links">
+      <a href="#">arxiv</a>
+      <a href="#">code</a>
     </div>
   </div>
 </div>
@@ -119,56 +101,44 @@ Note: * denotes equal contribution.
 <div class="pub-category">
   <h2>🧠 Advanced Reasoning</h2>
 
-  <div class="full-pub-container">
-    <img src="/images/Multirole-R1.png" class="full-pub-image" alt="Diversity-Enhanced Reasoning">
-    <div class="full-pub-info">
-      <div class="full-pub-venue">ICLR 2026</div>
-      <div class="full-pub-title">Diversity-Enhanced Reasoning for Subjective Questions</div>
-      <div class="full-pub-authors">Yumeng Wang*, Zhiyuan Fan*, <strong>Jiayu Liu*</strong>, Jen-tse Huang, Yi R. Fung</div>
-      <div class="full-pub-links">
-        <a href="https://arxiv.org/abs/2507.20187">arxiv</a>
-        <a href="https://huggingface.co/papers/2507.20187">HF Daily Papers</a>
-        <a href="https://github.com/toward-agi/diverse-o1">code</a>
-      </div>
+  <div class="full-pub">
+    <div class="pub-venue">ICLR 2026</div>
+    <div class="pub-title">Diversity-Enhanced Reasoning for Subjective Questions</div>
+    <div class="pub-authors">Yumeng Wang*, Zhiyuan Fan*, <strong>Jiayu Liu*</strong>, Jen-tse Huang, Yi R. Fung</div>
+    <div class="pub-links">
+      <a href="https://arxiv.org/abs/2507.20187">arxiv</a>
+      <a href="https://huggingface.co/papers/2507.20187">HF Daily Papers</a>
+      <a href="https://github.com/toward-agi/diverse-o1">code</a>
     </div>
   </div>
 
-  <div class="full-pub-container">
-    <img src="/images/RFMBench.png" class="full-pub-image" alt="Mathematical Proof as a Litmus Test">
-    <div class="full-pub-info">
-      <div class="full-pub-venue">MathNLP 2025</div>
-      <div class="full-pub-title">Mathematical Proof as a Litmus Test: Revealing Failure Modes of Advanced Large Reasoning Models</div>
-      <div class="full-pub-authors">Dadi Guo*, <strong>Jiayu Liu*</strong>, Zhiyuan Fan, Zhitao He, Haoran Li, Yumeng Wang, Yi R. Fung</div>
-      <div class="full-pub-links">
-        <a href="https://arxiv.org/pdf/2506.17114">arxiv</a>
-        <a href="https://github.com/guodadi/RFMDataset">code</a>
-      </div>
+  <div class="full-pub">
+    <div class="pub-venue">MathNLP 2025</div>
+    <div class="pub-title">Mathematical Proof as a Litmus Test: Revealing Failure Modes of Advanced Large Reasoning Models</div>
+    <div class="pub-authors">Dadi Guo*, <strong>Jiayu Liu*</strong>, Zhiyuan Fan, Zhitao He, Haoran Li, Yumeng Wang, Yi R. Fung</div>
+    <div class="pub-links">
+      <a href="https://arxiv.org/pdf/2506.17114">arxiv</a>
+      <a href="https://github.com/guodadi/RFMDataset">code</a>
     </div>
   </div>
 
-  <div class="full-pub-container">
-    <img src="/images/CostBench.png" class="full-pub-image" alt="VLM-Dixit">
-    <div class="full-pub-info">
-      <div class="full-pub-venue">EMNLP 2025</div>
-      <div class="full-pub-title">VLM-Dixit: Investigating Multi-Modal Abductive Reasoning and Entailment Verification with VLMs in Dixit Gameplay</div>
-      <div class="full-pub-authors">MO Yunxiang*, Tianshi Zheng*, Qing Zong, <strong>Jiayu Liu</strong>, Baixuan Xu, Yauwai Yim, Chunkit Chan, Jiaxin Bai, Yangqiu Song</div>
-      <div class="full-pub-links">
-        <a href="https://arxiv.org/abs/2510.10117">arxiv</a>
-        <a href="https://github.com/HKUST-KnowComp/DixitWorld">code</a>
-      </div>
+  <div class="full-pub">
+    <div class="pub-venue">EMNLP 2025</div>
+    <div class="pub-title">VLM-Dixit: Investigating Multi-Modal Abductive Reasoning and Entailment Verification with VLMs in Dixit Gameplay</div>
+    <div class="pub-authors">MO Yunxiang*, Tianshi Zheng*, Qing Zong, <strong>Jiayu Liu</strong>, Baixuan Xu, Yauwai Yim, Chunkit Chan, Jiaxin Bai, Yangqiu Song</div>
+    <div class="pub-links">
+      <a href="https://arxiv.org/abs/2510.10117">arxiv</a>
+      <a href="https://github.com/HKUST-KnowComp/DixitWorld">code</a>
     </div>
   </div>
 
-  <div class="full-pub-container">
-    <img src="/images/CostBench.png" class="full-pub-image" alt="Rethinking RL from Feedback">
-    <div class="full-pub-info">
-      <div class="full-pub-venue">Under Review</div>
-      <div class="full-pub-title">Rethinking Reinforcement Learning from Intrinsic Feedback for LLM Reasoning: Data Insensitivity and Limited Generalization</div>
-      <div class="full-pub-authors">Qingcheng Zeng, Heli Qi, Yutong Yin, Jiarui Liu, Zeqi Zhou, <strong>Jiayu Liu</strong>, Weihao Xuan, Rob Voigt, Zhaoran Wang, Naoto Yokoya</div>
-      <div class="full-pub-links">
-        <a href="#">arxiv</a>
-        <a href="#">code</a>
-      </div>
+  <div class="full-pub">
+    <div class="pub-venue">Under Review</div>
+    <div class="pub-title">Rethinking Reinforcement Learning from Intrinsic Feedback for LLM Reasoning: Data Insensitivity and Limited Generalization</div>
+    <div class="pub-authors">Qingcheng Zeng, Heli Qi, Yutong Yin, Jiarui Liu, Zeqi Zhou, <strong>Jiayu Liu</strong>, Weihao Xuan, Rob Voigt, Zhaoran Wang, Naoto Yokoya</div>
+    <div class="pub-links">
+      <a href="#">arxiv</a>
+      <a href="#">code</a>
     </div>
   </div>
 </div>
@@ -176,70 +146,55 @@ Note: * denotes equal contribution.
 <div class="pub-category">
   <h2>🧩 Trustworthiness and Reliability</h2>
 
-  <div class="full-pub-container">
-    <img src="/images/MarConf.png" class="full-pub-image" alt="Revisiting Epistemic Markers">
-    <div class="full-pub-info">
-      <div class="full-pub-venue">ACL 2025</div>
-      <div class="full-pub-title">Revisiting Epistemic Markers in Confidence Estimation: Can Markers Accurately Reflect Large Language Models' Uncertainty?</div>
-      <div class="full-pub-authors"><strong>Jiayu Liu</strong>, Qing Zong, Weiqi Wang, Yangqiu Song</div>
-      <div class="full-pub-links">
-        <a href="https://aclanthology.org/2025.acl-short.18/">paper</a>
-        <a href="https://arxiv.org/abs/2505.24778">arxiv</a>
-        <a href="https://github.com/HKUST-KnowComp/MarConf">code</a>
-      </div>
+  <div class="full-pub">
+    <div class="pub-venue">ACL 2025</div>
+    <div class="pub-title">Revisiting Epistemic Markers in Confidence Estimation: Can Markers Accurately Reflect Large Language Models' Uncertainty?</div>
+    <div class="pub-authors"><strong>Jiayu Liu</strong>, Qing Zong, Weiqi Wang, Yangqiu Song</div>
+    <div class="pub-links">
+      <a href="https://aclanthology.org/2025.acl-short.18/">paper</a>
+      <a href="https://arxiv.org/abs/2505.24778">arxiv</a>
+      <a href="https://github.com/HKUST-KnowComp/MarConf">code</a>
     </div>
   </div>
 
-  <div class="full-pub-container">
-    <img src="/images/GProoT.png" class="full-pub-image" alt="GProofT">
-    <div class="full-pub-info">
-      <div class="full-pub-venue">FEVER 2024</div>
-      <div class="full-pub-title">GProofT: A Multi-dimension Multi-round Fact Checking Framework Based on Claim Fact Extraction</div>
-      <div class="full-pub-authors"><strong>Jiayu Liu*</strong>, <strong>Junhao Tang*</strong>, <strong>Hanwen Wang*</strong>, Baixuan Xu, Haochen Shi, Weiqi Wang, Yangqiu Song</div>
-      <div class="full-pub-links">
-        <a href="https://aclanthology.org/2024.fever-1.14/">paper</a>
-        <a href="https://github.com/HKUST-KnowComp/GProofT">code</a>
-      </div>
+  <div class="full-pub">
+    <div class="pub-venue">FEVER 2024</div>
+    <div class="pub-title">GProofT: A Multi-dimension Multi-round Fact Checking Framework Based on Claim Fact Extraction</div>
+    <div class="pub-authors"><strong>Jiayu Liu*</strong>, <strong>Junhao Tang*</strong>, <strong>Hanwen Wang*</strong>, Baixuan Xu, Haochen Shi, Weiqi Wang, Yangqiu Song</div>
+    <div class="pub-links">
+      <a href="https://aclanthology.org/2024.fever-1.14/">paper</a>
+      <a href="https://github.com/HKUST-KnowComp/GProofT">code</a>
     </div>
   </div>
 
-  <div class="full-pub-container">
-    <img src="/images/NAACL.png" class="full-pub-image" alt="NAACL">
-    <div class="full-pub-info">
-      <div class="full-pub-venue">Under Review</div>
-      <div class="full-pub-title">NAACL: Noise-AwAre Verbal Confidence Calibration for LLMs in RAG Systems</div>
-      <div class="full-pub-authors"><strong>Jiayu Liu*</strong>, <strong>Rui Wang*</strong>, Qing Zong, Qingcheng Zeng, Tianshi Zheng, Haochen Shi, Dadi Guo, Baixuan Xu, Chunyang Li, Yangqiu Song</div>
-      <div class="full-pub-links">
-        <a href="https://arxiv.org/pdf/2601.11004">arxiv</a>
-        <a href="https://huggingface.co/papers/2601.11004">HF Daily Papers</a>
-        <a href="https://github.com/HKUST-KnowComp/NAACL">code</a>
-      </div>
+  <div class="full-pub">
+    <div class="pub-venue">Under Review</div>
+    <div class="pub-title">NAACL: Noise-AwAre Verbal Confidence Calibration for LLMs in RAG Systems</div>
+    <div class="pub-authors"><strong>Jiayu Liu*</strong>, <strong>Rui Wang*</strong>, Qing Zong, Qingcheng Zeng, Tianshi Zheng, Haochen Shi, Dadi Guo, Baixuan Xu, Chunyang Li, Yangqiu Song</div>
+    <div class="pub-links">
+      <a href="https://arxiv.org/pdf/2601.11004">arxiv</a>
+      <a href="https://huggingface.co/papers/2601.11004">HF Daily Papers</a>
+      <a href="https://github.com/HKUST-KnowComp/NAACL">code</a>
     </div>
   </div>
 
-  <div class="full-pub-container">
-    <img src="/images/MarPT.png" class="full-pub-image" alt="Prospect Theory Fails">
-    <div class="full-pub-info">
-      <div class="full-pub-venue">Under Review</div>
-      <div class="full-pub-title">Prospect Theory Fails for LLMs: Revealing Instability of Decision-Making under Epistemic Uncertainty</div>
-      <div class="full-pub-authors"><strong>Rui Wang*</strong>, <strong>Qihan Lin*</strong>, <strong>Jiayu Liu*</strong>, Qing Zong, Tianshi Zheng, Weiqi Wang, Yangqiu Song</div>
-      <div class="full-pub-links">
-        <a href="https://arxiv.org/abs/2508.08992">arxiv</a>
-        <a href="https://github.com/HKUST-KnowComp/MarPT">code</a>
-      </div>
+  <div class="full-pub">
+    <div class="pub-venue">Under Review</div>
+    <div class="pub-title">Prospect Theory Fails for LLMs: Revealing Instability of Decision-Making under Epistemic Uncertainty</div>
+    <div class="pub-authors"><strong>Rui Wang*</strong>, <strong>Qihan Lin*</strong>, <strong>Jiayu Liu*</strong>, Qing Zong, Tianshi Zheng, Weiqi Wang, Yangqiu Song</div>
+    <div class="pub-links">
+      <a href="https://arxiv.org/abs/2508.08992">arxiv</a>
+      <a href="https://github.com/HKUST-KnowComp/MarPT">code</a>
     </div>
   </div>
 
-  <div class="full-pub-container">
-    <img src="/images/CostBench.png" class="full-pub-image" alt="CritiCal">
-    <div class="full-pub-info">
-      <div class="full-pub-venue">Under Review</div>
-      <div class="full-pub-title">CritiCal: Can Critique Help LLM Uncertainty or Confidence Calibration?</div>
-      <div class="full-pub-authors">Qing Zong, <strong>Jiayu Liu</strong>, Tianshi Zheng, Chunyang Li, Baixuan Xu, Haochen Shi, Weiqi Wang, Zhaowei Wang, Chunkit Chan, Yangqiu Song</div>
-      <div class="full-pub-links">
-        <a href="https://arxiv.org/abs/2510.24505">arxiv</a>
-        <a href="https://github.com/HKUST-KnowComp/Critical">code</a>
-      </div>
+  <div class="full-pub">
+    <div class="pub-venue">Under Review</div>
+    <div class="pub-title">CritiCal: Can Critique Help LLM Uncertainty or Confidence Calibration?</div>
+    <div class="pub-authors">Qing Zong, <strong>Jiayu Liu</strong>, Tianshi Zheng, Chunyang Li, Baixuan Xu, Haochen Shi, Weiqi Wang, Zhaowei Wang, Chunkit Chan, Yangqiu Song</div>
+    <div class="pub-links">
+      <a href="https://arxiv.org/abs/2510.24505">arxiv</a>
+      <a href="https://github.com/HKUST-KnowComp/Critical">code</a>
     </div>
   </div>
 </div>
