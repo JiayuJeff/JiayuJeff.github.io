@@ -274,7 +274,7 @@ Note: Only first author/co-first author papers are listed. Please refer to [the 
     <div class="pub-title">Revisiting Epistemic Markers in Confidence Estimation: Can Markers Accurately Reflect Large Language Models' Uncertainty?</div>
     <div class="pub-authors"><strong>Jiayu Liu</strong>, Qing Zong, Weiqi Wang, Yangqiu Song</div>
     <div class="pub-links">
-      <a href="https://aclanthology.org/2025.acl-short.18/">paper</a>
+      <a href="https://aclanthology.org/2025.acl-short.18/">ACL anthology</a>
       <a href="https://arxiv.org/abs/2505.24778">arxiv</a>
       <a href="https://github.com/HKUST-KnowComp/MarConf">code</a>
     </div>
@@ -342,7 +342,7 @@ Note: Only first author/co-first author papers are listed. Please refer to [the 
     <div class="pub-title">GProofT: A Multi-dimension Multi-round Fact Checking Framework Based on Claim Fact Extraction</div>
     <div class="pub-authors"><strong>Jiayu Liu<sup>*</sup></strong>, Junhao Tang<sup>*</sup>, Hanwen Wang<sup>*</sup>, Baixuan Xu, Haochen Shi, Weiqi Wang, Yangqiu Song</div>
     <div class="pub-links">
-      <a href="https://aclanthology.org/2024.fever-1.14/">paper</a>
+      <a href="https://aclanthology.org/2024.fever-1.14/">ACL anthology</a>
       <a href="https://github.com/HKUST-KnowComp/GProofT">code</a>
     </div>
   </div>
