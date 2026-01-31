@@ -163,118 +163,145 @@ Here is my [google Scholar](https://scholar.google.com/citations?user=PIQxhfMAAA
 ## 📖 Selected Publications
 
 <style>
-.selected-pub {
+.pub-container {
+  display: flex;
   margin-bottom: 24px;
-  line-height: 1.6;
+  gap: 16px;
+  align-items: flex-start;
 }
-.selected-pub-number {
-  font-size: 14px;
+.pub-image {
+  flex-shrink: 0;
+  width: 120px;
+  height: 120px;
+  object-fit: cover;
+  border-radius: 6px;
+  border: 1px solid #e9ecef;
+}
+.pub-info {
+  flex: 1;
+  min-width: 0;
+}
+.pub-venue {
+  font-size: 13px;
   color: #6c757d;
   margin-bottom: 4px;
 }
-.selected-pub-title {
-  font-size: 18px;
+.pub-title {
+  font-size: 17px;
   font-weight: 600;
   margin-bottom: 6px;
+  line-height: 1.4;
 }
-.selected-pub-authors {
-  font-size: 15px;
+.pub-authors {
+  font-size: 14px;
   margin-bottom: 4px;
+  color: #495057;
 }
-.selected-pub-venue {
-  font-size: 14px;
-  color: #6c757d;
-  font-style: italic;
+.pub-links {
+  font-size: 13px;
 }
-.selected-pub-links {
-  font-size: 14px;
-  margin-top: 4px;
-}
-.selected-pub-links a {
+.pub-links a {
   color: #fd7e14;
   text-decoration: none;
-  margin-right: 12px;
+  margin-right: 10px;
 }
-.selected-pub-links a:hover {
+.pub-links a:hover {
   text-decoration: underline;
 }
 </style>
 
-<div class="selected-pub">
-  <div class="selected-pub-number">ICLR 2026</div>
-  <div class="selected-pub-title">Diversity-Enhanced Reasoning for Subjective Questions</div>
-  <div class="selected-pub-authors">Yumeng Wang*, Zhiyuan Fan*, <em>Jiayu Liu*</em>, Jen-tse Huang, Yi R. Fung</div>
-  <div class="selected-pub-venue"><em>In The Fourteenth International Conference on Learning Representations, 2026</em></div>
-  <div class="selected-pub-links">
-    <a href="https://arxiv.org/abs/2507.20187">arxiv</a>
-    <a href="https://github.com/toward-agi/diverse-o1">code</a>
+<div class="pub-container">
+  <img src="/images/Multirole-R1.png" class="pub-image" alt="Diversity-Enhanced Reasoning">
+  <div class="pub-info">
+    <div class="pub-venue">ICLR 2026</div>
+    <div class="pub-title">Diversity-Enhanced Reasoning for Subjective Questions</div>
+    <div class="pub-authors">Yumeng Wang*, Zhiyuan Fan*, <em>Jiayu Liu*</em>, Jen-tse Huang, Yi R. Fung</div>
+    <div class="pub-links">
+      <a href="https://arxiv.org/abs/2507.20187">arxiv</a>
+      <a href="https://huggingface.co/papers/2507.20187">HF Daily Papers</a>
+      <a href="https://github.com/toward-agi/diverse-o1">code</a>
+    </div>
   </div>
 </div>
 
-<div class="selected-pub">
-  <div class="selected-pub-number">ACL 2025</div>
-  <div class="selected-pub-title">Revisiting Epistemic Markers in Confidence Estimation: Can Markers Accurately Reflect Large Language Models' Uncertainty?</div>
-  <div class="selected-pub-authors"><em>Jiayu Liu</em>, Qing Zong, Weiqi Wang, Yangqiu Song</div>
-  <div class="selected-pub-venue"><em>In Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics, 2025</em></div>
-  <div class="selected-pub-links">
-    <a href="https://aclanthology.org/2025.acl-short.18/">paper</a>
-    <a href="https://arxiv.org/abs/2505.24778">arxiv</a>
-    <a href="https://github.com/HKUST-KnowComp/MarConf">code</a>
+<div class="pub-container">
+  <img src="/images/MarConf.png" class="pub-image" alt="Revisiting Epistemic Markers">
+  <div class="pub-info">
+    <div class="pub-venue">ACL 2025</div>
+    <div class="pub-title">Revisiting Epistemic Markers in Confidence Estimation: Can Markers Accurately Reflect Large Language Models' Uncertainty?</div>
+    <div class="pub-authors"><em>Jiayu Liu</em>, Qing Zong, Weiqi Wang, Yangqiu Song</div>
+    <div class="pub-links">
+      <a href="https://aclanthology.org/2025.acl-short.18/">paper</a>
+      <a href="https://arxiv.org/abs/2505.24778">arxiv</a>
+      <a href="https://github.com/HKUST-KnowComp/MarConf">code</a>
+    </div>
   </div>
 </div>
 
-<div class="selected-pub">
-  <div class="selected-pub-number">Under Review</div>
-  <div class="selected-pub-title">NAACL: Noise-AwAre Verbal Confidence Calibration for LLMs in RAG Systems</div>
-  <div class="selected-pub-authors"><em>Jiayu Liu*</em>, <em>Rui Wang*</em>, Qing Zong, Qingcheng Zeng, Tianshi Zheng, Haochen Shi, Dadi Guo, Baixuan Xu, Chunyang Li, Yangqiu Song</div>
-  <div class="selected-pub-venue"><em>Under review in ACL Rolling Review, 2026</em></div>
-  <div class="selected-pub-links">
-    <a href="https://arxiv.org/pdf/2601.11004">arxiv</a>
-    <a href="https://github.com/HKUST-KnowComp/NAACL">code</a>
+<div class="pub-container">
+  <img src="/images/NAACL.png" class="pub-image" alt="NAACL">
+  <div class="pub-info">
+    <div class="pub-venue">Under Review</div>
+    <div class="pub-title">NAACL: Noise-AwAre Verbal Confidence Calibration for LLMs in RAG Systems</div>
+    <div class="pub-authors"><em>Jiayu Liu*</em>, <em>Rui Wang*</em>, Qing Zong, Qingcheng Zeng, Tianshi Zheng, Haochen Shi, Dadi Guo, Baixuan Xu, Chunyang Li, Yangqiu Song</div>
+    <div class="pub-links">
+      <a href="https://arxiv.org/pdf/2601.11004">arxiv</a>
+      <a href="https://huggingface.co/papers/2601.11004">HF Daily Papers</a>
+      <a href="https://github.com/HKUST-KnowComp/NAACL">code</a>
+    </div>
   </div>
 </div>
 
-<div class="selected-pub">
-  <div class="selected-pub-number">Under Review</div>
-  <div class="selected-pub-title">CostBench: Evaluating Multi-Turn Cost-Optimal Planning and Adaptation in Dynamic Environments for LLM Tool-Use Agents</div>
-  <div class="selected-pub-authors"><em>Jiayu Liu</em>, Cheng Qian, Zhaochen Su, Qing Zong, Shijue Huang, Bingxiang He, Yi R. Fung</div>
-  <div class="selected-pub-venue"><em>Under review in ACL Rolling Review, 2026</em></div>
-  <div class="selected-pub-links">
-    <a href="https://arxiv.org/pdf/2511.02734v1">arxiv</a>
-    <a href="https://github.com/JiayuJeff/CostBench">code</a>
+<div class="pub-container">
+  <img src="/images/CostBench.png" class="pub-image" alt="CostBench">
+  <div class="pub-info">
+    <div class="pub-venue">Under Review</div>
+    <div class="pub-title">CostBench: Evaluating Multi-Turn Cost-Optimal Planning and Adaptation in Dynamic Environments for LLM Tool-Use Agents</div>
+    <div class="pub-authors"><em>Jiayu Liu</em>, Cheng Qian, Zhaochen Su, Qing Zong, Shijue Huang, Bingxiang He, Yi R. Fung</div>
+    <div class="pub-links">
+      <a href="https://arxiv.org/pdf/2511.02734v1">arxiv</a>
+      <a href="https://huggingface.co/papers/2511.02734">HF Daily Papers</a>
+      <a href="https://github.com/JiayuJeff/CostBench">code</a>
+    </div>
   </div>
 </div>
 
-<div class="selected-pub">
-  <div class="selected-pub-number">Under Review</div>
-  <div class="selected-pub-title">Prospect Theory Fails for LLMs: Revealing Instability of Decision-Making under Epistemic Uncertainty</div>
-  <div class="selected-pub-authors"><em>Rui Wang*</em>, <em>Qihan Lin*</em>, <em>Jiayu Liu*</em>, Qing Zong, Tianshi Zheng, Weiqi Wang, Yangqiu Song</div>
-  <div class="selected-pub-venue"><em>Under review in ACL Rolling Review, 2026</em></div>
-  <div class="selected-pub-links">
-    <a href="https://arxiv.org/abs/2508.08992">arxiv</a>
-    <a href="https://github.com/HKUST-KnowComp/MarPT">code</a>
+<div class="pub-container">
+  <img src="/images/MarPT.png" class="pub-image" alt="Prospect Theory Fails">
+  <div class="pub-info">
+    <div class="pub-venue">Under Review</div>
+    <div class="pub-title">Prospect Theory Fails for LLMs: Revealing Instability of Decision-Making under Epistemic Uncertainty</div>
+    <div class="pub-authors"><em>Rui Wang*</em>, <em>Qihan Lin*</em>, <em>Jiayu Liu*</em>, Qing Zong, Tianshi Zheng, Weiqi Wang, Yangqiu Song</div>
+    <div class="pub-links">
+      <a href="https://arxiv.org/abs/2508.08992">arxiv</a>
+      <a href="https://github.com/HKUST-KnowComp/MarPT">code</a>
+    </div>
   </div>
 </div>
 
-<div class="selected-pub">
-  <div class="selected-pub-number">MathNLP 2025</div>
-  <div class="selected-pub-title">Mathematical Proof as a Litmus Test: Revealing Failure Modes of Advanced Large Reasoning Models</div>
-  <div class="selected-pub-authors">Dadi Guo*, <em>Jiayu Liu*</em>, Zhiyuan Fan, Zhitao He, Haoran Li, Yumeng Wang, Yi R. Fung</div>
-  <div class="selected-pub-venue"><em>In Mathematics for Natural Language Processing Workshop @ COLING 2025</em></div>
-  <div class="selected-pub-links">
-    <a href="https://arxiv.org/pdf/2506.17114">arxiv</a>
-    <a href="https://github.com/guodadi/RFMDataset">code</a>
+<div class="pub-container">
+  <img src="/images/RFMBench.png" class="pub-image" alt="Mathematical Proof as a Litmus Test">
+  <div class="pub-info">
+    <div class="pub-venue">MathNLP 2025</div>
+    <div class="pub-title">Mathematical Proof as a Litmus Test: Revealing Failure Modes of Advanced Large Reasoning Models</div>
+    <div class="pub-authors">Dadi Guo*, <em>Jiayu Liu*</em>, Zhiyuan Fan, Zhitao He, Haoran Li, Yumeng Wang, Yi R. Fung</div>
+    <div class="pub-links">
+      <a href="https://arxiv.org/pdf/2506.17114">arxiv</a>
+      <a href="https://github.com/guodadi/RFMDataset">code</a>
+    </div>
   </div>
 </div>
 
-<div class="selected-pub">
-  <div class="selected-pub-number">FEVER 2024</div>
-  <div class="selected-pub-title">GProofT: A Multi-dimension Multi-round Fact Checking Framework Based on Claim Fact Extraction</div>
-  <div class="selected-pub-authors"><em>Jiayu Liu*</em>, <em>Junhao Tang*</em>, <em>Hanwen Wang*</em>, Baixuan Xu, Haochen Shi, Weiqi Wang, Yangqiu Song</div>
-  <div class="selected-pub-venue"><em>In Proceedings of the Seventh Fact Extraction and VERification Workshop, 2024</em></div>
-  <div class="selected-pub-links">
-    <a href="https://aclanthology.org/2024.fever-1.14/">paper</a>
-    <a href="https://github.com/HKUST-KnowComp/GProofT">code</a>
+<div class="pub-container">
+  <img src="/images/GProoT.png" class="pub-image" alt="GProofT">
+  <div class="pub-info">
+    <div class="pub-venue">FEVER 2024</div>
+    <div class="pub-title">GProofT: A Multi-dimension Multi-round Fact Checking Framework Based on Claim Fact Extraction</div>
+    <div class="pub-authors"><em>Jiayu Liu*</em>, <em>Junhao Tang*</em>, <em>Hanwen Wang*</em>, Baixuan Xu, Haochen Shi, Weiqi Wang, Yangqiu Song</div>
+    <div class="pub-links">
+      <a href="https://aclanthology.org/2024.fever-1.14/">paper</a>
+      <a href="https://github.com/HKUST-KnowComp/GProofT">code</a>
+    </div>
   </div>
 </div>
 
