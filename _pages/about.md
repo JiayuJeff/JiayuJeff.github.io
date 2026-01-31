@@ -113,7 +113,7 @@ My research goal is to build LLM/agents which is both robust and creative.
       <ol>
         <li>Identify failure reasons (mathematical proof reasoning <a href="https://arxiv.org/pdf/2506.17114">[RFMBench]</a>,  RLIF <a href="#">[Rethinking RLIF]</a>)</li>
         <li>Self evolution with verificable signals (Diversity-Enhanced Reasoning with RL <a href="https://arxiv.org/abs/2507.20187">[Multirole-R1]</a>, Self-evolution via code <a 
-        href="">[Code2Math]</a>)</li>
+        href="#">[Code2Math]</a>)</li>
       </ol>
     </div>
   </div>
@@ -203,7 +203,7 @@ Here is my [google Scholar](https://scholar.google.com/citations?user=PIQxhfMAAA
 
 ## 📖 Selected Publications
 
-Note: Only first author/co-first author papers are listed. Please refer to [the publications page](https://jiayujeff.github.io/publications/) for full publications. * denotes equal contribution.
+Note: Only first author/co-first author papers are listed. Please refer to [the publications page](/publications/) for full publications. * denotes equal contribution.
 
 <style>
 .pub-container {
@@ -347,8 +347,6 @@ Note: Only first author/co-first author papers are listed. Please refer to [the 
     </div>
   </div>
 </div>
-
-* denotes equal contribution. For full publication list, see [here](/publications/).
 
 ---
 
