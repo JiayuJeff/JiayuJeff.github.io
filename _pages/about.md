@@ -111,7 +111,7 @@ My research goal is to build LLM/agents which is both robust and creative.
     <div class="research-content active">
       <p>Pinpointing the crucial flaws in LLM reasoning and training diverse-thinking reasoning models</p>
       <ol>
-        <li>Identify failure modes in mathematical reasoning <a href="https://arxiv.org/pdf/2506.17114">[Mathematical Reasoning as a Litmus Test]</a> and code agent math problem evolution <a href="#">[Code2Math]</a></li>
+        <li>Identify failure reasons (mathematical reasoning <a href="https://arxiv.org/pdf/2506.17114">[RFMBench]</a>) and code agent math problem evolution <a href="#">[Code2Math]</a></li>
         <li>Build diverse-thinking reasoning models for subjective questions that explore multiple perspectives <a href="https://arxiv.org/abs/2507.20187">[Diversity-Enhanced Reasoning]</a></li>
       </ol>
     </div>
