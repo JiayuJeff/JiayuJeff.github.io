@@ -87,7 +87,7 @@ My research goal is to build LLM/agents which is both robust and creative.
 }
 </style>
 
-## My current research focuses on:
+### My current research focuses on:
 
 <div class="research-story-container">
   <div class="research-section">
