@@ -15,9 +15,127 @@ I’m **Jiayu LIU 刘家毓**, a junior undergraduate CS student at [HKUST](http
 - **Evaluating and enhancing LLM reasoning capabilities:** Pinpointing the crucial flaws in LLM reasoning and training diverse-thinking reasoning models
 - **Improving LLM trustworthiness:** Analyzing LLM confidence elicitation patterns and training well-calibrated LLMs, especially in knowledge enhanced scenarios
 
-My research goal is to build LLM/agents which is both robust and creative. 
+My research goal is to build LLM/agents which is both robust and creative.
 
-Here is my [google Scholar](https://scholar.google.com/citations?user=PIQxhfMAAAAJ&hl=en)  
+<style>
+.research-story-container {
+  max-width: 800px;
+  margin: 20px 0;
+}
+
+.research-section {
+  background-color: #fff;
+  border: 1px solid #e9ecef;
+  border-radius: 8px;
+  margin-bottom: 15px;
+  overflow: hidden;
+}
+
+.research-header {
+  display: flex;
+  align-items: center;
+  padding: 15px 20px;
+  cursor: pointer;
+  background-color: #fff;
+  border-bottom: 1px solid #e9ecef;
+  user-select: none;
+}
+
+.research-header:hover {
+  background-color: #f8f9fa;
+}
+
+.research-icon {
+  margin-right: 10px;
+  color: #495057;
+  font-size: 14px;
+  transition: transform 0.2s;
+}
+
+.research-header h2 {
+  margin: 0;
+  font-size: 18px;
+  font-weight: bold;
+  color: #212529;
+}
+
+.research-content {
+  padding: 20px;
+  display: none;
+}
+
+.research-content.active {
+  display: block;
+}
+
+.research-content ol {
+  margin: 0;
+  padding-left: 25px;
+}
+
+.research-content li {
+  margin-bottom: 12px;
+  font-size: 16px;
+  color: #495057;
+  line-height: 1.6;
+}
+
+.research-content a {
+  color: #fd7e14;
+  text-decoration: underline;
+  font-size: 15px;
+}
+
+.research-content a:hover {
+  color: #e67e22;
+}
+</style>
+
+<div class="research-story-container">
+  <div class="research-section">
+    <div class="research-header" onclick="toggleSection(this)">
+      <span class="research-icon">▼</span>
+      <h2>🛡️ Robustness</h2>
+    </div>
+    <div class="research-content active">
+      <ol>
+        <li>Study tool use robustness in dynamic environments through systematic benchmarking <a href="https://arxiv.org/pdf/2511.02734v1">[CostBench]</a></li>
+        <li>Investigate LLM confidence expression reliability through epistemic markers <a href="https://arxiv.org/abs/2505.24778">[Revisiting Markers]</a> and decision-making stability under uncertainty <a href="https://arxiv.org/abs/2508.08992">[Prospect Theory Fails]</a></li>
+        <li>Develop noise-aware confidence calibration for RAG systems <a href="https://arxiv.org/pdf/2601.11004">[NAACL]</a></li>
+        <li>Identify failure modes in mathematical reasoning <a href="https://arxiv.org/pdf/2506.17114">[Mathematical Reasoning as a Litmus Test]</a> and code agent math problem evolution <a href="#">[Code2Math]</a></li>
+      </ol>
+    </div>
+  </div>
+
+  <div class="research-section">
+    <div class="research-header" onclick="toggleSection(this)">
+      <span class="research-icon">▼</span>
+      <h2>🎨 Creativity & Diversity</h2>
+    </div>
+    <div class="research-content active">
+      <ol>
+        <li>Build diverse-thinking reasoning models for subjective questions that explore multiple perspectives <a href="https://arxiv.org/abs/2507.20187">[Diversity-Enhanced Reasoning]</a></li>
+      </ol>
+    </div>
+  </div>
+</div>
+
+<script>
+function toggleSection(header) {
+  const content = header.nextElementSibling;
+  const icon = header.querySelector('.research-icon');
+
+  if (content.classList.contains('active')) {
+    content.classList.remove('active');
+    icon.textContent = '▶';
+  } else {
+    content.classList.add('active');
+    icon.textContent = '▼';
+  }
+}
+</script>
+
+Here is my [google Scholar](https://scholar.google.com/citations?user=PIQxhfMAAAAJ&hl=en)
 📫 Contact: *jliufv@connect.ust.hk*
 
 ---
