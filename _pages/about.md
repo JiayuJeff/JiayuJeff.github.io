@@ -87,18 +87,18 @@ My research goal is to build LLM/agents which is both robust and creative.
 }
 </style>
 
+## My current research focuses on:
+
 <div class="research-story-container">
   <div class="research-section">
     <div class="research-header" onclick="toggleSection(this)">
       <span class="research-icon">▼</span>
-      <h2>🛡️ Robustness</h2>
+      <h2>Advanced tool-use capabilities in agentic systems</h2>
     </div>
     <div class="research-content active">
+      <p>Building high-performing, cost-effective agents</p>
       <ol>
         <li>Study tool use robustness in dynamic environments through systematic benchmarking <a href="https://arxiv.org/pdf/2511.02734v1">[CostBench]</a></li>
-        <li>Investigate LLM confidence expression reliability through epistemic markers <a href="https://arxiv.org/abs/2505.24778">[Revisiting Markers]</a> and decision-making stability under uncertainty <a href="https://arxiv.org/abs/2508.08992">[Prospect Theory Fails]</a></li>
-        <li>Develop noise-aware confidence calibration for RAG systems <a href="https://arxiv.org/pdf/2601.11004">[NAACL]</a></li>
-        <li>Identify failure modes in mathematical reasoning <a href="https://arxiv.org/pdf/2506.17114">[Mathematical Reasoning as a Litmus Test]</a> and code agent math problem evolution <a href="#">[Code2Math]</a></li>
       </ol>
     </div>
   </div>
@@ -106,11 +106,27 @@ My research goal is to build LLM/agents which is both robust and creative.
   <div class="research-section">
     <div class="research-header" onclick="toggleSection(this)">
       <span class="research-icon">▼</span>
-      <h2>🎨 Creativity & Diversity</h2>
+      <h2>Evaluating and enhancing LLM reasoning capabilities</h2>
     </div>
     <div class="research-content active">
+      <p>Pinpointing the crucial flaws in LLM reasoning and training diverse-thinking reasoning models</p>
       <ol>
+        <li>Identify failure modes in mathematical reasoning <a href="https://arxiv.org/pdf/2506.17114">[Mathematical Reasoning as a Litmus Test]</a> and code agent math problem evolution <a href="#">[Code2Math]</a></li>
         <li>Build diverse-thinking reasoning models for subjective questions that explore multiple perspectives <a href="https://arxiv.org/abs/2507.20187">[Diversity-Enhanced Reasoning]</a></li>
+      </ol>
+    </div>
+  </div>
+
+  <div class="research-section">
+    <div class="research-header" onclick="toggleSection(this)">
+      <span class="research-icon">▼</span>
+      <h2>Improving LLM trustworthiness</h2>
+    </div>
+    <div class="research-content active">
+      <p>Analyzing LLM confidence elicitation patterns and training well-calibrated LLMs, especially in knowledge enhanced scenarios</p>
+      <ol>
+        <li>Investigate LLM confidence expression reliability through epistemic markers <a href="https://arxiv.org/abs/2505.24778">[Revisiting Markers]</a> and decision-making stability under uncertainty <a href="https://arxiv.org/abs/2508.08992">[Prospect Theory Fails]</a></li>
+        <li>Develop noise-aware confidence calibration for RAG systems <a href="https://arxiv.org/pdf/2601.11004">[NAACL]</a></li>
       </ol>
     </div>
   </div>
@@ -185,6 +201,8 @@ Here is my [google Scholar](https://scholar.google.com/citations?user=PIQxhfMAAA
 ---
 
 ## 📖 Selected Publications
+
+Note: Only first author/co-first author papers are listed. Please refer to [the publications page](https://jiayujeff.github.io/publications/) for full publications. * denotes equal contribution.
 
 <style>
 .pub-container {
