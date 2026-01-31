@@ -9,11 +9,7 @@ redirect_from:
 ---
 
 👋 **Welcome to my homepage!** 🥂  
-I’m **Jiayu LIU 刘家毓**, a junior undergraduate CS student at [HKUST](https://hkust.edu.hk/). I am currently a exchange student in [UIUC](https://illinois.edu/) and an undergraduate research intern at [BLENDER lab](https://blender.cs.illinois.edu/index.html) advised by [Prof. Ji Heng](https://blender.cs.illinois.edu/hengji.html). Previously, I was supervised by [Prof. Yangqiu Song](https://www.cse.ust.hk/~yqsong/) and [Prof. Yiren Fung](https://mayrfung.github.io/) at HKUST. My current research focuses on:
-
-- **Advanced tool-use capabilities in agentic systems:** Building high-performing, cost-effective agents
-- **Evaluating and enhancing LLM reasoning capabilities:** Pinpointing the crucial flaws in LLM reasoning and training diverse-thinking reasoning models
-- **Improving LLM trustworthiness:** Analyzing LLM confidence elicitation patterns and training well-calibrated LLMs, especially in knowledge enhanced scenarios
+I’m **Jiayu LIU 刘家毓**, a junior undergraduate CS student at [HKUST](https://hkust.edu.hk/). I am currently a exchange student in [UIUC](https://illinois.edu/) and an undergraduate research intern at [BLENDER lab](https://blender.cs.illinois.edu/index.html) advised by [Prof. Ji Heng](https://blender.cs.illinois.edu/hengji.html). Previously, I was supervised by [Prof. Yangqiu Song](https://www.cse.ust.hk/~yqsong/) and [Prof. Yiren Fung](https://mayrfung.github.io/) at HKUST. 
 
 My research goal is to build LLM/agents which is both robust and creative.
 
@@ -142,21 +138,49 @@ Here is my [google Scholar](https://scholar.google.com/citations?user=PIQxhfMAAA
 
 ## 🔥 News
 
-- **[2026/1]** My co-first-author paper [*Diversity-Enhanced Reasoning for Subjective Questions*](https://openreview.net/forum?id=1Bf0tToGT1) is accepted by [**ICLR 2026**](https://iclr.cc/)!
-- **[2026/1]** Released [*NAACL: Noise-AwAre Verbal Confidence Calibration for LLMs in RAG Systems*](https://huggingface.co/papers/2601.11004), which got **30 upvotes** and ranked **#3** in [Hugging Face Daily Papers (January 20th)](https://huggingface.co/papers/date/2026-01-20)! 
-- **[2025/12]** Honored to join UIUC [BLENDER Lab](https://blender.cs.illinois.edu/index.html) as a undergraduate research intern! Looking forward to learning from [Prof. Heng Ji](https://blender.cs.illinois.edu/hengji.html)!  
-- **[2025/11]** Released [*CostBench: Evaluating Multi-Turn Cost-Optimal Planning and Adaptation in Dynamic Environments for LLM Tool-Use Agents*](https://huggingface.co/papers/2511.02734), which got **21 upvotes** and ranked **#4** in [Hugging Face Daily Papers (November 6th)](https://huggingface.co/papers/date/2025-11-06)!
-- **[2025/8]** Honored to receive the **UROP Support Grant** and **UROP Research Travel Sponsorship**!  
-- **[2025/7]** Released [*Diversity-Enhanced Subjective Question-Answering*](https://huggingface.co/papers/2507.20187), which got **26 upvotes** and ranked **#8** in [Hugging Face Daily Papers (July 29th)](https://huggingface.co/papers/date/2025-07-29)!  
-- **[2025/7]** Will join [University of Illinois Urbana-Champaign](https://illinois.edu/) as an **exchange undergraduate student in Spring 2026**! 
-- **[2025/5]** My first-author paper [*Revisiting Epistemic Markers in Confidence Estimation*](https://arxiv.org/abs/2505.24778) is **accepted to [ACL 2025 Main](https://2025.aclweb.org/)!** Sincere gratitude to all my collaborators!
-- **[2025/2]** Honored to join HKUST [RenAI Lab](https://mayrfung.github.io/group/) as a undergraduate research intern! Looking forward to learning from [Prof. Yiren Fung](https://mayrfung.github.io/)!  
-- **[2025/1]** Honored to receive **HKIE Scholarship 2024/25!**  
-- **[2024/10]** My co-first-author paper [*GProofT*](https://aclanthology.org/2024.fever-1.14/) is accepted by [**The Seventh FEVER Workshop**](https://fever.ai/2024/workshop.html)!  
-- **[2024/9]** Honored to receive **The Joseph Lau Luen Hung Charitable Trust Scholarship 2024/25!**  
-- **[2024/6]** Traveled to [Charles University](https://cuni.cz/UKEN-1.html) in Prague for summer exchange! Wonderful experience — loved everything there 🥰  
-- **[2024/6]** Honored to join HKUST [KnowComp Group](https://github.com/HKUST-KnowComp) as a undergraduate research intern! Looking forward to learning from [Prof. Yangqiu Song](https://www.cse.ust.hk/~yqsong/)!  
-- **[2023/9]** Honored to receive **China Soong Ching Ling Foundation Zhiyuan Bursary!**
+<style>
+.news-container {
+  max-height: 400px;
+  overflow-y: auto;
+  padding-right: 10px;
+}
+.news-container::-webkit-scrollbar {
+  width: 8px;
+}
+.news-container::-webkit-scrollbar-track {
+  background: #f1f1f1;
+  border-radius: 4px;
+}
+.news-container::-webkit-scrollbar-thumb {
+  background: #888;
+  border-radius: 4px;
+}
+.news-container::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+.news-item {
+  margin-bottom: 12px;
+  line-height: 1.5;
+}
+</style>
+
+<div class="news-container">
+  <div class="news-item">- **[2026/1]** My co-first-author paper [*Diversity-Enhanced Reasoning for Subjective Questions*](https://openreview.net/forum?id=1Bf0tToGT1) is accepted by [**ICLR 2026**](https://iclr.cc/)!</div>
+  <div class="news-item">- **[2026/1]** Released [*NAACL: Noise-AwAre Verbal Confidence Calibration for LLMs in RAG Systems*](https://huggingface.co/papers/2601.11004), which got **30 upvotes** and ranked **#3** in [Hugging Face Daily Papers (January 20th)](https://huggingface.co/papers/date/2026-01-20)!</div>
+  <div class="news-item">- **[2025/12]** Honored to join UIUC [BLENDER Lab](https://blender.cs.illinois.edu/index.html) as a undergraduate research intern! Looking forward to learning from [Prof. Heng Ji](https://blender.cs.illinois.edu/hengji.html)!</div>
+  <div class="news-item">- **[2025/11]** Released [*CostBench: Evaluating Multi-Turn Cost-Optimal Planning and Adaptation in Dynamic Environments for LLM Tool-Use Agents*](https://huggingface.co/papers/2511.02734), which got **21 upvotes** and ranked **#4** in [Hugging Face Daily Papers (November 6th)](https://huggingface.co/papers/date/2025-11-06)!</div>
+  <div class="news-item">- **[2025/8]** Honored to receive the **UROP Support Grant** and **UROP Research Travel Sponsorship**!</div>
+  <div class="news-item">- **[2025/7]** Released [*Diversity-Enhanced Subjective Question-Answering*](https://huggingface.co/papers/2507.20187), which got **26 upvotes** and ranked **#8** in [Hugging Face Daily Papers (July 29th)](https://huggingface.co/papers/date/2025-07-29)!</div>
+  <div class="news-item">- **[2025/7]** Will join [University of Illinois Urbana-Champaign](https://illinois.edu/) as an **exchange undergraduate student in Spring 2026**!</div>
+  <div class="news-item">- **[2025/5]** My first-author paper [*Revisiting Epistemic Markers in Confidence Estimation*](https://arxiv.org/abs/2505.24778) is **accepted to [ACL 2025 Main](https://2025.aclweb.org/)!** Sincere gratitude to all my collaborators!</div>
+  <div class="news-item">- **[2025/2]** Honored to join HKUST [RenAI Lab](https://mayrfung.github.io/group/) as a undergraduate research intern! Looking forward to learning from [Prof. Yiren Fung](https://mayrfung.github.io/)!</div>
+  <div class="news-item">- **[2025/1]** Honored to receive **HKIE Scholarship 2024/25!**</div>
+  <div class="news-item">- **[2024/10]** My co-first-author paper [*GProofT*](https://aclanthology.org/2024.fever-1.14/) is accepted by [**The Seventh FEVER Workshop**](https://fever.ai/2024/workshop.html)!</div>
+  <div class="news-item">- **[2024/9]** Honored to receive **The Joseph Lau Luen Hung Charitable Trust Scholarship 2024/25!**</div>
+  <div class="news-item">- **[2024/6]** Traveled to [Charles University](https://cuni.cz/UKEN-1.html) in Prague for summer exchange! Wonderful experience — loved everything there 🥰</div>
+  <div class="news-item">- **[2024/6]** Honored to join HKUST [KnowComp Group](https://github.com/HKUST-KnowComp) as a undergraduate research intern! Looking forward to learning from [Prof. Yangqiu Song](https://www.cse.ust.hk/~yqsong/)!</div>
+  <div class="news-item">- **[2023/9]** Honored to receive **China Soong Ching Ling Foundation Zhiyuan Bursary!**</div>
+</div>
 
 ---
 
@@ -215,7 +239,7 @@ Here is my [google Scholar](https://scholar.google.com/citations?user=PIQxhfMAAA
   <div class="pub-info">
     <div class="pub-venue">ICLR 2026</div>
     <div class="pub-title">Diversity-Enhanced Reasoning for Subjective Questions</div>
-    <div class="pub-authors">Yumeng Wang<sup>*</sup>, Zhiyuan Fan<sup>*</sup>, <strong>Jiayu Liu<sup>*</sup></strong>, Jen-tse Huang, Yi R. Fung</div>
+    <div class="pub-authors"><strong>Yumeng Wang<sup>*</sup></strong>, <strong>Zhiyuan Fan<sup>*</sup></strong>, <strong>Jiayu Liu<sup>*</sup></strong>, Jen-tse Huang, Yi R. Fung</div>
     <div class="pub-links">
       <a href="https://arxiv.org/abs/2507.20187">arxiv</a>
       <a href="https://huggingface.co/papers/2507.20187">HF Daily Papers</a>
@@ -284,7 +308,7 @@ Here is my [google Scholar](https://scholar.google.com/citations?user=PIQxhfMAAA
   <div class="pub-info">
     <div class="pub-venue">MathNLP 2025</div>
     <div class="pub-title">Mathematical Proof as a Litmus Test: Revealing Failure Modes of Advanced Large Reasoning Models</div>
-    <div class="pub-authors">Dadi Guo<sup>*</sup>, <strong>Jiayu Liu<sup>*</sup></strong>, Zhiyuan Fan, Zhitao He, Haoran Li, Yumeng Wang, Yi R. Fung</div>
+    <div class="pub-authors"><strong>Dadi Guo<sup>*</sup></strong>, <strong>Jiayu Liu<sup>*</sup></strong>, Zhiyuan Fan, Zhitao He, Haoran Li, Yumeng Wang, Yi R. Fung</div>
     <div class="pub-links">
       <a href="https://arxiv.org/pdf/2506.17114">arxiv</a>
       <a href="https://github.com/guodadi/RFMDataset">code</a>
