@@ -113,7 +113,7 @@ My research goal is to build LLM/agents which is both robust and creative.
       <ol>
         <li>Identify failure reasons (mathematical proof reasoning <a href="https://arxiv.org/pdf/2506.17114">[RFMBench]</a>,  RLIF <a href="#">[Rethinking RLIF]</a>)</li>
         <li>Self-evolution with verificable signals (Diversity-Enhanced Reasoning with RL <a href="https://arxiv.org/abs/2507.20187">[Multirole-R1]</a>, Self-evolution via code <a 
-        href="#">[Code2Math]</a>)</li>
+        href="https://arxiv.org/abs/2603.03202">[Code2Math]</a>)</li>
       </ol>
     </div>
   </div>
