@@ -182,14 +182,14 @@ Here is my [google Scholar](https://scholar.google.com/citations?user=PIQxhfMAAA
 </style>
 
 <div class="news-container">
-  <div class="news-item">- <strong>[2026/4]</strong> 🎉 Three papers accepted to <strong>ACL 2026</strong> (<em>CostBench</em>, <em>RFMDataset</em>, <em>DixitWorld</em>)! Huge thanks to all collaborators!</div>
+  <div class="news-item">- <strong>[2026/4]</strong> 🎉 Three papers accepted to <strong>ACL 2026</strong> (<a href="https://github.com/JiayuJeff/CostBench"><em>CostBench</em></a>, <a href="https://github.com/guodadi/RFMDataset"><em>RFMDataset</em></a>, <a href="https://github.com/HKUST-KnowComp/DixitWorld"><em>DixitWorld</em></a>)! Huge thanks to all collaborators!</div>
   <div class="news-item">- <strong>[2026/1]</strong> 🎉 My co-first-author paper <a href="https://openreview.net/forum?id=1Bf0tToGT1"><em>Diversity-Enhanced Reasoning for Subjective Questions</em></a> is accepted by <a href="https://iclr.cc/"><strong>ICLR 2026</strong></a>!</div>
   <div class="news-item">- <strong>[2026/1]</strong> 🔥 Released <a href="https://huggingface.co/papers/2601.11004"><em>NAACL: Noise-AwAre Verbal Confidence Calibration for LLMs in RAG Systems</em></a>, which got <strong>30 upvotes</strong> and ranked <strong>#3</strong> in <a href="https://huggingface.co/papers/date/2026-01-20">Hugging Face Daily Papers (January 20th)</a>!</div>
   <div class="news-item">- <strong>[2025/12]</strong> Honored to join UIUC <a href="https://blender.cs.illinois.edu/index.html">BLENDER Lab</a> as a undergraduate research intern! Looking forward to learning from <a href="https://blender.cs.illinois.edu/hengji.html">Prof. Heng Ji</a>!</div>
   <div class="news-item">- <strong>[2025/11]</strong> 🔥 Released <a href="https://huggingface.co/papers/2511.02734"><em>CostBench: Evaluating Multi-Turn Cost-Optimal Planning and Adaptation in Dynamic Environments for LLM Tool-Use Agents</em></a>, which got <strong>22 upvotes</strong> and ranked <strong>#4</strong> in <a href="https://huggingface.co/papers/date/2025-11-06">Hugging Face Daily Papers (November 6th)</a>!</div>
   <div class="news-item">- <strong>[2025/8]</strong> Honored to receive the <strong>UROP Support Grant</strong> and <strong>UROP Research Travel Sponsorship</strong>!</div>
   <div class="news-item">- <strong>[2025/7]</strong> 🔥 Released <a href="https://huggingface.co/papers/2507.20187"><em>Diversity-Enhanced Subjective Question-Answering</em></a>, which got <strong>26 upvotes</strong> and ranked <strong>#8</strong> in <a href="https://huggingface.co/papers/date/2025-07-29">Hugging Face Daily Papers (July 29th)</a>!</div>
-  <div class="news-item">- <strong>[2025/7]</strong> Will join <a href="https://illinois.edu/">University of Illinois Urbana-Champaign</a> as an <strong>exchange undergraduate student in Spring 2026</strong>!</div>
+  <div class="news-item">- <strong>[2025/7]</strong> ✈️ Will join <a href="https://illinois.edu/">University of Illinois Urbana-Champaign</a> as an <strong>exchange undergraduate student in Spring 2026</strong>!</div>
   <div class="news-item">- <strong>[2025/5]</strong> 🎉 My first-author paper <a href="https://arxiv.org/abs/2505.24778"><em>Revisiting Epistemic Markers in Confidence Estimation</em></a> is <strong>accepted to <a href="https://2025.aclweb.org/">ACL 2025 Main</a>!</strong> Sincere gratitude to all my collaborators!</div>
   <div class="news-item">- <strong>[2025/2]</strong> Honored to join HKUST <a href="https://mayrfung.github.io/group/">RenAI Lab</a> as a undergraduate research intern! Looking forward to learning from <a href="https://mayrfung.github.io/">Prof. Yiren Fung</a>!</div>
   <div class="news-item">- <strong>[2025/1]</strong> Honored to receive <strong>HKIE Scholarship 2024/25!</strong></div>
@@ -255,20 +255,6 @@ Note: Only first author/co-first author papers are listed. Please refer to [the 
 </style>
 
 <div class="pub-container">
-  <img src="/images/Multirole-R1.png" class="pub-image" alt="Diversity-Enhanced Reasoning">
-  <div class="pub-info">
-    <div class="pub-venue">ICLR 2026</div>
-    <div class="pub-title">Diversity-Enhanced Reasoning for Subjective Questions</div>
-    <div class="pub-authors">Yumeng Wang<sup>*</sup>, Zhiyuan Fan<sup>*</sup>, <strong>Jiayu Liu<sup>*</sup></strong>, Jen-tse Huang, Yi R. Fung</div>
-    <div class="pub-links">
-      <a href="https://arxiv.org/abs/2507.20187">arxiv</a>
-      <a href="https://huggingface.co/papers/2507.20187">HF Daily Papers</a>
-      <a href="https://github.com/toward-agi/diverse-o1">code</a>
-    </div>
-  </div>
-</div>
-
-<div class="pub-container">
   <img src="/images/MarConf.png" class="pub-image" alt="Revisiting Epistemic Markers">
   <div class="pub-info">
     <div class="pub-venue">ACL 2025</div>
@@ -278,20 +264,6 @@ Note: Only first author/co-first author papers are listed. Please refer to [the 
       <a href="https://aclanthology.org/2025.acl-short.18/">ACL anthology</a>
       <a href="https://arxiv.org/abs/2505.24778">arxiv</a>
       <a href="https://github.com/HKUST-KnowComp/MarConf">code</a>
-    </div>
-  </div>
-</div>
-
-<div class="pub-container">
-  <img src="/images/NAACL.png" class="pub-image" alt="NAACL">
-  <div class="pub-info">
-    <div class="pub-venue">Under Review</div>
-    <div class="pub-title">NAACL: Noise-AwAre Verbal Confidence Calibration for LLMs in RAG Systems</div>
-    <div class="pub-authors"><strong>Jiayu Liu<sup>*</sup></strong>, Rui Wang<sup>*</sup>, Qing Zong, Qingcheng Zeng, Tianshi Zheng, Haochen Shi, Dadi Guo, Baixuan Xu, Chunyang Li, Yangqiu Song</div>
-    <div class="pub-links">
-      <a href="https://arxiv.org/pdf/2601.11004">arxiv</a>
-      <a href="https://huggingface.co/papers/2601.11004">HF Daily Papers</a>
-      <a href="https://github.com/HKUST-KnowComp/NAACL">code</a>
     </div>
   </div>
 </div>
@@ -311,14 +283,14 @@ Note: Only first author/co-first author papers are listed. Please refer to [the 
 </div>
 
 <div class="pub-container">
-  <img src="/images/MarPT.png" class="pub-image" alt="Prospect Theory Fails">
+  <img src="/images/GProoT.png" class="pub-image" alt="GProofT">
   <div class="pub-info">
-    <div class="pub-venue">Under Review</div>
-    <div class="pub-title">Prospect Theory Fails for LLMs: Revealing Instability of Decision-Making under Epistemic Uncertainty</div>
-    <div class="pub-authors">Rui Wang<sup>*</sup>, Qihan Lin<sup>*</sup>, <strong>Jiayu Liu<sup>*</sup></strong>, Qing Zong, Tianshi Zheng, Weiqi Wang, Yangqiu Song</div>
+    <div class="pub-venue">FEVER 2024</div>
+    <div class="pub-title">GProofT: A Multi-dimension Multi-round Fact Checking Framework Based on Claim Fact Extraction</div>
+    <div class="pub-authors"><strong>Jiayu Liu<sup>*</sup></strong>, Junhao Tang<sup>*</sup>, Hanwen Wang<sup>*</sup>, Baixuan Xu, Haochen Shi, Weiqi Wang, Yangqiu Song</div>
     <div class="pub-links">
-      <a href="https://arxiv.org/abs/2508.08992">arxiv</a>
-      <a href="https://github.com/HKUST-KnowComp/MarPT">code</a>
+      <a href="https://aclanthology.org/2024.fever-1.14/">ACL anthology</a>
+      <a href="https://github.com/HKUST-KnowComp/GProofT">code</a>
     </div>
   </div>
 </div>
@@ -337,14 +309,42 @@ Note: Only first author/co-first author papers are listed. Please refer to [the 
 </div>
 
 <div class="pub-container">
-  <img src="/images/GProoT.png" class="pub-image" alt="GProofT">
+  <img src="/images/Multirole-R1.png" class="pub-image" alt="Diversity-Enhanced Reasoning">
   <div class="pub-info">
-    <div class="pub-venue">FEVER 2024</div>
-    <div class="pub-title">GProofT: A Multi-dimension Multi-round Fact Checking Framework Based on Claim Fact Extraction</div>
-    <div class="pub-authors"><strong>Jiayu Liu<sup>*</sup></strong>, Junhao Tang<sup>*</sup>, Hanwen Wang<sup>*</sup>, Baixuan Xu, Haochen Shi, Weiqi Wang, Yangqiu Song</div>
+    <div class="pub-venue">ICLR 2026</div>
+    <div class="pub-title">Diversity-Enhanced Reasoning for Subjective Questions</div>
+    <div class="pub-authors">Yumeng Wang<sup>*</sup>, Zhiyuan Fan<sup>*</sup>, <strong>Jiayu Liu<sup>*</sup></strong>, Jen-tse Huang, Yi R. Fung</div>
     <div class="pub-links">
-      <a href="https://aclanthology.org/2024.fever-1.14/">ACL anthology</a>
-      <a href="https://github.com/HKUST-KnowComp/GProofT">code</a>
+      <a href="https://arxiv.org/abs/2507.20187">arxiv</a>
+      <a href="https://huggingface.co/papers/2507.20187">HF Daily Papers</a>
+      <a href="https://github.com/toward-agi/diverse-o1">code</a>
+    </div>
+  </div>
+</div>
+
+<div class="pub-container">
+  <img src="/images/NAACL.png" class="pub-image" alt="NAACL">
+  <div class="pub-info">
+    <div class="pub-venue">Under Review</div>
+    <div class="pub-title">NAACL: Noise-AwAre Verbal Confidence Calibration for LLMs in RAG Systems</div>
+    <div class="pub-authors"><strong>Jiayu Liu<sup>*</sup></strong>, Rui Wang<sup>*</sup>, Qing Zong, Qingcheng Zeng, Tianshi Zheng, Haochen Shi, Dadi Guo, Baixuan Xu, Chunyang Li, Yangqiu Song</div>
+    <div class="pub-links">
+      <a href="https://arxiv.org/pdf/2601.11004">arxiv</a>
+      <a href="https://huggingface.co/papers/2601.11004">HF Daily Papers</a>
+      <a href="https://github.com/HKUST-KnowComp/NAACL">code</a>
+    </div>
+  </div>
+</div>
+
+<div class="pub-container">
+  <img src="/images/MarPT.png" class="pub-image" alt="Prospect Theory Fails">
+  <div class="pub-info">
+    <div class="pub-venue">Under Review</div>
+    <div class="pub-title">Prospect Theory Fails for LLMs: Revealing Instability of Decision-Making under Epistemic Uncertainty</div>
+    <div class="pub-authors">Rui Wang<sup>*</sup>, Qihan Lin<sup>*</sup>, <strong>Jiayu Liu<sup>*</sup></strong>, Qing Zong, Tianshi Zheng, Weiqi Wang, Yangqiu Song</div>
+    <div class="pub-links">
+      <a href="https://arxiv.org/abs/2508.08992">arxiv</a>
+      <a href="https://github.com/HKUST-KnowComp/MarPT">code</a>
     </div>
   </div>
 </div>
@@ -355,10 +355,11 @@ Note: Only first author/co-first author papers are listed. Please refer to [the 
 
 ## 🧾 Academic & community services
 
-- **[2025/6]** HKUST COMP and CPEG Mentor 2024/25
-- **[2025/5]** Reviewer of *IJCAI 2025*
-- **[2024/6]** HKUST PMP group mentor
-- **[2024/2]** IT Secretary of Chinese Folks and Arts Society, HKUST
+- Founder@[HKUST-UGAIL](https://github.com/HKUST-UGAIL)
+- Reviewer@*IJCAI 2025*, Reviewer@*COLM 2026*, Reviewer@*ARR* (Since ARR May 2026)
+- HKUST COMP and CPEG Mentor 2024/25
+- HKUST PMP group mentor
+- IT Secretary of Chinese Folks and Arts Society, HKUST
 
 ---
 
