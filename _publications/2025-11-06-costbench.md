@@ -3,9 +3,9 @@ title: "CostBench: Evaluating Multi-Turn Cost-Optimal Planning and Adaptation in
 collection: publications
 category: conferences
 permalink: /publication/2025-11-06-costbench
-excerpt: 'Under review in ACL Rolling Review'
+excerpt: 'ACL 2026'
 authors: '<strong>Jiayu Liu</strong>, Cheng Qian, Zhaochen Su, Qing Zong, Shijue Huang, Bingxiang He, Yi R. Fung'
-venue: 'Under review in ACL Rolling Review'
+venue: 'ACL 2026'
 paperurl: 'https://arxiv.org/pdf/2511.02734v1'
 codeurl: 'https://github.com/JiayuJeff/CostBench'
 ---

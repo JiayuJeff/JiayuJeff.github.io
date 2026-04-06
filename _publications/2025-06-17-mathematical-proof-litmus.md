@@ -3,9 +3,9 @@ title: "Mathematical Proof as a Litmus Test: Revealing Failure Modes of Advanced
 collection: publications
 category: conferences
 permalink: /publication/2025-06-17-mathematical-proof-litmus
-excerpt: 'MathNLP 2025, under review in ACL Rolling Review'
+excerpt: 'ACL 2026'
 authors: 'Dadi Guo*, <strong>Jiayu Liu*</strong>, Zhiyuan Fan, Zhitao He, Haoran Li, Yumeng Wang, Yi R. Fung'
-venue: 'Mathematics for Natural Language Processing Workshop @ COLING 2025'
+venue: 'ACL 2026'
 paperurl: 'https://arxiv.org/pdf/2506.17114'
 codeurl: 'https://github.com/guodadi/RFMDataset'
 ---
