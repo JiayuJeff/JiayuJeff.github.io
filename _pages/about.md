@@ -298,7 +298,7 @@ Note: Only first author/co-first author papers are listed. Please refer to [the 
 <div class="pub-container">
   <img src="/images/CostBench.png" class="pub-image" alt="CostBench">
   <div class="pub-info">
-    <div class="pub-venue">Under Review</div>
+    <div class="pub-venue">ACL 2026</div>
     <div class="pub-title">CostBench: Evaluating Multi-Turn Cost-Optimal Planning and Adaptation in Dynamic Environments for LLM Tool-Use Agents</div>
     <div class="pub-authors"><strong>Jiayu Liu</strong>, Cheng Qian, Zhaochen Su, Qing Zong, Shijue Huang, Bingxiang He, Yi R. Fung</div>
     <div class="pub-links">
@@ -325,7 +325,7 @@ Note: Only first author/co-first author papers are listed. Please refer to [the 
 <div class="pub-container">
   <img src="/images/RFMBench.png" class="pub-image" alt="Mathematical Proof as a Litmus Test">
   <div class="pub-info">
-    <div class="pub-venue">MathNLP 2025</div>
+    <div class="pub-venue">ACL 2026</div>
     <div class="pub-title">Mathematical Proof as a Litmus Test: Revealing Failure Modes of Advanced Large Reasoning Models</div>
     <div class="pub-authors">Dadi Guo<sup>*</sup>, <strong>Jiayu Liu<sup>*</sup></strong>, Zhiyuan Fan, Zhitao He, Haoran Li, Yumeng Wang, Yi R. Fung</div>
     <div class="pub-links">
