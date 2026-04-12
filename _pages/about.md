@@ -351,8 +351,6 @@ Note: Only first author/co-first author papers are listed. Please refer to [the 
 
 ---
 
----
-
 ## 🧾 Academic & community services
 
 - Founder@[HKUST-UGAIL](https://github.com/HKUST-UGAIL)
@@ -363,9 +361,9 @@ Note: Only first author/co-first author papers are listed. Please refer to [the 
 
 ---
 
-## 🎤 Talks
+## 🎤 Invited Talks
 
-- Towards Cost-aware Tool Integrated Planning. 自然语言处理与多模态智能 ([Post](https://jiayujeff.github.io/)).
+- "Towards Cost-aware Tool Integrated Planning." Invited talk at Natural Language Processing and Multimodal Intelligence Platform ([Post](https://jiayujeff.github.io/)), Host: Wenjie Li.
 
 ---
 
