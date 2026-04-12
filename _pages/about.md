@@ -363,6 +363,12 @@ Note: Only first author/co-first author papers are listed. Please refer to [the 
 
 ---
 
+## 🎤 Talks
+
+- Towards Cost-aware Tool Integrated Planning. 自然语言处理与多模态智能 ([Post](https://jiayujeff.github.io/)).
+
+---
+
 ## Misc
 
 In my spare time, I’m passionate about music and sports. I play the piano and violin, and I also enjoy singing and sharing my performances on social media. For sports, football is my absolute favorite—I’m a member of both the HKUST Mainland Students Football Team and the Guangdong Experimental High School Football Team, and I truly cherish the memories and friendships from those times. I also enjoying sailing in the sea, and yatching makes me feel an incredible sense of freedom.
