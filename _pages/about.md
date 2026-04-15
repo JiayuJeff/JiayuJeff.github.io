@@ -92,10 +92,10 @@ My research goal is to build LLM/agents which is both robust and adaptive.
 <div class="research-story-container">
   <div class="research-section">
     <div class="research-header" onclick="toggleSection(this)">
-      <span class="research-icon">▼</span>
+      <span class="research-icon">▶</span>
       <h2>Adaptiveness and robustness of LLM agents</h2>
     </div>
-    <div class="research-content active">
+    <div class="research-content">
       <p>Building LLM agents that can adapt their plans and remain reliable under uncertainty:</p>
       <ol>
         <li><strong>Adaptiveness:</strong> Evaluate and analyze LLM agents' adaptive planning abilities (<a href="https://arxiv.org/pdf/2511.02734v1">[CostBench]</a>, <a href="https://jiayujeff.github.io/">[AdaPlanBench]</a>)</li>
@@ -106,10 +106,10 @@ My research goal is to build LLM/agents which is both robust and adaptive.
 
   <div class="research-section">
     <div class="research-header" onclick="toggleSection(this)">
-      <span class="research-icon">▼</span>
+      <span class="research-icon">▶</span>
       <h2>LLM reasoning capabilities</h2>
     </div>
-    <div class="research-content active">
+    <div class="research-content">
       <p>Pinpointing the crucial flaws in LLM reasoning and training diverse-thinking reasoning models:</p>
       <ol>
         <li><strong>Evaluation and Analysis:</strong> Identify failure reasons (mathematical proof reasoning <a href="https://arxiv.org/pdf/2506.17114">[RFMBench]</a>, RLIF <a href="#">[Rethinking RLIF]</a>)</li>
