@@ -93,13 +93,13 @@ My research goal is to build LLM/agents which is both robust and adaptive.
   <div class="research-section">
     <div class="research-header" onclick="toggleSection(this)">
       <span class="research-icon">▼</span>
-      <h2>Evaluating and improving the adaptiveness and robustness of LLM agents</h2>
+      <h2>Adaptiveness and robustness of LLM agents</h2>
     </div>
     <div class="research-content active">
-      <p>Building LLM agents that can adapt their plans and remain reliable under uncertainty</p>
+      <p>Building LLM agents that can adapt their plans and remain reliable under uncertainty:</p>
       <ol>
-        <li><strong>Adaptiveness:</strong> Evaluate LLM agents' adaptive planning abilities in dynamic, cost-sensitive environments <a href="https://arxiv.org/pdf/2511.02734v1">[CostBench]</a> <a href="https://jiayujeff.github.io/">[AdaPlanBench]</a></li>
-        <li><strong>Robustness:</strong> Analyze the generalization of epistemic markers <a href="https://arxiv.org/abs/2505.24778">[MarConf]</a> <a href="https://arxiv.org/abs/2508.08992">[MarPT]</a> and improve LLMs' noise awareness and robustness in RAG scenarios <a href="https://arxiv.org/pdf/2601.11004">[NAACL]</a></li>
+        <li><strong>Adaptiveness:</strong> Evaluate LLM agents' adaptive planning abilities in dynamic, cost-sensitive environments (<a href="https://arxiv.org/pdf/2511.02734v1">[CostBench]</a>, <a href="https://jiayujeff.github.io/">[AdaPlanBench]</a>)</li>
+        <li><strong>Robustness:</strong> Analyze the generalization of epistemic markers (<a href="https://arxiv.org/abs/2505.24778">[MarConf]</a>, <a href="https://arxiv.org/abs/2508.08992">[MarPT]</a>) and improve LLMs' noise awareness and robustness in RAG scenarios (<a href="https://arxiv.org/pdf/2601.11004">[NAACL]</a>)</li>
       </ol>
     </div>
   </div>
@@ -107,13 +107,13 @@ My research goal is to build LLM/agents which is both robust and adaptive.
   <div class="research-section">
     <div class="research-header" onclick="toggleSection(this)">
       <span class="research-icon">▼</span>
-      <h2>Evaluating and enhancing LLM reasoning capabilities</h2>
+      <h2>LLM reasoning capabilities</h2>
     </div>
     <div class="research-content active">
-      <p>Pinpointing the crucial flaws in LLM reasoning and training diverse-thinking reasoning models</p>
+      <p>Pinpointing the crucial flaws in LLM reasoning and training diverse-thinking reasoning models:</p>
       <ol>
-        <li>Identify failure reasons (mathematical proof reasoning <a href="https://arxiv.org/pdf/2506.17114">[RFMBench]</a>,  RLIF <a href="#">[Rethinking RLIF]</a>)</li>
-        <li>Self-evolution with verificable signals (Diversity-Enhanced Reasoning with RL <a href="https://arxiv.org/abs/2507.20187">[Multirole-R1]</a>, Self-evolution via code <a 
+        <li><strong>Evaluation and Analysis:</strong> Identify failure reasons (mathematical proof reasoning <a href="https://arxiv.org/pdf/2506.17114">[RFMBench]</a>, RLIF <a href="#">[Rethinking RLIF]</a>)</li>
+        <li><strong>Methods:</strong> Self-evolution with verifiable signals (Diversity-Enhanced Reasoning with RL <a href="https://arxiv.org/abs/2507.20187">[Multirole-R1]</a>, Self-evolution via code <a 
         href="https://arxiv.org/abs/2603.03202">[Code2Math]</a>)</li>
       </ol>
     </div>
