@@ -93,12 +93,13 @@ My research goal is to build LLM/agents which is both robust and adaptive.
   <div class="research-section">
     <div class="research-header" onclick="toggleSection(this)">
       <span class="research-icon">▼</span>
-      <h2>Advanced tool-use capabilities in agentic systems</h2>
+      <h2>Evaluating and improving the adaptiveness and robustness of LLM agents</h2>
     </div>
     <div class="research-content active">
-      <p>Building high-performing, cost-effective agents</p>
+      <p>Building LLM agents that can adapt their plans and remain reliable under uncertainty</p>
       <ol>
-        <li>Study tool use robustness in dynamic environments through systematic benchmarking <a href="https://arxiv.org/pdf/2511.02734v1">[CostBench]</a></li>
+        <li><strong>Adaptiveness:</strong> Evaluate LLM agents' adaptive planning abilities in dynamic, cost-sensitive environments <a href="https://arxiv.org/pdf/2511.02734v1">[CostBench]</a> <a href="https://jiayujeff.github.io/">[AdaPlanBench]</a></li>
+        <li><strong>Robustness:</strong> Analyze the generalization of epistemic markers <a href="https://arxiv.org/abs/2505.24778">[MarConf]</a> <a href="https://arxiv.org/abs/2508.08992">[MarPT]</a> and improve LLMs' noise awareness and robustness in RAG scenarios <a href="https://arxiv.org/pdf/2601.11004">[NAACL]</a></li>
       </ol>
     </div>
   </div>
@@ -118,19 +119,6 @@ My research goal is to build LLM/agents which is both robust and adaptive.
     </div>
   </div>
 
-  <div class="research-section">
-    <div class="research-header" onclick="toggleSection(this)">
-      <span class="research-icon">▼</span>
-      <h2>Improving LLM trustworthiness</h2>
-    </div>
-    <div class="research-content active">
-      <p>Analyzing LLM confidence elicitation patterns and training well-calibrated LLMs, especially in knowledge enhanced scenarios</p>
-      <ol>
-        <li>Investigate LLM confidence expression reliability through epistemic markers <a href="https://arxiv.org/abs/2505.24778">[MarConf]</a> and decision-making stability under uncertainty <a href="https://arxiv.org/abs/2508.08992">[MarPT]</a></li>
-        <li>Improve LLM Calibration Performance (in RAG systems <a href="https://arxiv.org/pdf/2601.11004">[NAACL]</a>, via Critique <a href="https://arxiv.org/abs/2510.24505">[CritiCAL]</a>)</li>
-      </ol>
-    </div>
-  </div>
 </div>
 
 <script>
@@ -182,22 +170,22 @@ Here is my [google Scholar](https://scholar.google.com/citations?user=PIQxhfMAAA
 </style>
 
 <div class="news-container">
-  <div class="news-item">- <strong>[2026/4]</strong> 🎉 Three papers accepted to <strong>ACL 2026</strong> (<a href="https://github.com/JiayuJeff/CostBench"><em>CostBench</em></a>, <a href="https://github.com/guodadi/RFMDataset"><em>RFMDataset</em></a>, <a href="https://github.com/HKUST-KnowComp/DixitWorld"><em>DixitWorld</em></a>)! Huge thanks to all collaborators!</div>
-  <div class="news-item">- <strong>[2026/1]</strong> 🎉 My co-first-author paper <a href="https://openreview.net/forum?id=1Bf0tToGT1"><em>Diversity-Enhanced Reasoning for Subjective Questions</em></a> is accepted by <a href="https://iclr.cc/"><strong>ICLR 2026</strong></a>!</div>
-  <div class="news-item">- <strong>[2026/1]</strong> 🔥 Released <a href="https://huggingface.co/papers/2601.11004"><em>NAACL: Noise-AwAre Verbal Confidence Calibration for LLMs in RAG Systems</em></a>, which got <strong>30 upvotes</strong> and ranked <strong>#3</strong> in <a href="https://huggingface.co/papers/date/2026-01-20">Hugging Face Daily Papers (January 20th)</a>!</div>
-  <div class="news-item">- <strong>[2025/12]</strong> Honored to join UIUC <a href="https://blender.cs.illinois.edu/index.html">BLENDER Lab</a> as a undergraduate research intern! Looking forward to learning from <a href="https://blender.cs.illinois.edu/hengji.html">Prof. Heng Ji</a>!</div>
-  <div class="news-item">- <strong>[2025/11]</strong> 🔥 Released <a href="https://huggingface.co/papers/2511.02734"><em>CostBench: Evaluating Multi-Turn Cost-Optimal Planning and Adaptation in Dynamic Environments for LLM Tool-Use Agents</em></a>, which got <strong>22 upvotes</strong> and ranked <strong>#4</strong> in <a href="https://huggingface.co/papers/date/2025-11-06">Hugging Face Daily Papers (November 6th)</a>!</div>
-  <div class="news-item">- <strong>[2025/8]</strong> Honored to receive the <strong>UROP Support Grant</strong> and <strong>UROP Research Travel Sponsorship</strong>!</div>
-  <div class="news-item">- <strong>[2025/7]</strong> 🔥 Released <a href="https://huggingface.co/papers/2507.20187"><em>Diversity-Enhanced Subjective Question-Answering</em></a>, which got <strong>26 upvotes</strong> and ranked <strong>#8</strong> in <a href="https://huggingface.co/papers/date/2025-07-29">Hugging Face Daily Papers (July 29th)</a>!</div>
-  <div class="news-item">- <strong>[2025/7]</strong> ✈️ Will join <a href="https://illinois.edu/">University of Illinois Urbana-Champaign</a> as an <strong>exchange undergraduate student in Spring 2026</strong>!</div>
-  <div class="news-item">- <strong>[2025/5]</strong> 🎉 My first-author paper <a href="https://arxiv.org/abs/2505.24778"><em>Revisiting Epistemic Markers in Confidence Estimation</em></a> is <strong>accepted to <a href="https://2025.aclweb.org/">ACL 2025 Main</a>!</strong> Sincere gratitude to all my collaborators!</div>
-  <div class="news-item">- <strong>[2025/2]</strong> Honored to join HKUST <a href="https://mayrfung.github.io/group/">RenAI Lab</a> as a undergraduate research intern! Looking forward to learning from <a href="https://mayrfung.github.io/">Prof. Yiren Fung</a>!</div>
-  <div class="news-item">- <strong>[2025/1]</strong> Honored to receive <strong>HKIE Scholarship 2024/25!</strong></div>
-  <div class="news-item">- <strong>[2024/10]</strong> 🎉 My co-first-author paper <a href="https://aclanthology.org/2024.fever-1.14/"><em>GProofT</em></a> is accepted by <a href="https://fever.ai/2024/workshop.html"><strong>The Seventh FEVER Workshop</strong></a>!</div>
-  <div class="news-item">- <strong>[2024/9]</strong> Honored to receive <strong>The Joseph Lau Luen Hung Charitable Trust Scholarship 2024/25!</strong></div>
-  <div class="news-item">- <strong>[2024/6]</strong> Traveled to <a href="https://cuni.cz/UKEN-1.html">Charles University</a> in Prague for summer exchange! Wonderful experience — loved everything there 🥰</div>
-  <div class="news-item">- <strong>[2024/6]</strong> Honored to join HKUST <a href="https://github.com/HKUST-KnowComp">KnowComp Group</a> as a undergraduate research intern! Looking forward to learning from <a href="https://www.cse.ust.hk/~yqsong/">Prof. Yangqiu Song</a>!</div>
-  <div class="news-item">- <strong>[2023/9]</strong> Honored to receive <strong>China Soong Ching Ling Foundation Zhiyuan Bursary!</strong></div>
+  <div class="news-item">• <strong>[2026/4]</strong> 🎉 Three papers accepted to <strong>ACL 2026</strong> (<a href="https://arxiv.org/pdf/2511.02734v1"><em>CostBench</em></a>, <a href="https://arxiv.org/pdf/2506.17114"><em>RFMBench</em></a>, <a href="https://arxiv.org/abs/2510.10117"><em>VLM-Dixit</em></a>)! Huge thanks to all collaborators!</div>
+  <div class="news-item">• <strong>[2026/1]</strong> 🎉 My co-first-author paper <a href="https://openreview.net/forum?id=1Bf0tToGT1"><em>Diversity-Enhanced Reasoning for Subjective Questions</em></a> is accepted by <a href="https://iclr.cc/"><strong>ICLR 2026</strong></a>!</div>
+  <div class="news-item">• <strong>[2026/1]</strong> 🔥 Released <a href="https://huggingface.co/papers/2601.11004"><em>NAACL: Noise-AwAre Verbal Confidence Calibration for LLMs in RAG Systems</em></a>, which got <strong>30 upvotes</strong> and ranked <strong>#3</strong> in <a href="https://huggingface.co/papers/date/2026-01-20">Hugging Face Daily Papers (January 20th)</a>!</div>
+  <div class="news-item">• <strong>[2025/12]</strong> Honored to join UIUC <a href="https://blender.cs.illinois.edu/index.html">BLENDER Lab</a> as a undergraduate research intern! Looking forward to learning from <a href="https://blender.cs.illinois.edu/hengji.html">Prof. Heng Ji</a>!</div>
+  <div class="news-item">• <strong>[2025/11]</strong> 🔥 Released <a href="https://huggingface.co/papers/2511.02734"><em>CostBench: Evaluating Multi-Turn Cost-Optimal Planning and Adaptation in Dynamic Environments for LLM Tool-Use Agents</em></a>, which got <strong>22 upvotes</strong> and ranked <strong>#4</strong> in <a href="https://huggingface.co/papers/date/2025-11-06">Hugging Face Daily Papers (November 6th)</a>!</div>
+  <div class="news-item">• <strong>[2025/8]</strong> 🏅 Honored to receive the <strong>UROP Support Grant</strong> and <strong>UROP Research Travel Sponsorship</strong>!</div>
+  <div class="news-item">• <strong>[2025/7]</strong> 🔥 Released <a href="https://huggingface.co/papers/2507.20187"><em>Diversity-Enhanced Subjective Question-Answering</em></a>, which got <strong>26 upvotes</strong> and ranked <strong>#8</strong> in <a href="https://huggingface.co/papers/date/2025-07-29">Hugging Face Daily Papers (July 29th)</a>!</div>
+  <div class="news-item">• <strong>[2025/7]</strong> ✈️ Will join <a href="https://illinois.edu/">University of Illinois Urbana-Champaign</a> as an <strong>exchange undergraduate student in Spring 2026</strong>!</div>
+  <div class="news-item">• <strong>[2025/5]</strong> 🎉 My first-author paper <a href="https://arxiv.org/abs/2505.24778"><em>Revisiting Epistemic Markers in Confidence Estimation</em></a> is <strong>accepted to <a href="https://2025.aclweb.org/">ACL 2025 Main</a>!</strong> Sincere gratitude to all my collaborators!</div>
+  <div class="news-item">• <strong>[2025/2]</strong> Honored to join HKUST <a href="https://mayrfung.github.io/group/">RenAI Lab</a> as a undergraduate research intern! Looking forward to learning from <a href="https://mayrfung.github.io/">Prof. Yiren Fung</a>!</div>
+  <div class="news-item">• <strong>[2025/1]</strong> 🏅 Honored to receive <strong>HKIE Scholarship 2024/25!</strong></div>
+  <div class="news-item">• <strong>[2024/10]</strong> 🎉 My co-first-author paper <a href="https://aclanthology.org/2024.fever-1.14/"><em>GProofT</em></a> is accepted by <a href="https://fever.ai/2024/workshop.html"><strong>The Seventh FEVER Workshop</strong></a>!</div>
+  <div class="news-item">• <strong>[2024/9]</strong> 🏅 Honored to receive <strong>The Joseph Lau Luen Hung Charitable Trust Scholarship 2024/25!</strong></div>
+  <div class="news-item">• <strong>[2024/6]</strong> ✈️ Traveled to <a href="https://cuni.cz/UKEN-1.html">Charles University</a> in Prague for summer exchange! Wonderful experience — loved everything there 🥰</div>
+  <div class="news-item">• <strong>[2024/6]</strong> Honored to join HKUST <a href="https://github.com/HKUST-KnowComp">KnowComp Group</a> as a undergraduate research intern! Looking forward to learning from <a href="https://www.cse.ust.hk/~yqsong/">Prof. Yangqiu Song</a>!</div>
+  <div class="news-item">• <strong>[2023/9]</strong> 🏅 Honored to receive <strong>China Soong Ching Ling Foundation Zhiyuan Bursary!</strong></div>
 </div>
 
 ---
@@ -363,7 +351,7 @@ Note: Only first author/co-first author papers are listed. Please refer to [the 
 
 ## 🎤 Invited Talks
 
-- "Towards Cost-aware Tool Integrated Planning." Invited talk at Natural Language Processing and Multimodal Intelligence Platform ([Post](https://jiayujeff.github.io/)), Host: Wenjie Li.
+- "Towards Cost-aware Tool Integrated Planning." Invited talk at Natural Language Processing and Multimodal Intelligence Platform ([Post](https://mp.weixin.qq.com/s/49ddMn0hC9XDg8WH9lWnaA)), Host: Wenjie Li.
 
 ---
 
