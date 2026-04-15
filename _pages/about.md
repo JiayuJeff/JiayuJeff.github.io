@@ -98,7 +98,7 @@ My research goal is to build LLM/agents which is both robust and adaptive.
     <div class="research-content active">
       <p>Building LLM agents that can adapt their plans and remain reliable under uncertainty:</p>
       <ol>
-        <li><strong>Adaptiveness:</strong> Evaluate LLM agents' adaptive planning abilities in dynamic, cost-sensitive environments (<a href="https://arxiv.org/pdf/2511.02734v1">[CostBench]</a>, <a href="https://jiayujeff.github.io/">[AdaPlanBench]</a>)</li>
+        <li><strong>Adaptiveness:</strong> Evaluate and analyze LLM agents' adaptive planning abilities (<a href="https://arxiv.org/pdf/2511.02734v1">[CostBench]</a>, <a href="https://jiayujeff.github.io/">[AdaPlanBench]</a>)</li>
         <li><strong>Robustness:</strong> Analyze the generalization of epistemic markers (<a href="https://arxiv.org/abs/2505.24778">[MarConf]</a>, <a href="https://arxiv.org/abs/2508.08992">[MarPT]</a>) and improve LLMs' noise awareness and robustness in RAG scenarios (<a href="https://arxiv.org/pdf/2601.11004">[NAACL]</a>)</li>
       </ol>
     </div>
