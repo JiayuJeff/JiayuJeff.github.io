@@ -98,7 +98,7 @@ My research goal is to build LLM/agents which is both robust and adaptive.
     <div class="research-content">
       <p>Building LLM agents that can adapt their plans and remain reliable under uncertainty:</p>
       <ol>
-        <li><strong>Adaptiveness:</strong> Evaluate and analyze LLM agents' adaptive planning abilities (<a href="https://arxiv.org/pdf/2511.02734v1">[CostBench]</a>, <a href="https://jiayujeff.github.io/">[AdaPlanBench]</a>)</li>
+        <li><strong>Adaptiveness:</strong> Evaluate and analyze LLM agents' adaptive planning abilities (<a href="https://arxiv.org/pdf/2511.02734v1">[CostBench]</a>, <a href="https://arxiv.org/abs/2606.05622">[AdaPlanBench]</a>)</li>
         <li><strong>Robustness:</strong> Analyze the generalization of epistemic markers (<a href="https://arxiv.org/abs/2505.24778">[MarConf]</a>, <a href="https://arxiv.org/abs/2508.08992">[MarPT]</a>) and improve LLMs' noise awareness and robustness in RAG scenarios (<a href="https://arxiv.org/pdf/2601.11004">[NAACL]</a>)</li>
       </ol>
     </div>
@@ -307,6 +307,20 @@ Note: Only first author/co-first author papers are listed. Please refer to [the 
       <a href="https://arxiv.org/abs/2507.20187">arxiv</a>
       <a href="https://huggingface.co/papers/2507.20187">HF Daily Papers</a>
       <a href="https://github.com/toward-agi/diverse-o1">code</a>
+    </div>
+  </div>
+</div>
+
+<div class="pub-container">
+  <img src="/images/AdaPlanBench-overview.png" class="pub-image" alt="AdaPlanBench">
+  <div class="pub-info">
+    <div class="pub-venue">Under Review</div>
+    <div class="pub-title">AdaPlanBench: Evaluating Adaptive Planning in Large Language Model Agents under World and User Constraints</div>
+    <div class="pub-authors"><strong>Jiayu Liu</strong>, Cheng Qian, Zhenhailong Wang, Bingxuan Li, Jiateng Liu, Heng Wang, Jeonghwan Kim, Yumeng Wang, Xiusi Chen, Yi R. Fung, Heng Ji</div>
+    <div class="pub-links">
+      <a href="https://arxiv.org/abs/2606.05622">arxiv</a>
+      <a href="https://huggingface.co/papers/2606.05622">HF Daily Papers</a>
+      <a href="https://github.com/JiayuJeff/AdaPlanBench">code</a>
     </div>
   </div>
 </div>
