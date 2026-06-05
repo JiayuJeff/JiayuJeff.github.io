@@ -170,6 +170,7 @@ Here is my [google Scholar](https://scholar.google.com/citations?user=PIQxhfMAAA
 </style>
 
 <div class="news-container">
+  <div class="news-item">• <strong>[2026/6]</strong> 🔥 Released <a href="https://huggingface.co/papers/2606.05622"><em>AdaPlanBench: Evaluating Adaptive Planning in Large Language Model Agents under World and User Constraints</em></a>, which ranked <strong>#3</strong> in <a href="https://huggingface.co/papers/date/2026-06-05">Hugging Face Daily Papers (June 5th)</a>!</div>
   <div class="news-item">• <strong>[2026/4]</strong> 🔬 Founded <a href="https://github.com/HKUST-UGAIL">HKUST UGAI Lab</a>, aiming to advance undergraduate AI research at HKUST through targeted mentorship, dedicated funding support, and recognized platforms.</div>
   <div class="news-item">• <strong>[2026/4]</strong> 🎉 Three papers accepted to <strong>ACL 2026</strong> (<a href="https://arxiv.org/pdf/2511.02734v1"><em>CostBench</em></a>, <a href="https://arxiv.org/pdf/2506.17114"><em>RFMBench</em></a>, <a href="https://arxiv.org/abs/2510.10117"><em>DixitWorld</em></a>)! Huge thanks to all collaborators!</div>
   <div class="news-item">• <strong>[2026/1]</strong> 🎉 My co-first-author paper <a href="https://openreview.net/forum?id=1Bf0tToGT1"><em>Diversity-Enhanced Reasoning for Subjective Questions</em></a> is accepted by <a href="https://iclr.cc/"><strong>ICLR 2026</strong></a>!</div>
