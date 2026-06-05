@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 👋 **Welcome to my homepage!** 🥂  
-I’m **Jiayu LIU 刘家毓**, a junior undergraduate CS student at [HKUST](https://hkust.edu.hk/). I am currently a exchange student in [UIUC](https://illinois.edu/) and an undergraduate research intern at [BLENDER lab](https://blender.cs.illinois.edu/index.html) advised by [Prof. Heng Ji](https://blender.cs.illinois.edu/hengji.html). Previously, I was supervised by [Prof. Yangqiu Song](https://www.cse.ust.hk/~yqsong/) and [Prof. Yiren Fung](https://mayrfung.github.io/) at HKUST. 
+I’m **Jiayu LIU 刘家毓**, a junior undergraduate CS student at [HKUST](https://hkust.edu.hk/). I am currently a exchange student in [UIUC](https://illinois.edu/) and an undergraduate research intern at [ConvAI Lab](https://uiuc-conversational-ai-lab.github.io/) advised by [Prof. Heng Ji](https://blender.cs.illinois.edu/hengji.html) and [Prof. Dilek Hakkani-Tür](https://siebelschool.illinois.edu/about/people/all-faculty/dilek). Previously, I was supervised by [Prof. Yangqiu Song](https://www.cse.ust.hk/~yqsong/) and [Prof. Yiren Fung](https://mayrfung.github.io/) at HKUST. 
 
 My research goal is to build LLM/agents which is both robust and adaptive.
 
@@ -171,6 +171,7 @@ Here is my [google Scholar](https://scholar.google.com/citations?user=PIQxhfMAAA
 
 <div class="news-container">
   <div class="news-item">• <strong>[2026/6]</strong> 🔥 Released <a href="https://huggingface.co/papers/2606.05622"><em>AdaPlanBench: Evaluating Adaptive Planning in Large Language Model Agents under World and User Constraints</em></a>, which ranked <strong>#3</strong> in <a href="https://huggingface.co/papers/date/2026-06-05">Hugging Face Daily Papers (June 5th)</a>!</div>
+  <div class="news-item">• <strong>[2026/6]</strong> 🔬 Honored to join UIUC <a href="https://uiuc-conversational-ai-lab.github.io/">ConvAI Lab</a> as an undergraduate research intern! Looking forward to learning from <a href="https://siebelschool.illinois.edu/about/people/all-faculty/dilek">Prof. Dilek Hakkani-Tür</a>!</div>
   <div class="news-item">• <strong>[2026/4]</strong> 🔬 Founded <a href="https://github.com/HKUST-UGAIL">HKUST UGAI Lab</a>, aiming to advance undergraduate AI research at HKUST through targeted mentorship, dedicated funding support, and recognized platforms.</div>
   <div class="news-item">• <strong>[2026/4]</strong> 🎉 Three papers accepted to <strong>ACL 2026</strong> (<a href="https://arxiv.org/pdf/2511.02734v1"><em>CostBench</em></a>, <a href="https://arxiv.org/pdf/2506.17114"><em>RFMBench</em></a>, <a href="https://arxiv.org/abs/2510.10117"><em>DixitWorld</em></a>)! Huge thanks to all collaborators!</div>
   <div class="news-item">• <strong>[2026/1]</strong> 🎉 My co-first-author paper <a href="https://openreview.net/forum?id=1Bf0tToGT1"><em>Diversity-Enhanced Reasoning for Subjective Questions</em></a> is accepted by <a href="https://iclr.cc/"><strong>ICLR 2026</strong></a>!</div>
