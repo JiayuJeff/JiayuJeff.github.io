@@ -98,7 +98,7 @@ My research goal is to build LLM/agents which is both robust and adaptive.
     <div class="research-content">
       <p>Building LLM agents that can adapt their plans and remain reliable under uncertainty:</p>
       <ol>
-        <li><strong>Adaptiveness:</strong> Evaluate and analyze LLM agents' adaptive planning abilities (<a href="https://arxiv.org/pdf/2511.02734v1">[CostBench]</a>, <a href="https://arxiv.org/abs/2606.05622">[AdaPlanBench]</a>)</li>
+        <li><strong>Adaptiveness:</strong> Evaluate and analyze LLM agents' adaptive planning abilities (<a href="https://arxiv.org/pdf/2511.02734v1">[CostBench]</a>, <a href="https://arxiv.org/abs/2606.05622">[AdaPlanBench]</a>, <a href="https://arxiv.org/abs/2606.22388">[PlanBench-XL]</a>)</li>
         <li><strong>Robustness:</strong> Analyze the generalization of epistemic markers (<a href="https://arxiv.org/abs/2505.24778">[MarConf]</a>, <a href="https://arxiv.org/abs/2508.08992">[MarPT]</a>) and improve LLMs' noise awareness and robustness in RAG scenarios (<a href="https://arxiv.org/pdf/2601.11004">[NAACL]</a>)</li>
       </ol>
     </div>
@@ -170,7 +170,8 @@ Here is my [google Scholar](https://scholar.google.com/citations?user=PIQxhfMAAA
 </style>
 
 <div class="news-container">
-  <div class="news-item">• <strong>[2026/6]</strong> 🔥 Released <a href="https://huggingface.co/papers/2606.05622"><em>AdaPlanBench: Evaluating Adaptive Planning in Large Language Model Agents under World and User Constraints</em></a>, which got <strong>35 upvotes</strong> and ranked <strong>#4</strong> in <a href="https://huggingface.co/papers/date/2026-06-05">Hugging Face Daily Papers (June 5th)</a>!</div>
+  <div class="news-item">• <strong>[2026/6]</strong> 🔥 Released <a href="https://huggingface.co/papers/2606.22388"><em>PlanBench-XL: Evaluating Long-Horizon Planning of LLM Tool-Use Agents in Large-Scale Tool Ecosystems</em></a>, which got <strong>37 upvotes</strong> and ranked <strong>#4</strong> in <a href="https://huggingface.co/papers/date/2026-06-23">Hugging Face Daily Papers (June 23rd)</a>!</div>
+  <div class="news-item">• <strong>[2026/6]</strong> 🔥 Released <a href="https://huggingface.co/papers/2606.05622"><em>AdaPlanBench: Evaluating Adaptive Planning in Large Language Model Agents under World and User Constraints</em></a>, which got <strong>43 upvotes</strong> and ranked <strong>#4</strong> in <a href="https://huggingface.co/papers/date/2026-06-05">Hugging Face Daily Papers (June 5th)</a>!</div>
   <div class="news-item">• <strong>[2026/6]</strong> 🔬 Honored to join UIUC <a href="https://uiuc-conversational-ai-lab.github.io/">ConvAI Lab</a> as a undergraduate research intern! Looking forward to learning from <a href="https://siebelschool.illinois.edu/about/people/all-faculty/dilek">Prof. Dilek Hakkani-Tür</a> and <a href="https://siebelschool.illinois.edu/about/people/faculty/gokhan">Prof. Gokhan Tur</a>!</div>
   <div class="news-item">• <strong>[2026/4]</strong> 🔬 Founded <a href="https://github.com/HKUST-UGAIL">HKUST UGAI Lab</a>, aiming to advance undergraduate AI research at HKUST through targeted mentorship, dedicated funding support, and recognized platforms.</div>
   <div class="news-item">• <strong>[2026/4]</strong> 🎉 Three papers accepted to <strong>ACL 2026</strong> (<a href="https://arxiv.org/pdf/2511.02734v1"><em>CostBench</em></a>, <a href="https://arxiv.org/pdf/2506.17114"><em>RFMBench</em></a>, <a href="https://arxiv.org/abs/2510.10117"><em>DixitWorld</em></a>)! Huge thanks to all collaborators!</div>
@@ -309,6 +310,20 @@ Note: Only first author/co-first author papers are listed. Please refer to [the 
       <a href="https://arxiv.org/abs/2507.20187">arxiv</a>
       <a href="https://huggingface.co/papers/2507.20187">HF Daily Papers</a>
       <a href="https://github.com/toward-agi/diverse-o1">code</a>
+    </div>
+  </div>
+</div>
+
+<div class="pub-container">
+  <img src="/images/PlanBench-XL_overview.png" class="pub-image" alt="PlanBench-XL">
+  <div class="pub-info">
+    <div class="pub-venue">Under Review</div>
+    <div class="pub-title">PlanBench-XL: Evaluating Long-Horizon Planning of LLM Tool-Use Agents in Large-Scale Tool Ecosystems</div>
+    <div class="pub-authors"><strong>Jiayu Liu<sup>*</sup></strong>, Qihan Lin<sup>*</sup>, Cheng Qian, Rui Wang, Emre Can Acikgoz, Xiaocheng Yang, Qing Zong, Jiateng Liu, Zhenhailong Wang, Xiusi Chen, Heng Ji, Dilek Hakkani-Tür</div>
+    <div class="pub-links">
+      <a href="https://arxiv.org/abs/2606.22388">arxiv</a>
+      <a href="https://huggingface.co/papers/2606.22388">HF Daily Papers</a>
+      <a href="https://github.com/JiayuJeff/PlanBench-Xl">code</a>
     </div>
   </div>
 </div>
