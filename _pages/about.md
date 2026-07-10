@@ -170,8 +170,9 @@ Here is my [google Scholar](https://scholar.google.com/citations?user=PIQxhfMAAA
 </style>
 
 <div class="news-container">
-  <div class="news-item">• <strong>[2026/6]</strong> 🔥 Released <a href="https://huggingface.co/papers/2606.22388"><em>PlanBench-XL: Evaluating Long-Horizon Planning of LLM Tool-Use Agents in Large-Scale Tool Ecosystems</em></a>, which got <strong>90 upvotes</strong> and ranked <strong>#1</strong> in <a href="https://huggingface.co/papers/date/2026-06-23">Hugging Face Daily Papers (June 23rd)</a>!</div>
-  <div class="news-item">• <strong>[2026/6]</strong> 🔥 Released <a href="https://huggingface.co/papers/2606.05622"><em>AdaPlanBench: Evaluating Adaptive Planning in Large Language Model Agents under World and User Constraints</em></a>, which got <strong>43 upvotes</strong> and ranked <strong>#4</strong> in <a href="https://huggingface.co/papers/date/2026-06-05">Hugging Face Daily Papers (June 5th)</a>!</div>
+  <div class="news-item">• <strong>[2026/6]</strong> 🔥 Released <a href="https://huggingface.co/papers/2606.22388"><em>PlanBench-XL: Evaluating Long-Horizon Planning of LLM Tool-Use Agents in Large-Scale Tool Ecosystems</em></a>, which got <strong>96 upvotes</strong> and ranked <strong>#1</strong> in <a href="https://huggingface.co/papers/date/2026-06-23">Hugging Face Daily Papers (June 23rd)</a>!</div>
+  <div class="news-item">• <strong>[2026/7]</strong> 🎉 <a href="https://arxiv.org/abs/2606.05622"><em>AdaPlanBench</em></a> and <a href="https://arxiv.org/abs/2605.02910"><em>CreativityBench</em></a> are accepted to <strong>COLM 2026</strong>! Huge thanks to all collaborators!</div>
+  <div class="news-item">• <strong>[2026/6]</strong> 🔥 Released <a href="https://huggingface.co/papers/2606.05622"><em>AdaPlanBench: Evaluating Adaptive Planning in Large Language Model Agents under World and User Constraints</em></a>, which got <strong>44 upvotes</strong> and ranked <strong>#4</strong> in <a href="https://huggingface.co/papers/date/2026-06-05">Hugging Face Daily Papers (June 5th)</a>!</div>
   <div class="news-item">• <strong>[2026/6]</strong> 🔬 Honored to join UIUC <a href="https://uiuc-conversational-ai-lab.github.io/">ConvAI Lab</a> as a undergraduate research intern! Looking forward to learning from <a href="https://siebelschool.illinois.edu/about/people/all-faculty/dilek">Prof. Dilek Hakkani-Tür</a> and <a href="https://siebelschool.illinois.edu/about/people/faculty/gokhan">Prof. Gokhan Tur</a>!</div>
   <div class="news-item">• <strong>[2026/4]</strong> 🔬 Founded <a href="https://github.com/HKUST-UGAIL">HKUST UGAI Lab</a>, aiming to advance undergraduate AI research at HKUST through targeted mentorship, dedicated funding support, and recognized platforms.</div>
   <div class="news-item">• <strong>[2026/4]</strong> 🎉 Three papers accepted to <strong>ACL 2026</strong> (<a href="https://arxiv.org/pdf/2511.02734v1"><em>CostBench</em></a>, <a href="https://arxiv.org/pdf/2506.17114"><em>RFMBench</em></a>, <a href="https://arxiv.org/abs/2510.10117"><em>DixitWorld</em></a>)! Huge thanks to all collaborators!</div>
@@ -247,15 +248,15 @@ Note: Only first author/co-first author papers are listed. Please refer to [the 
 </style>
 
 <div class="pub-container">
-  <img src="/images/MarConf.png" class="pub-image" alt="Revisiting Epistemic Markers">
+  <img src="/images/AdaPlanBench-overview.png" class="pub-image" alt="AdaPlanBench">
   <div class="pub-info">
-    <div class="pub-venue">ACL 2025</div>
-    <div class="pub-title">Revisiting Epistemic Markers in Confidence Estimation: Can Markers Accurately Reflect Large Language Models' Uncertainty?</div>
-    <div class="pub-authors"><strong>Jiayu Liu</strong>, Qing Zong, Weiqi Wang, Yangqiu Song</div>
+    <div class="pub-venue">COLM 2026</div>
+    <div class="pub-title">AdaPlanBench: Evaluating Adaptive Planning in Large Language Model Agents under World and User Constraints</div>
+    <div class="pub-authors"><strong>Jiayu Liu</strong>, Cheng Qian, Zhenhailong Wang, Bingxuan Li, Jiateng Liu, Heng Wang, Jeonghwan Kim, Yumeng Wang, Xiusi Chen, Yi R. Fung, Heng Ji</div>
     <div class="pub-links">
-      <a href="https://aclanthology.org/2025.acl-short.18/">ACL anthology</a>
-      <a href="https://arxiv.org/abs/2505.24778">arxiv</a>
-      <a href="https://github.com/HKUST-KnowComp/MarConf">code</a>
+      <a href="https://arxiv.org/abs/2606.05622">arxiv</a>
+      <a href="https://huggingface.co/papers/2606.05622">HF Daily Papers</a>
+      <a href="https://github.com/JiayuJeff/AdaPlanBench">code</a>
     </div>
   </div>
 </div>
@@ -270,6 +271,20 @@ Note: Only first author/co-first author papers are listed. Please refer to [the 
       <a href="https://arxiv.org/pdf/2511.02734v1">arxiv</a>
       <a href="https://huggingface.co/papers/2511.02734">HF Daily Papers</a>
       <a href="https://github.com/JiayuJeff/CostBench">code</a>
+    </div>
+  </div>
+</div>
+
+<div class="pub-container">
+  <img src="/images/MarConf.png" class="pub-image" alt="Revisiting Epistemic Markers">
+  <div class="pub-info">
+    <div class="pub-venue">ACL 2025</div>
+    <div class="pub-title">Revisiting Epistemic Markers in Confidence Estimation: Can Markers Accurately Reflect Large Language Models' Uncertainty?</div>
+    <div class="pub-authors"><strong>Jiayu Liu</strong>, Qing Zong, Weiqi Wang, Yangqiu Song</div>
+    <div class="pub-links">
+      <a href="https://aclanthology.org/2025.acl-short.18/">ACL anthology</a>
+      <a href="https://arxiv.org/abs/2505.24778">arxiv</a>
+      <a href="https://github.com/HKUST-KnowComp/MarConf">code</a>
     </div>
   </div>
 </div>
@@ -324,20 +339,6 @@ Note: Only first author/co-first author papers are listed. Please refer to [the 
       <a href="https://arxiv.org/abs/2606.22388">arxiv</a>
       <a href="https://huggingface.co/papers/2606.22388">HF Daily Papers</a>
       <a href="https://github.com/JiayuJeff/PlanBench-Xl">code</a>
-    </div>
-  </div>
-</div>
-
-<div class="pub-container">
-  <img src="/images/AdaPlanBench-overview.png" class="pub-image" alt="AdaPlanBench">
-  <div class="pub-info">
-    <div class="pub-venue">Under Review</div>
-    <div class="pub-title">AdaPlanBench: Evaluating Adaptive Planning in Large Language Model Agents under World and User Constraints</div>
-    <div class="pub-authors"><strong>Jiayu Liu</strong>, Cheng Qian, Zhenhailong Wang, Bingxuan Li, Jiateng Liu, Heng Wang, Jeonghwan Kim, Yumeng Wang, Xiusi Chen, Yi R. Fung, Heng Ji</div>
-    <div class="pub-links">
-      <a href="https://arxiv.org/abs/2606.05622">arxiv</a>
-      <a href="https://huggingface.co/papers/2606.05622">HF Daily Papers</a>
-      <a href="https://github.com/JiayuJeff/AdaPlanBench">code</a>
     </div>
   </div>
 </div>
