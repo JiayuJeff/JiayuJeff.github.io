@@ -93,29 +93,30 @@ My research goal is to build LLM/agents which is both robust and adaptive.
   <div class="research-section">
     <div class="research-header" onclick="toggleSection(this)">
       <span class="research-icon">▶</span>
-      <h2>Adaptiveness and robustness of LLM agents</h2>
+      <h2>Adaptive Agents</h2>
     </div>
     <div class="research-content">
-      <p>Building LLM agents that can adapt their plans and remain reliable under uncertainty:</p>
-      <ol>
-        <li><strong>Adaptiveness:</strong> Evaluate and analyze LLM agents' adaptive planning abilities (<a href="https://arxiv.org/pdf/2511.02734v1">[CostBench]</a>, <a href="https://arxiv.org/abs/2606.05622">[AdaPlanBench]</a>, <a href="https://arxiv.org/abs/2606.22388">[PlanBench-XL]</a>)</li>
-        <li><strong>Robustness:</strong> Analyze the generalization of epistemic markers (<a href="https://arxiv.org/abs/2505.24778">[MarConf]</a>, <a href="https://arxiv.org/abs/2508.08992">[MarPT]</a>) and improve LLMs' noise awareness and robustness in RAG scenarios (<a href="https://arxiv.org/pdf/2601.11004">[NAACL]</a>)</li>
-      </ol>
+      <p>Evaluating and building LLM agents that adaptively evolve with dynamic users and environments (e.g., tools and their associated costs <a href="https://arxiv.org/abs/2606.22388">[PlanBench-XL]</a>, <a href="https://arxiv.org/pdf/2511.02734">[CostBench]</a>; evolving constraints <a href="https://arxiv.org/abs/2606.05622">[AdaPlanBench]</a>).</p>
     </div>
   </div>
 
   <div class="research-section">
     <div class="research-header" onclick="toggleSection(this)">
       <span class="research-icon">▶</span>
-      <h2>LLM reasoning capabilities</h2>
+      <h2>LLM Reliability</h2>
     </div>
     <div class="research-content">
-      <p>Pinpointing the crucial flaws in LLM reasoning and training diverse-thinking reasoning models:</p>
-      <ol>
-        <li><strong>Evaluation and Analysis:</strong> Identify failure reasons (mathematical proof reasoning <a href="https://arxiv.org/pdf/2506.17114">[RFMBench]</a>, RLIF <a href="#">[Rethinking RLIF]</a>)</li>
-        <li><strong>Methods:</strong> Self-evolution with verifiable signals (Diversity-Enhanced Reasoning with RL <a href="https://arxiv.org/abs/2507.20187">[Multirole-R1]</a>, Self-evolution via code <a 
-        href="https://arxiv.org/abs/2603.03202">[Code2Math]</a>)</li>
-      </ol>
+      <p>Understanding and improving how LLMs express uncertainty and remain reliable <a href="https://arxiv.org/abs/2505.24778">[MarConf]</a>, especially when external information is imperfect or noisy <a href="https://arxiv.org/abs/2508.08992">[MarPT]</a>, <a href="https://arxiv.org/pdf/2601.11004">[NAACL]</a>.</p>
+    </div>
+  </div>
+
+  <div class="research-section">
+    <div class="research-header" onclick="toggleSection(this)">
+      <span class="research-icon">▶</span>
+      <h2>LLM Reasoning</h2>
+    </div>
+    <div class="research-content">
+      <p>Diagnosing crucial flaws in LLM reasoning <a href="https://arxiv.org/pdf/2506.17114">[RFMBench]</a>, <a href="#">[Rethinking RLIF]</a> and developing self-evolution methods with verifiable signals <a href="https://arxiv.org/abs/2507.20187">[Multirole-R1]</a>, <a href="https://arxiv.org/abs/2603.03202">[Code2Math]</a>.</p>
     </div>
   </div>
 
