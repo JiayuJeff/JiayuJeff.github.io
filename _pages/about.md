@@ -170,6 +170,7 @@ Here is my [google Scholar](https://scholar.google.com/citations?user=PIQxhfMAAA
 </style>
 
 <div class="news-container">
+  <div class="news-item">• <strong>[2026/8]</strong> 🎉 7 papers accepted to <strong>EMNLP 2026</strong>! Huge thanks to all collaborators!</div>
   <div class="news-item">• <strong>[2026/7]</strong> 🎉 <a href="https://arxiv.org/abs/2606.05622"><em>AdaPlanBench</em></a> and <a href="https://arxiv.org/abs/2605.02910"><em>CreativityBench</em></a> are accepted to <strong>COLM 2026</strong>! Huge thanks to all collaborators!</div>
   <div class="news-item">• <strong>[2026/6]</strong> 🔥 Released <a href="https://huggingface.co/papers/2606.22388"><em>PlanBench-XL: Evaluating Long-Horizon Planning of LLM Tool-Use Agents in Large-Scale Tool Ecosystems</em></a>, which got <strong>96 upvotes</strong> and ranked <strong>#1</strong> in <a href="https://huggingface.co/papers/date/2026-06-23">Hugging Face Daily Papers (June 23rd)</a>!</div>
   <div class="news-item">• <strong>[2026/6]</strong> 🔥 Released <a href="https://huggingface.co/papers/2606.05622"><em>AdaPlanBench: Evaluating Adaptive Planning in Large Language Model Agents under World and User Constraints</em></a>, which got <strong>44 upvotes</strong> and ranked <strong>#4</strong> in <a href="https://huggingface.co/papers/date/2026-06-05">Hugging Face Daily Papers (June 5th)</a>!</div>
@@ -246,6 +247,34 @@ Note: Only first author/co-first author papers are listed. Please refer to [the 
   text-decoration: underline;
 }
 </style>
+
+<div class="pub-container">
+  <img src="/images/PlanBench-XL_overview.png" class="pub-image" alt="PlanBench-XL">
+  <div class="pub-info">
+    <div class="pub-venue">EMNLP 2026</div>
+    <div class="pub-title">PlanBench-XL: Evaluating Long-Horizon Planning of LLM Tool-Use Agents in Large-Scale Tool Ecosystems</div>
+    <div class="pub-authors"><strong>Jiayu Liu<sup>*</sup></strong>, Qihan Lin<sup>*</sup>, Cheng Qian, Rui Wang, Emre Can Acikgoz, Xiaocheng Yang, Qing Zong, Jiateng Liu, Zhenhailong Wang, Xiusi Chen, Heng Ji, Dilek Hakkani-Tür</div>
+    <div class="pub-links">
+      <a href="https://arxiv.org/abs/2606.22388">arxiv</a>
+      <a href="https://huggingface.co/papers/2606.22388">HF Daily Papers</a>
+      <a href="https://github.com/JiayuJeff/PlanBench-Xl">code</a>
+    </div>
+  </div>
+</div>
+
+<div class="pub-container">
+  <img src="/images/NAACL.png" class="pub-image" alt="NAACL">
+  <div class="pub-info">
+    <div class="pub-venue">EMNLP 2026 Findings</div>
+    <div class="pub-title">NAACL: Noise-AwAre Verbal Confidence Calibration for LLMs in RAG Systems</div>
+    <div class="pub-authors"><strong>Jiayu Liu<sup>*</sup></strong>, Rui Wang<sup>*</sup>, Qing Zong, Qingcheng Zeng, Tianshi Zheng, Haochen Shi, Dadi Guo, Baixuan Xu, Chunyang Li, Yangqiu Song</div>
+    <div class="pub-links">
+      <a href="https://arxiv.org/pdf/2601.11004">arxiv</a>
+      <a href="https://huggingface.co/papers/2601.11004">HF Daily Papers</a>
+      <a href="https://github.com/HKUST-KnowComp/NAACL">code</a>
+    </div>
+  </div>
+</div>
 
 <div class="pub-container">
   <img src="/images/AdaPlanBench-overview.png" class="pub-image" alt="AdaPlanBench">
@@ -330,39 +359,11 @@ Note: Only first author/co-first author papers are listed. Please refer to [the 
 </div>
 
 <div class="pub-container">
-  <img src="/images/PlanBench-XL_overview.png" class="pub-image" alt="PlanBench-XL">
-  <div class="pub-info">
-    <div class="pub-venue">Under Review</div>
-    <div class="pub-title">PlanBench-XL: Evaluating Long-Horizon Planning of LLM Tool-Use Agents in Large-Scale Tool Ecosystems</div>
-    <div class="pub-authors"><strong>Jiayu Liu<sup>*</sup></strong>, Qihan Lin<sup>*</sup>, Cheng Qian, Rui Wang, Emre Can Acikgoz, Xiaocheng Yang, Qing Zong, Jiateng Liu, Zhenhailong Wang, Xiusi Chen, Heng Ji, Dilek Hakkani-Tür</div>
-    <div class="pub-links">
-      <a href="https://arxiv.org/abs/2606.22388">arxiv</a>
-      <a href="https://huggingface.co/papers/2606.22388">HF Daily Papers</a>
-      <a href="https://github.com/JiayuJeff/PlanBench-Xl">code</a>
-    </div>
-  </div>
-</div>
-
-<div class="pub-container">
-  <img src="/images/NAACL.png" class="pub-image" alt="NAACL">
-  <div class="pub-info">
-    <div class="pub-venue">Under Review</div>
-    <div class="pub-title">NAACL: Noise-AwAre Verbal Confidence Calibration for LLMs in RAG Systems</div>
-    <div class="pub-authors"><strong>Jiayu Liu<sup>*</sup></strong>, Rui Wang<sup>*</sup>, Qing Zong, Qingcheng Zeng, Tianshi Zheng, Haochen Shi, Dadi Guo, Baixuan Xu, Chunyang Li, Yangqiu Song</div>
-    <div class="pub-links">
-      <a href="https://arxiv.org/pdf/2601.11004">arxiv</a>
-      <a href="https://huggingface.co/papers/2601.11004">HF Daily Papers</a>
-      <a href="https://github.com/HKUST-KnowComp/NAACL">code</a>
-    </div>
-  </div>
-</div>
-
-<div class="pub-container">
   <img src="/images/MarPT.png" class="pub-image" alt="Prospect Theory Fails">
   <div class="pub-info">
-    <div class="pub-venue">Under Review</div>
-    <div class="pub-title">Prospect Theory Fails for LLMs: Revealing Instability of Decision-Making under Epistemic Uncertainty</div>
-    <div class="pub-authors">Rui Wang<sup>*</sup>, Qihan Lin<sup>*</sup>, <strong>Jiayu Liu<sup>*</sup></strong>, Qing Zong, Tianshi Zheng, Weiqi Wang, Yangqiu Song</div>
+    <div class="pub-venue">EMNLP 2026</div>
+    <div class="pub-title">Rethinking Prospect Theory for LLMs: Revealing the Instability of Decision-Making under Epistemic Uncertainty</div>
+    <div class="pub-authors">Rui Wang<sup>*</sup>, Qihan Lin<sup>*</sup>, <strong>Jiayu Liu<sup>*</sup></strong>, Qing Zong, Tianshi Zheng, Dadi Guo, Haochen Shi, Peixuan Han, Weiqi Wang, Yangqiu Song</div>
     <div class="pub-links">
       <a href="https://arxiv.org/abs/2508.08992">arxiv</a>
       <a href="https://github.com/HKUST-KnowComp/MarPT">code</a>
