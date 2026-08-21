@@ -11,7 +11,7 @@ redirect_from:
 👋 **Welcome to my homepage!** 🥂  
 I’m **Jiayu LIU 刘家毓**, a junior undergraduate CS student at [HKUST](https://hkust.edu.hk/). I am currently a exchange student in [UIUC](https://illinois.edu/) and an undergraduate research intern advised by [Prof. Heng Ji](https://blender.cs.illinois.edu/hengji.html), [Prof. Dilek Hakkani-Tür](https://siebelschool.illinois.edu/about/people/all-faculty/dilek), and [Prof. Gokhan Tur](https://siebelschool.illinois.edu/about/people/faculty/gokhan). Previously, I was supervised by [Prof. Yangqiu Song](https://www.cse.ust.hk/~yqsong/) and [Prof. Yiren Fung](https://mayrfung.github.io/) at HKUST. 
 
-My research goal is to build LLM/agents which is both robust and adaptive.
+My research goal is to build LLM/agents which is both adaptive and reliable.
 
 - **Adaptive Agents:** Evaluating and building LLM agents that adaptively evolve with dynamic users and environments (e.g., tools and their associated costs [[PlanBench-XL](https://arxiv.org/abs/2606.22388), [CostBench](https://arxiv.org/pdf/2511.02734)]; evolving constraints [[AdaPlanBench](https://arxiv.org/abs/2606.05622)]).
 - **LLM Reliability:** Understanding and improving how LLMs express uncertainty and remain reliable [[MarConf](https://arxiv.org/abs/2505.24778)], especially when external information is imperfect or noisy [[MarPT](https://arxiv.org/abs/2508.08992), [NAACL](https://arxiv.org/pdf/2601.11004)].
