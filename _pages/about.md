@@ -13,6 +13,11 @@ I’m **Jiayu LIU 刘家毓**, a junior undergraduate CS student at [HKUST](http
 
 My research goal is to build LLM/agents which is both robust and adaptive.
 
+- **Adaptive Agents:** Evaluating and building LLM agents that adaptively evolve with dynamic users and environments (e.g., tools and their associated costs [[PlanBench-XL](https://arxiv.org/abs/2606.22388), [CostBench](https://arxiv.org/pdf/2511.02734)]; evolving constraints [[AdaPlanBench](https://arxiv.org/abs/2606.05622)]).
+- **LLM Reliability:** Understanding and improving how LLMs express uncertainty and remain reliable [[MarConf](https://arxiv.org/abs/2505.24778)], especially when external information is imperfect or noisy [[MarPT](https://arxiv.org/abs/2508.08992), [NAACL](https://arxiv.org/pdf/2601.11004)].
+- **LLM Reasoning:** Diagnosing crucial flaws in LLM reasoning [[RFMBench](https://arxiv.org/pdf/2506.17114), [Rethinking RLIF](#)] and developing self-evolution methods with verifiable signals [[Multirole-R1](https://arxiv.org/abs/2507.20187), [Code2Math](https://arxiv.org/abs/2603.03202)].
+
+<!--
 <style>
 .research-story-container {
   max-width: 800px;
@@ -136,6 +141,7 @@ function toggleSection(header) {
   }
 }
 </script>
+-->
 
 Here is my [google Scholar](https://scholar.google.com/citations?user=PIQxhfMAAAAJ&hl=en)
 📫 Contact: *jliufv@connect.ust.hk*
