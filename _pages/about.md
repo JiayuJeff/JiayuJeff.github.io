@@ -11,11 +11,13 @@ redirect_from:
 👋 **Welcome to my homepage!** 🥂  
 I’m **Jiayu LIU 刘家毓**, a junior undergraduate CS student at [HKUST](https://hkust.edu.hk/). I am currently a exchange student in [UIUC](https://illinois.edu/) and an undergraduate research intern advised by [Prof. Heng Ji](https://blender.cs.illinois.edu/hengji.html) and [Prof. Dilek Hakkani-Tür](https://siebelschool.illinois.edu/about/people/all-faculty/dilek). Previously, I was supervised by [Prof. Yangqiu Song](https://www.cse.ust.hk/~yqsong/) and [Prof. Yiren Fung](https://mayrfung.github.io/) at HKUST. 
 
-My research goal is to build LLM/agents which is both adaptive and reliable.
+My research broadly focuses on evaluating and building LLM agents that are both adaptive and reliable. In particular, my current interests center on two aspects:
 
-- **Adaptive Agents:** Evaluating and building LLM agents that adaptively evolve with dynamic users and environments (e.g., tools and their associated costs [[PlanBench-XL](https://arxiv.org/abs/2606.22388), [CostBench](https://arxiv.org/pdf/2511.02734)]; evolving constraints [[AdaPlanBench](https://arxiv.org/abs/2606.05622)]).
-- **LLM Reliability:** Understanding and improving how LLMs express uncertainty and remain reliable [[MarConf](https://arxiv.org/abs/2505.24778)], especially when external information is imperfect or noisy [[MarPT](https://arxiv.org/abs/2508.08992), [NAACL](https://arxiv.org/pdf/2601.11004)].
-- **LLM Reasoning:** Diagnosing crucial flaws in LLM reasoning [[RFMBench](https://arxiv.org/pdf/2506.17114), [Rethinking RLIF](#)] and developing self-evolution methods with verifiable signals [[Multirole-R1](https://arxiv.org/abs/2507.20187), [Code2Math](https://arxiv.org/abs/2603.03202)].
+* **Adaptability:** Evaluating and building LLM agents that adaptively plan and evolve with dynamic users and environments (e.g., tools and their associated costs [[PlanBench-XL](https://arxiv.org/abs/2606.22388), [CostBench](https://arxiv.org/pdf/2511.02734)] and evolving constraints [[AdaPlanBench](https://arxiv.org/abs/2606.05622)]).
+
+* **Reliability:** Understanding whether LLMs can reliably perceive uncertainty expressed in language [[MarPT](https://arxiv.org/abs/2508.08992)], reason under imperfect or noisy external information [[NAACL](https://arxiv.org/pdf/2601.11004)], and faithfully express their own confidence [[MarConf](https://arxiv.org/abs/2505.24778)].
+
+Previously, I also studied **LLM reasoning**, from diagnosing fundamental failures [[RFMBench](https://arxiv.org/pdf/2506.17114)] to developing post-training methods [[Multirole-R1](https://arxiv.org/abs/2507.20187)].
 
 <!--
 <style>
