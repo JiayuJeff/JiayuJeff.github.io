@@ -145,7 +145,7 @@ function toggleSection(header) {
 </script>
 -->
 
-Here is my [google Scholar](https://scholar.google.com/citations?user=PIQxhfMAAAAJ&hl=en)
+Here is my [Google Scholar](https://scholar.google.com/citations?user=PIQxhfMAAAAJ&hl=en)
 📫 Contact: *jliufv@connect.ust.hk*
 
 ---
