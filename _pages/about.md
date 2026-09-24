@@ -145,7 +145,9 @@ function toggleSection(header) {
 </script>
 -->
 
-Here is my [Google Scholar](https://scholar.google.com/citations?user=PIQxhfMAAAAJ&hl=en)
+Here is my [Google Scholar](https://scholar.google.com/citations?user=PIQxhfMAAAAJ&hl=en).
+
+Feel free to reach out! I am always open to any kind of academic discussions or collaborations!
 📫 Contact: *jliufv@connect.ust.hk*
 
 ---
@@ -179,6 +181,7 @@ Here is my [Google Scholar](https://scholar.google.com/citations?user=PIQxhfMAAA
 </style>
 
 <div class="news-container">
+  <div class="news-item">• <strong>[2026/9]</strong> 🎉 1 papers accepted to <strong>NeurlPS 2026</strong>! Huge thanks to all collaborators!</div>
   <div class="news-item">• <strong>[2026/8]</strong> 🎉 7 papers accepted to <strong>EMNLP 2026</strong>! Huge thanks to all collaborators!</div>
   <div class="news-item">• <strong>[2026/7]</strong> 🎉 <a href="https://arxiv.org/abs/2606.05622"><em>AdaPlanBench</em></a> and <a href="https://arxiv.org/abs/2605.02910"><em>CreativityBench</em></a> are accepted to <strong>COLM 2026</strong>! Huge thanks to all collaborators!</div>
   <div class="news-item">• <strong>[2026/6]</strong> 🔥 Released <a href="https://huggingface.co/papers/2606.22388"><em>PlanBench-XL: Evaluating Long-Horizon Planning of LLM Tool-Use Agents in Large-Scale Tool Ecosystems</em></a>, which got <strong>96 upvotes</strong> and ranked <strong>#1</strong> in <a href="https://huggingface.co/papers/date/2026-06-23">Hugging Face Daily Papers (June 23rd)</a>!</div>
