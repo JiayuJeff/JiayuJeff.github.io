@@ -145,7 +145,7 @@ function toggleSection(header) {
 </script>
 -->
 
-I am currently seeking **PhD opportunities in Computer Science for Fall 2027**. If you think my research background and interests may be a good fit for your group, I would be very grateful to hear from you.
+🎓 I am currently seeking **PhD opportunities in Computer Science for Fall 2027**. If you think my research background and interests may be a good fit for your group, I would be very grateful to hear from you.
 
 I am also always happy to connect with fellow students and researchers. Feel free to reach out for academic discussions, research ideas, or potential collaborations!
 
