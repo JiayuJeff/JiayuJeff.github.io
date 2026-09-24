@@ -145,10 +145,11 @@ function toggleSection(header) {
 </script>
 -->
 
-Here is my [Google Scholar](https://scholar.google.com/citations?user=PIQxhfMAAAAJ&hl=en).
+I am currently seeking **PhD opportunities in Computer Science for Fall 2027**. If you think my research background and interests may be a good fit for your group, I would be very grateful to hear from you.
 
-Feel free to reach out! I am always open to any kind of academic discussions or collaborations!
-📫 Contact: *jliufv@connect.ust.hk*
+I am also always happy to connect with fellow students and researchers. Feel free to reach out for academic discussions, research ideas, or potential collaborations!
+
+📫 Contact: *[jliufv@connect.ust.hk](mailto:jliufv@connect.ust.hk)*
 
 ---
 
