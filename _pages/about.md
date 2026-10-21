@@ -13,7 +13,7 @@ I’m **Jiayu Liu 刘家毓**, an undergraduate Computer Science student at [HKU
 
 My research broadly focuses on evaluating and building LLM agents that are both adaptive and reliable. In particular, my current interests center on two aspects:
 
-* **Adaptability:** Evaluating and building LLM agents that plan, explore, and adapt in changing environments, including tool use and cost-aware planning [[PlanBench-XL](https://arxiv.org/abs/2606.22388), [CostBench](https://arxiv.org/abs/2511.02734)], planning under evolving constraints [[AdaPlanBench](https://arxiv.org/abs/2606.05622)], and proactive exploration and test-time adaptation [[AdaExploreBench](https://arxiv.org/abs/2610.25950)].
+* **Adaptability:** Evaluating and building LLM agents that plan, explore, and adapt in changing environments, including tool use and cost-aware planning [[PlanBench-XL](https://arxiv.org/abs/2606.22388), [CostBench](https://arxiv.org/abs/2511.02734)], planning under evolving constraints [[AdaPlanBench](https://arxiv.org/abs/2606.05622)], and proactive exploration [[AdaExploreBench](https://arxiv.org/abs/2610.25950)].
 
 * **Reliability:** Understanding whether LLMs can reliably perceive uncertainty expressed in language [[MarPT](https://arxiv.org/abs/2508.08992)], reason under imperfect or noisy external information [[NAACL](https://arxiv.org/abs/2601.11004)], and faithfully express their own confidence [[MarConf](https://arxiv.org/abs/2505.24778)].
 
@@ -138,22 +138,6 @@ Selected first-author and co-first-author papers are listed below, ordered by ye
 </style>
 
 <div class="pub-container">
-  <img src="/images/AdaExploreBench-overview.svg" class="pub-image" alt="AdaExploreBench overview">
-  <div class="pub-info">
-    <div class="pub-venue">arXiv preprint · 2026</div>
-    <div class="pub-title">AdaExploreBench: Benchmarking LLM Agents for Proactive Exploration and Test-time Adaptation in Evolving Environments</div>
-    <div class="pub-authors"><strong>Rui Wang<sup>*</sup></strong>, <strong>Zishen Lai<sup>*</sup></strong>, <strong>Jiayu Liu<sup>*</sup></strong>, Cheng Qian, Jeonghwan Kim, Heng Wang, Xuejun Zhang, Jiateng Liu, Bingxuan Li, Shujin Wu, Qing Zong, Tianshi Zheng, Chunyang Li, Qihan Lin, Chen Li, Dadi Guo, Xiusi Chen, Yangqiu Song</div>
-    <div class="pub-links">
-      <a href="https://arxiv.org/abs/2610.25950">arXiv</a>
-      <a href="https://huggingface.co/papers/2610.25950">HF Daily Papers</a>
-      <a href="https://hkust-knowcomp.github.io/AdaExploreBench/">Project page</a>
-      <a href="https://github.com/HKUST-KnowComp/AdaExploreBench">Code</a>
-      <a href="https://huggingface.co/datasets/Roryaccout/AdaExploreBench">Dataset</a>
-    </div>
-  </div>
-</div>
-
-<div class="pub-container">
   <img src="/images/PlanBench-XL_overview.png" class="pub-image" alt="PlanBench-XL">
   <div class="pub-info">
     <div class="pub-venue">EMNLP 2026</div>
@@ -272,6 +256,22 @@ Selected first-author and co-first-author papers are listed below, ordered by ye
     <div class="pub-links">
       <a href="https://aclanthology.org/2024.fever-1.14/">ACL Anthology</a>
       <a href="https://github.com/HKUST-KnowComp/GProofT">Code</a>
+    </div>
+  </div>
+</div>
+
+<div class="pub-container">
+  <img src="/images/AdaExploreBench-overview.svg" class="pub-image" alt="AdaExploreBench overview">
+  <div class="pub-info">
+    <div class="pub-venue">arXiv preprint · 2026</div>
+    <div class="pub-title">AdaExploreBench: Benchmarking LLM Agents for Proactive Exploration and Test-time Adaptation in Evolving Environments</div>
+    <div class="pub-authors">Rui Wang<sup>*</sup>, Zishen Lai<sup>*</sup>, <strong>Jiayu Liu<sup>*</sup></strong>, Cheng Qian, Jeonghwan Kim, Heng Wang, Xuejun Zhang, Jiateng Liu, Bingxuan Li, Shujin Wu, Qing Zong, Tianshi Zheng, Chunyang Li, Qihan Lin, Chen Li, Dadi Guo, Xiusi Chen, Yangqiu Song</div>
+    <div class="pub-links">
+      <a href="https://arxiv.org/abs/2610.25950">arXiv</a>
+      <a href="https://huggingface.co/papers/2610.25950">HF Daily Papers</a>
+      <a href="https://hkust-knowcomp.github.io/AdaExploreBench/">Project page</a>
+      <a href="https://github.com/HKUST-KnowComp/AdaExploreBench">Code</a>
+      <a href="https://huggingface.co/datasets/Roryaccout/AdaExploreBench">Dataset</a>
     </div>
   </div>
 </div>
