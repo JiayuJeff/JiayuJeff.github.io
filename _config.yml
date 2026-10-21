@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "LIU Jiayu / HKUST Undergraduate"
+title                    : "Jiayu Liu / HKUST Undergraduate"
 title_separator          : "-"
-name                     : &name "LIU Jiayu"
-description              : &description "personal description"
+name                     : &name "Jiayu Liu"
+description              : &description "Jiayu Liu is a Computer Science undergraduate at HKUST researching adaptive and reliable LLM agents."
 url                      : https://JiayuJeff.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "JiayuJeff/JiayuJeff.github.io"
@@ -22,9 +22,9 @@ repository               : "JiayuJeff/JiayuJeff.github.io"
 author:
   # Biographic information
   avatar           : "profile_uiuc.jpg"
-  name             : "LIU Jiayu"
+  name             : "Jiayu Liu"
   pronouns         : "He/him" 
-  bio              : "Year 3 Computer Science Undergraduate at HKUST"
+  bio              : "Computer Science Undergraduate at HKUST"
   location         : "Hong Kong"
   employer         : "HKUST"
   uri              : "https://JiayuJeff.github.io" # URL

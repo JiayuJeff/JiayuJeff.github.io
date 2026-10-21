@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jiayu LIU 刘家毓"
+title: "Jiayu Liu 刘家毓"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,141 +9,15 @@ redirect_from:
 ---
 
 👋 **Welcome to my homepage!** 🥂  
-I’m **Jiayu LIU 刘家毓**, a junior undergraduate CS student at [HKUST](https://hkust.edu.hk/). I am currently a exchange student in [UIUC](https://illinois.edu/) and an undergraduate research intern advised by [Prof. Heng Ji](https://blender.cs.illinois.edu/hengji.html) and [Prof. Dilek Hakkani-Tür](https://siebelschool.illinois.edu/about/people/all-faculty/dilek). Previously, I was supervised by [Prof. Yangqiu Song](https://www.cse.ust.hk/~yqsong/) and [Prof. Yiren Fung](https://mayrfung.github.io/) at HKUST. 
+I’m **Jiayu Liu 刘家毓**, an undergraduate Computer Science student at [HKUST](https://hkust.edu.hk/). I was an exchange student at [UIUC](https://illinois.edu/) in Spring 2026 and am currently an undergraduate research intern advised by [Prof. Heng Ji](https://blender.cs.illinois.edu/hengji.html) and [Prof. Dilek Hakkani-Tür](https://siebelschool.illinois.edu/about/people/all-faculty/dilek). Previously, I was supervised by [Prof. Yangqiu Song](https://www.cse.ust.hk/~yqsong/) and [Prof. Yiren Fung](https://mayrfung.github.io/) at HKUST.
 
 My research broadly focuses on evaluating and building LLM agents that are both adaptive and reliable. In particular, my current interests center on two aspects:
 
-* **Adaptability:** Evaluating and building LLM agents that adaptively plan and evolve with dynamic users and environments (e.g., tools and their associated costs [[PlanBench-XL](https://arxiv.org/abs/2606.22388), [CostBench](https://arxiv.org/pdf/2511.02734)] and evolving constraints [[AdaPlanBench](https://arxiv.org/abs/2606.05622)]).
+* **Adaptability:** Evaluating and building LLM agents that plan, explore, and adapt in changing environments, including tool use and cost-aware planning [[PlanBench-XL](https://arxiv.org/abs/2606.22388), [CostBench](https://arxiv.org/abs/2511.02734)], planning under evolving constraints [[AdaPlanBench](https://arxiv.org/abs/2606.05622)], and proactive exploration and test-time adaptation [[AdaExploreBench](https://arxiv.org/abs/2610.25950)].
 
-* **Reliability:** Understanding whether LLMs can reliably perceive uncertainty expressed in language [[MarPT](https://arxiv.org/abs/2508.08992)], reason under imperfect or noisy external information [[NAACL](https://arxiv.org/pdf/2601.11004)], and faithfully express their own confidence [[MarConf](https://arxiv.org/abs/2505.24778)].
+* **Reliability:** Understanding whether LLMs can reliably perceive uncertainty expressed in language [[MarPT](https://arxiv.org/abs/2508.08992)], reason under imperfect or noisy external information [[NAACL](https://arxiv.org/abs/2601.11004)], and faithfully express their own confidence [[MarConf](https://arxiv.org/abs/2505.24778)].
 
-Previously, I also studied **LLM reasoning**, from diagnosing fundamental failures [[RFMBench](https://arxiv.org/pdf/2506.17114)] to developing post-training methods [[Multirole-R1](https://arxiv.org/abs/2507.20187)].
-
-<!--
-<style>
-.research-story-container {
-  max-width: 800px;
-  margin: 20px 0;
-}
-
-.research-section {
-  background-color: #fff;
-  border: 1px solid #e9ecef;
-  border-radius: 8px;
-  margin-bottom: 15px;
-  overflow: hidden;
-}
-
-.research-header {
-  display: flex;
-  align-items: center;
-  padding: 15px 20px;
-  cursor: pointer;
-  background-color: #fff;
-  border-bottom: 1px solid #e9ecef;
-  user-select: none;
-}
-
-.research-header:hover {
-  background-color: #f8f9fa;
-}
-
-.research-icon {
-  margin-right: 10px;
-  color: #495057;
-  font-size: 14px;
-  transition: transform 0.2s;
-}
-
-.research-header h2 {
-  margin: 0;
-  font-size: 18px;
-  font-weight: bold;
-  color: #212529;
-}
-
-.research-content {
-  padding: 20px;
-  display: none;
-}
-
-.research-content.active {
-  display: block;
-}
-
-.research-content ol {
-  margin: 0;
-  padding-left: 25px;
-}
-
-.research-content li {
-  margin-bottom: 12px;
-  font-size: 16px;
-  color: #495057;
-  line-height: 1.6;
-}
-
-.research-content a {
-  color: #fd7e14;
-  text-decoration: underline;
-  font-size: 15px;
-}
-
-.research-content a:hover {
-  color: #e67e22;
-}
-</style>
-
-### My current research focuses on:
-
-<div class="research-story-container">
-  <div class="research-section">
-    <div class="research-header" onclick="toggleSection(this)">
-      <span class="research-icon">▶</span>
-      <h2>Adaptive Agents</h2>
-    </div>
-    <div class="research-content">
-      <p>Evaluating and building LLM agents that adaptively evolve with dynamic users and environments (e.g., tools and their associated costs <a href="https://arxiv.org/abs/2606.22388">[PlanBench-XL]</a>, <a href="https://arxiv.org/pdf/2511.02734">[CostBench]</a>; evolving constraints <a href="https://arxiv.org/abs/2606.05622">[AdaPlanBench]</a>).</p>
-    </div>
-  </div>
-
-  <div class="research-section">
-    <div class="research-header" onclick="toggleSection(this)">
-      <span class="research-icon">▶</span>
-      <h2>LLM Reliability</h2>
-    </div>
-    <div class="research-content">
-      <p>Understanding and improving how LLMs express uncertainty and remain reliable <a href="https://arxiv.org/abs/2505.24778">[MarConf]</a>, especially when external information is imperfect or noisy <a href="https://arxiv.org/abs/2508.08992">[MarPT]</a>, <a href="https://arxiv.org/pdf/2601.11004">[NAACL]</a>.</p>
-    </div>
-  </div>
-
-  <div class="research-section">
-    <div class="research-header" onclick="toggleSection(this)">
-      <span class="research-icon">▶</span>
-      <h2>LLM Reasoning</h2>
-    </div>
-    <div class="research-content">
-      <p>Diagnosing crucial flaws in LLM reasoning <a href="https://arxiv.org/pdf/2506.17114">[RFMBench]</a>, <a href="#">[Rethinking RLIF]</a> and developing self-evolution methods with verifiable signals <a href="https://arxiv.org/abs/2507.20187">[Multirole-R1]</a>, <a href="https://arxiv.org/abs/2603.03202">[Code2Math]</a>.</p>
-    </div>
-  </div>
-
-</div>
-
-<script>
-function toggleSection(header) {
-  const content = header.nextElementSibling;
-  const icon = header.querySelector('.research-icon');
-
-  if (content.classList.contains('active')) {
-    content.classList.remove('active');
-    icon.textContent = '▶';
-  } else {
-    content.classList.add('active');
-    icon.textContent = '▼';
-  }
-}
-</script>
--->
+Previously, I also studied **LLM reasoning**, from diagnosing fundamental failures [[RFMBench](https://arxiv.org/abs/2506.17114)] to developing post-training methods [[Multirole-R1](https://arxiv.org/abs/2507.20187)].
 
 🎓 I am currently seeking **PhD opportunities in Computer Science for Fall 2027**. If you think my research background and interests may be a good fit for your group, I would be very grateful to hear from you.
 
@@ -182,36 +56,37 @@ I am also always happy to connect with fellow students and researchers. Feel fre
 </style>
 
 <div class="news-container">
-  <div class="news-item">• <strong>[2026/9]</strong> 🎉 1 papers accepted to <strong>NeurlPS 2026</strong>! Huge thanks to all collaborators!</div>
-  <div class="news-item">• <strong>[2026/8]</strong> 🎉 7 papers accepted to <strong>EMNLP 2026</strong>! Huge thanks to all collaborators!</div>
-  <div class="news-item">• <strong>[2026/7]</strong> 🎉 <a href="https://arxiv.org/abs/2606.05622"><em>AdaPlanBench</em></a> and <a href="https://arxiv.org/abs/2605.02910"><em>CreativityBench</em></a> are accepted to <strong>COLM 2026</strong>! Huge thanks to all collaborators!</div>
-  <div class="news-item">• <strong>[2026/6]</strong> 🔥 Released <a href="https://huggingface.co/papers/2606.22388"><em>PlanBench-XL: Evaluating Long-Horizon Planning of LLM Tool-Use Agents in Large-Scale Tool Ecosystems</em></a>, which got <strong>96 upvotes</strong> and ranked <strong>#1</strong> in <a href="https://huggingface.co/papers/date/2026-06-23">Hugging Face Daily Papers (June 23rd)</a>!</div>
-  <div class="news-item">• <strong>[2026/6]</strong> 🔥 Released <a href="https://huggingface.co/papers/2606.05622"><em>AdaPlanBench: Evaluating Adaptive Planning in Large Language Model Agents under World and User Constraints</em></a>, which got <strong>44 upvotes</strong> and ranked <strong>#4</strong> in <a href="https://huggingface.co/papers/date/2026-06-05">Hugging Face Daily Papers (June 5th)</a>!</div>
-  <div class="news-item">• <strong>[2026/6]</strong> 🔬 Honored to join UIUC <a href="https://uiuc-conversational-ai-lab.github.io/">ConvAI Lab</a> as a undergraduate research intern! Looking forward to learning from <a href="https://siebelschool.illinois.edu/about/people/all-faculty/dilek">Prof. Dilek Hakkani-Tür</a> and <a href="https://siebelschool.illinois.edu/about/people/faculty/gokhan">Prof. Gokhan Tur</a>!</div>
-  <div class="news-item">• <strong>[2026/4]</strong> 🔬 Founded <a href="https://github.com/HKUST-UGAIL">HKUST UGAI Lab</a>, aiming to advance undergraduate AI research at HKUST through targeted mentorship, dedicated funding support, and recognized platforms.</div>
-  <div class="news-item">• <strong>[2026/4]</strong> 🎉 Three papers accepted to <strong>ACL 2026</strong> (<a href="https://arxiv.org/pdf/2511.02734v1"><em>CostBench</em></a>, <a href="https://arxiv.org/pdf/2506.17114"><em>RFMBench</em></a>, <a href="https://arxiv.org/abs/2510.10117"><em>DixitWorld</em></a>)! Huge thanks to all collaborators!</div>
-  <div class="news-item">• <strong>[2026/1]</strong> 🎉 My co-first-author paper <a href="https://openreview.net/forum?id=1Bf0tToGT1"><em>Diversity-Enhanced Reasoning for Subjective Questions</em></a> is accepted by <a href="https://iclr.cc/"><strong>ICLR 2026</strong></a>!</div>
-  <div class="news-item">• <strong>[2026/1]</strong> 🔥 Released <a href="https://huggingface.co/papers/2601.11004"><em>NAACL: Noise-AwAre Verbal Confidence Calibration for LLMs in RAG Systems</em></a>, which got <strong>30 upvotes</strong> and ranked <strong>#3</strong> in <a href="https://huggingface.co/papers/date/2026-01-20">Hugging Face Daily Papers (January 20th)</a>!</div>
-  <div class="news-item">• <strong>[2025/12]</strong> 🔬 Honored to join UIUC <a href="https://blender.cs.illinois.edu/index.html">BLENDER Lab</a> as a undergraduate research intern! Looking forward to learning from <a href="https://blender.cs.illinois.edu/hengji.html">Prof. Heng Ji</a>!</div>
-  <div class="news-item">• <strong>[2025/11]</strong> 🔥 Released <a href="https://huggingface.co/papers/2511.02734"><em>CostBench: Evaluating Multi-Turn Cost-Optimal Planning and Adaptation in Dynamic Environments for LLM Tool-Use Agents</em></a>, which got <strong>22 upvotes</strong> and ranked <strong>#4</strong> in <a href="https://huggingface.co/papers/date/2025-11-06">Hugging Face Daily Papers (November 6th)</a>!</div>
-  <div class="news-item">• <strong>[2025/8]</strong> 🏅 Honored to receive the <strong>UROP Support Grant</strong> and <strong>UROP Research Travel Sponsorship</strong>!</div>
-  <div class="news-item">• <strong>[2025/7]</strong> 🔥 Released <a href="https://huggingface.co/papers/2507.20187"><em>Diversity-Enhanced Subjective Question-Answering</em></a>, which got <strong>26 upvotes</strong> and ranked <strong>#8</strong> in <a href="https://huggingface.co/papers/date/2025-07-29">Hugging Face Daily Papers (July 29th)</a>!</div>
-  <div class="news-item">• <strong>[2025/7]</strong> ✈️ Will join <a href="https://illinois.edu/">University of Illinois Urbana-Champaign</a> as an <strong>exchange undergraduate student in Spring 2026</strong>!</div>
-  <div class="news-item">• <strong>[2025/5]</strong> 🎉 My first-author paper <a href="https://arxiv.org/abs/2505.24778"><em>Revisiting Epistemic Markers in Confidence Estimation</em></a> is <strong>accepted to <a href="https://2025.aclweb.org/">ACL 2025 Main</a>!</strong> Sincere gratitude to all my collaborators!</div>
-  <div class="news-item">• <strong>[2025/2]</strong> 🔬 Honored to join HKUST <a href="https://mayrfung.github.io/group/">RenAI Lab</a> as a undergraduate research intern! Looking forward to learning from <a href="https://mayrfung.github.io/">Prof. Yiren Fung</a>!</div>
-  <div class="news-item">• <strong>[2025/1]</strong> 🏅 Honored to receive <strong>HKIE Scholarship 2024/25!</strong></div>
-  <div class="news-item">• <strong>[2024/10]</strong> 🎉 My co-first-author paper <a href="https://aclanthology.org/2024.fever-1.14/"><em>GProofT</em></a> is accepted by <a href="https://fever.ai/2024/workshop.html"><strong>The Seventh FEVER Workshop</strong></a>!</div>
-  <div class="news-item">• <strong>[2024/9]</strong> 🏅 Honored to receive <strong>The Joseph Lau Luen Hung Charitable Trust Scholarship 2024/25!</strong></div>
-  <div class="news-item">• <strong>[2024/6]</strong> ✈️ Traveled to <a href="https://cuni.cz/UKEN-1.html">Charles University</a> in Prague for summer exchange! Wonderful experience — loved everything there 🥰</div>
-  <div class="news-item">• <strong>[2024/6]</strong> 🔬 Honored to join HKUST <a href="https://github.com/HKUST-KnowComp">KnowComp Group</a> as a undergraduate research intern! Looking forward to learning from <a href="https://www.cse.ust.hk/~yqsong/">Prof. Yangqiu Song</a>!</div>
-  <div class="news-item">• <strong>[2023/9]</strong> 🏅 Honored to receive <strong>China Soong Ching Ling Foundation Zhiyuan Bursary!</strong></div>
+  <div class="news-item">• <strong>[2026/10]</strong> 🔥 Released <a href="https://arxiv.org/abs/2610.25950">AdaExploreBench: Benchmarking LLM Agents for Proactive Exploration and Test-time Adaptation in Evolving Environments</a>! Explore the <a href="https://hkust-knowcomp.github.io/AdaExploreBench/">project page</a>, <a href="https://github.com/HKUST-KnowComp/AdaExploreBench">code</a>, and <a href="https://huggingface.co/datasets/Roryaccout/AdaExploreBench">dataset</a>.</div>
+  <div class="news-item">• <strong>[2026/09]</strong> 🎉 1 paper accepted to <strong>NeurIPS 2026</strong>! Huge thanks to all collaborators!</div>
+  <div class="news-item">• <strong>[2026/08]</strong> 🎉 7 papers accepted to <strong>EMNLP 2026</strong>! Huge thanks to all collaborators!</div>
+  <div class="news-item">• <strong>[2026/07]</strong> 🎉 <a href="https://arxiv.org/abs/2606.05622">AdaPlanBench</a> and <a href="https://arxiv.org/abs/2605.02910">CreativityBench</a> are accepted to <strong>COLM 2026</strong>! Huge thanks to all collaborators!</div>
+  <div class="news-item">• <strong>[2026/06]</strong> 🔥 Released <a href="https://huggingface.co/papers/2606.22388">PlanBench-XL: Evaluating Long-Horizon Planning of LLM Tool-Use Agents in Large-Scale Tool Ecosystems</a>, which got <strong>96 upvotes</strong> and ranked <strong>#1</strong> in <a href="https://huggingface.co/papers/date/2026-06-23">Hugging Face Daily Papers (June 23rd)</a>!</div>
+  <div class="news-item">• <strong>[2026/06]</strong> 🔥 Released <a href="https://huggingface.co/papers/2606.05622">AdaPlanBench: Evaluating Adaptive Planning in Large Language Model Agents under World and User Constraints</a>, which got <strong>44 upvotes</strong> and ranked <strong>#4</strong> in <a href="https://huggingface.co/papers/date/2026-06-05">Hugging Face Daily Papers (June 5th)</a>!</div>
+  <div class="news-item">• <strong>[2026/06]</strong> 🔬 Honored to join UIUC <a href="https://uiuc-conversational-ai-lab.github.io/">ConvAI Lab</a> as an undergraduate research intern! Looking forward to learning from <a href="https://siebelschool.illinois.edu/about/people/all-faculty/dilek">Prof. Dilek Hakkani-Tür</a> and <a href="https://siebelschool.illinois.edu/about/people/faculty/gokhan">Prof. Gokhan Tur</a>!</div>
+  <div class="news-item">• <strong>[2026/04]</strong> 🔬 Founded <a href="https://github.com/HKUST-UGAIL">HKUST UGAI Lab</a>, aiming to advance undergraduate AI research at HKUST through targeted mentorship, dedicated funding support, and recognized platforms.</div>
+  <div class="news-item">• <strong>[2026/04]</strong> 🎉 Three papers accepted to <strong>ACL 2026</strong> (<a href="https://arxiv.org/abs/2511.02734">CostBench</a>, <a href="https://arxiv.org/abs/2506.17114">RFMBench</a>, <a href="https://arxiv.org/abs/2510.10117">DixitWorld</a>)! Huge thanks to all collaborators!</div>
+  <div class="news-item">• <strong>[2026/01]</strong> 🎉 My co-first-author paper <a href="https://openreview.net/forum?id=1Bf0tToGT1">Diversity-Enhanced Reasoning for Subjective Questions</a> is accepted by <a href="https://iclr.cc/"><strong>ICLR 2026</strong></a>!</div>
+  <div class="news-item">• <strong>[2026/01]</strong> 🔥 Released <a href="https://huggingface.co/papers/2601.11004">NAACL: Noise-AwAre Verbal Confidence Calibration for LLMs in RAG Systems</a>, which got <strong>30 upvotes</strong> and ranked <strong>#3</strong> in <a href="https://huggingface.co/papers/date/2026-01-20">Hugging Face Daily Papers (January 20th)</a>!</div>
+  <div class="news-item">• <strong>[2025/12]</strong> 🔬 Honored to join UIUC <a href="https://blender.cs.illinois.edu/index.html">BLENDER Lab</a> as an undergraduate research intern! Looking forward to learning from <a href="https://blender.cs.illinois.edu/hengji.html">Prof. Heng Ji</a>!</div>
+  <div class="news-item">• <strong>[2025/11]</strong> 🔥 Released <a href="https://huggingface.co/papers/2511.02734">CostBench: Evaluating Multi-Turn Cost-Optimal Planning and Adaptation in Dynamic Environments for LLM Tool-Use Agents</a>, which got <strong>22 upvotes</strong> and ranked <strong>#4</strong> in <a href="https://huggingface.co/papers/date/2025-11-06">Hugging Face Daily Papers (November 6th)</a>!</div>
+  <div class="news-item">• <strong>[2025/08]</strong> 🏅 Honored to receive the <strong>UROP Support Grant</strong> and <strong>UROP Research Travel Sponsorship</strong>!</div>
+  <div class="news-item">• <strong>[2025/07]</strong> 🔥 Released <a href="https://huggingface.co/papers/2507.20187">Diversity-Enhanced Reasoning for Subjective Questions</a>, which got <strong>26 upvotes</strong> and ranked <strong>#8</strong> in <a href="https://huggingface.co/papers/date/2025-07-29">Hugging Face Daily Papers (July 29th)</a>!</div>
+  <div class="news-item">• <strong>[2025/07]</strong> ✈️ Will join <a href="https://illinois.edu/">University of Illinois Urbana-Champaign</a> as an <strong>exchange undergraduate student in Spring 2026</strong>!</div>
+  <div class="news-item">• <strong>[2025/05]</strong> 🎉 My first-author paper <a href="https://arxiv.org/abs/2505.24778">Revisiting Epistemic Markers in Confidence Estimation</a> is <strong>accepted to <a href="https://2025.aclweb.org/">ACL 2025 Main</a>!</strong> Sincere gratitude to all my collaborators!</div>
+  <div class="news-item">• <strong>[2025/02]</strong> 🔬 Honored to join HKUST <a href="https://mayrfung.github.io/group/">RenAI Lab</a> as an undergraduate research intern! Looking forward to learning from <a href="https://mayrfung.github.io/">Prof. Yiren Fung</a>!</div>
+  <div class="news-item">• <strong>[2025/01]</strong> 🏅 Honored to receive <strong>HKIE Scholarship 2024/25!</strong></div>
+  <div class="news-item">• <strong>[2024/10]</strong> 🎉 My co-first-author paper <a href="https://aclanthology.org/2024.fever-1.14/">GProofT</a> is accepted by <a href="https://fever.ai/2024/workshop.html"><strong>The Seventh FEVER Workshop</strong></a>!</div>
+  <div class="news-item">• <strong>[2024/09]</strong> 🏅 Honored to receive <strong>The Joseph Lau Luen Hung Charitable Trust Scholarship 2024/25!</strong></div>
+  <div class="news-item">• <strong>[2024/06]</strong> ✈️ Traveled to <a href="https://cuni.cz/UKEN-1.html">Charles University</a> in Prague for summer exchange! Wonderful experience — loved everything there 🥰</div>
+  <div class="news-item">• <strong>[2024/06]</strong> 🔬 Honored to join HKUST <a href="https://github.com/HKUST-KnowComp">KnowComp Group</a> as an undergraduate research intern! Looking forward to learning from <a href="https://www.cse.ust.hk/~yqsong/">Prof. Yangqiu Song</a>!</div>
+  <div class="news-item">• <strong>[2023/09]</strong> 🏅 Honored to receive <strong>China Soong Ching Ling Foundation Zhiyuan Bursary!</strong></div>
 </div>
 
 ---
 
 ## 📖 Selected Publications
 
-Note: Only first author/co-first author papers are listed. Please refer to [the publications page](/publications/) for full publications. * denotes equal contribution.
+Selected first-author and co-first-author papers are listed below, ordered by year and venue. See [Google Scholar]({{ site.author.googlescholar }}) for the full publication list. <sup>*</sup> denotes equal contribution.
 
 <style>
 .pub-container {
@@ -224,7 +99,8 @@ Note: Only first author/co-first author papers are listed. Please refer to [the 
   flex-shrink: 0;
   width: 120px;
   height: 120px;
-  object-fit: cover;
+  object-fit: contain;
+  background-color: #fff;
   border-radius: 6px;
   border: 1px solid #e9ecef;
 }
@@ -262,15 +138,44 @@ Note: Only first author/co-first author papers are listed. Please refer to [the 
 </style>
 
 <div class="pub-container">
+  <img src="/images/AdaExploreBench-overview.svg" class="pub-image" alt="AdaExploreBench overview">
+  <div class="pub-info">
+    <div class="pub-venue">arXiv preprint · 2026</div>
+    <div class="pub-title">AdaExploreBench: Benchmarking LLM Agents for Proactive Exploration and Test-time Adaptation in Evolving Environments</div>
+    <div class="pub-authors"><strong>Rui Wang<sup>*</sup></strong>, <strong>Zishen Lai<sup>*</sup></strong>, <strong>Jiayu Liu<sup>*</sup></strong>, Cheng Qian, Jeonghwan Kim, Heng Wang, Xuejun Zhang, Jiateng Liu, Bingxuan Li, Shujin Wu, Qing Zong, Tianshi Zheng, Chunyang Li, Qihan Lin, Chen Li, Dadi Guo, Xiusi Chen, Yangqiu Song</div>
+    <div class="pub-links">
+      <a href="https://arxiv.org/abs/2610.25950">arXiv</a>
+      <a href="https://huggingface.co/papers/2610.25950">HF Daily Papers</a>
+      <a href="https://hkust-knowcomp.github.io/AdaExploreBench/">Project page</a>
+      <a href="https://github.com/HKUST-KnowComp/AdaExploreBench">Code</a>
+      <a href="https://huggingface.co/datasets/Roryaccout/AdaExploreBench">Dataset</a>
+    </div>
+  </div>
+</div>
+
+<div class="pub-container">
   <img src="/images/PlanBench-XL_overview.png" class="pub-image" alt="PlanBench-XL">
   <div class="pub-info">
     <div class="pub-venue">EMNLP 2026</div>
     <div class="pub-title">PlanBench-XL: Evaluating Long-Horizon Planning of LLM Tool-Use Agents in Large-Scale Tool Ecosystems</div>
-    <div class="pub-authors"><strong>Jiayu Liu<sup>*</sup></strong>, Qihan Lin<sup>*</sup>, Cheng Qian, Rui Wang, Emre Can Acikgoz, Xiaocheng Yang, Qing Zong, Jiateng Liu, Zhenhailong Wang, Xiusi Chen, Heng Ji, Dilek Hakkani-Tür</div>
+    <div class="pub-authors"><strong>Jiayu Liu<sup>*</sup></strong>, <strong>Qihan Lin<sup>*</sup></strong>, Cheng Qian, Rui Wang, Emre Can Acikgoz, Xiaocheng Yang, Qing Zong, Jiateng Liu, Zhenhailong Wang, Xiusi Chen, Heng Ji, Dilek Hakkani-Tür</div>
     <div class="pub-links">
-      <a href="https://arxiv.org/abs/2606.22388">arxiv</a>
+      <a href="https://arxiv.org/abs/2606.22388">arXiv</a>
       <a href="https://huggingface.co/papers/2606.22388">HF Daily Papers</a>
-      <a href="https://github.com/JiayuJeff/PlanBench-Xl">code</a>
+      <a href="https://github.com/JiayuJeff/PlanBench-Xl">Code</a>
+    </div>
+  </div>
+</div>
+
+<div class="pub-container">
+  <img src="/images/MarPT.png" class="pub-image" alt="MarPT">
+  <div class="pub-info">
+    <div class="pub-venue">EMNLP 2026</div>
+    <div class="pub-title">Rethinking Prospect Theory for LLMs: Revealing the Instability of Decision-Making under Epistemic Uncertainty</div>
+    <div class="pub-authors"><strong>Rui Wang<sup>*</sup></strong>, <strong>Qihan Lin<sup>*</sup></strong>, <strong>Jiayu Liu<sup>*</sup></strong>, Qing Zong, Tianshi Zheng, Dadi Guo, Haochen Shi, Peixuan Han, Weiqi Wang, Yangqiu Song</div>
+    <div class="pub-links">
+      <a href="https://arxiv.org/abs/2508.08992">arXiv</a>
+      <a href="https://github.com/HKUST-KnowComp/MarPT">Code</a>
     </div>
   </div>
 </div>
@@ -278,13 +183,13 @@ Note: Only first author/co-first author papers are listed. Please refer to [the 
 <div class="pub-container">
   <img src="/images/NAACL.png" class="pub-image" alt="NAACL">
   <div class="pub-info">
-    <div class="pub-venue">EMNLP 2026 Findings</div>
+    <div class="pub-venue">Findings of EMNLP 2026</div>
     <div class="pub-title">NAACL: Noise-AwAre Verbal Confidence Calibration for LLMs in RAG Systems</div>
-    <div class="pub-authors"><strong>Jiayu Liu<sup>*</sup></strong>, Rui Wang<sup>*</sup>, Qing Zong, Qingcheng Zeng, Tianshi Zheng, Haochen Shi, Dadi Guo, Baixuan Xu, Chunyang Li, Yangqiu Song</div>
+    <div class="pub-authors"><strong>Jiayu Liu<sup>*</sup></strong>, <strong>Rui Wang<sup>*</sup></strong>, Qing Zong, Qingcheng Zeng, Tianshi Zheng, Haochen Shi, Dadi Guo, Baixuan Xu, Chunyang Li, Yangqiu Song</div>
     <div class="pub-links">
-      <a href="https://arxiv.org/pdf/2601.11004">arxiv</a>
+      <a href="https://arxiv.org/abs/2601.11004">arXiv</a>
       <a href="https://huggingface.co/papers/2601.11004">HF Daily Papers</a>
-      <a href="https://github.com/HKUST-KnowComp/NAACL">code</a>
+      <a href="https://github.com/HKUST-KnowComp/NAACL">Code</a>
     </div>
   </div>
 </div>
@@ -296,9 +201,9 @@ Note: Only first author/co-first author papers are listed. Please refer to [the 
     <div class="pub-title">AdaPlanBench: Evaluating Adaptive Planning in Large Language Model Agents under World and User Constraints</div>
     <div class="pub-authors"><strong>Jiayu Liu</strong>, Cheng Qian, Zhenhailong Wang, Bingxuan Li, Jiateng Liu, Heng Wang, Jeonghwan Kim, Yumeng Wang, Xiusi Chen, Yi R. Fung, Heng Ji</div>
     <div class="pub-links">
-      <a href="https://arxiv.org/abs/2606.05622">arxiv</a>
+      <a href="https://arxiv.org/abs/2606.05622">arXiv</a>
       <a href="https://huggingface.co/papers/2606.05622">HF Daily Papers</a>
-      <a href="https://github.com/JiayuJeff/AdaPlanBench">code</a>
+      <a href="https://github.com/JiayuJeff/AdaPlanBench">Code</a>
     </div>
   </div>
 </div>
@@ -310,9 +215,36 @@ Note: Only first author/co-first author papers are listed. Please refer to [the 
     <div class="pub-title">CostBench: Evaluating Multi-Turn Cost-Optimal Planning and Adaptation in Dynamic Environments for LLM Tool-Use Agents</div>
     <div class="pub-authors"><strong>Jiayu Liu</strong>, Cheng Qian, Zhaochen Su, Qing Zong, Shijue Huang, Bingxiang He, Yi R. Fung</div>
     <div class="pub-links">
-      <a href="https://arxiv.org/pdf/2511.02734v1">arxiv</a>
+      <a href="https://arxiv.org/abs/2511.02734">arXiv</a>
       <a href="https://huggingface.co/papers/2511.02734">HF Daily Papers</a>
-      <a href="https://github.com/JiayuJeff/CostBench">code</a>
+      <a href="https://github.com/JiayuJeff/CostBench">Code</a>
+    </div>
+  </div>
+</div>
+
+<div class="pub-container">
+  <img src="/images/RFMBench.png" class="pub-image" alt="Mathematical Proof as a Litmus Test">
+  <div class="pub-info">
+    <div class="pub-venue">ACL 2026</div>
+    <div class="pub-title">Mathematical Proof as a Litmus Test: Revealing Failure Modes of Advanced Large Reasoning Models</div>
+    <div class="pub-authors"><strong>Dadi Guo<sup>*</sup></strong>, <strong>Jiayu Liu<sup>*</sup></strong>, Zhiyuan Fan, Zhitao He, Haoran Li, Yumeng Wang, Yi R. Fung</div>
+    <div class="pub-links">
+      <a href="https://arxiv.org/abs/2506.17114">arXiv</a>
+      <a href="https://github.com/guodadi/RFMDataset">Code</a>
+    </div>
+  </div>
+</div>
+
+<div class="pub-container">
+  <img src="/images/Multirole-R1.png" class="pub-image" alt="Diversity-Enhanced Reasoning">
+  <div class="pub-info">
+    <div class="pub-venue">ICLR 2026</div>
+    <div class="pub-title">Diversity-Enhanced Reasoning for Subjective Questions</div>
+    <div class="pub-authors"><strong>Yumeng Wang<sup>*</sup></strong>, <strong>Zhiyuan Fan<sup>*</sup></strong>, <strong>Jiayu Liu<sup>*</sup></strong>, Jen-tse Huang, Yi R. Fung</div>
+    <div class="pub-links">
+      <a href="https://arxiv.org/abs/2507.20187">arXiv</a>
+      <a href="https://huggingface.co/papers/2507.20187">HF Daily Papers</a>
+      <a href="https://github.com/toward-agi/diverse-o1">Code</a>
     </div>
   </div>
 </div>
@@ -324,9 +256,9 @@ Note: Only first author/co-first author papers are listed. Please refer to [the 
     <div class="pub-title">Revisiting Epistemic Markers in Confidence Estimation: Can Markers Accurately Reflect Large Language Models' Uncertainty?</div>
     <div class="pub-authors"><strong>Jiayu Liu</strong>, Qing Zong, Weiqi Wang, Yangqiu Song</div>
     <div class="pub-links">
-      <a href="https://aclanthology.org/2025.acl-short.18/">ACL anthology</a>
-      <a href="https://arxiv.org/abs/2505.24778">arxiv</a>
-      <a href="https://github.com/HKUST-KnowComp/MarConf">code</a>
+      <a href="https://aclanthology.org/2025.acl-short.18/">ACL Anthology</a>
+      <a href="https://arxiv.org/abs/2505.24778">arXiv</a>
+      <a href="https://github.com/HKUST-KnowComp/MarConf">Code</a>
     </div>
   </div>
 </div>
@@ -336,60 +268,20 @@ Note: Only first author/co-first author papers are listed. Please refer to [the 
   <div class="pub-info">
     <div class="pub-venue">FEVER 2024</div>
     <div class="pub-title">GProofT: A Multi-dimension Multi-round Fact Checking Framework Based on Claim Fact Extraction</div>
-    <div class="pub-authors"><strong>Jiayu Liu<sup>*</sup></strong>, Junhao Tang<sup>*</sup>, Hanwen Wang<sup>*</sup>, Baixuan Xu, Haochen Shi, Weiqi Wang, Yangqiu Song</div>
+    <div class="pub-authors"><strong>Jiayu Liu<sup>*</sup></strong>, <strong>Junhao Tang<sup>*</sup></strong>, <strong>Hanwen Wang<sup>*</sup></strong>, Baixuan Xu, Haochen Shi, Weiqi Wang, Yangqiu Song</div>
     <div class="pub-links">
-      <a href="https://aclanthology.org/2024.fever-1.14/">ACL anthology</a>
-      <a href="https://github.com/HKUST-KnowComp/GProofT">code</a>
-    </div>
-  </div>
-</div>
-
-<div class="pub-container">
-  <img src="/images/RFMBench.png" class="pub-image" alt="Mathematical Proof as a Litmus Test">
-  <div class="pub-info">
-    <div class="pub-venue">ACL 2026</div>
-    <div class="pub-title">Mathematical Proof as a Litmus Test: Revealing Failure Modes of Advanced Large Reasoning Models</div>
-    <div class="pub-authors">Dadi Guo<sup>*</sup>, <strong>Jiayu Liu<sup>*</sup></strong>, Zhiyuan Fan, Zhitao He, Haoran Li, Yumeng Wang, Yi R. Fung</div>
-    <div class="pub-links">
-      <a href="https://arxiv.org/pdf/2506.17114">arxiv</a>
-      <a href="https://github.com/guodadi/RFMDataset">code</a>
-    </div>
-  </div>
-</div>
-
-<div class="pub-container">
-  <img src="/images/Multirole-R1.png" class="pub-image" alt="Diversity-Enhanced Reasoning">
-  <div class="pub-info">
-    <div class="pub-venue">ICLR 2026</div>
-    <div class="pub-title">Diversity-Enhanced Reasoning for Subjective Questions</div>
-    <div class="pub-authors">Yumeng Wang<sup>*</sup>, Zhiyuan Fan<sup>*</sup>, <strong>Jiayu Liu<sup>*</sup></strong>, Jen-tse Huang, Yi R. Fung</div>
-    <div class="pub-links">
-      <a href="https://arxiv.org/abs/2507.20187">arxiv</a>
-      <a href="https://huggingface.co/papers/2507.20187">HF Daily Papers</a>
-      <a href="https://github.com/toward-agi/diverse-o1">code</a>
-    </div>
-  </div>
-</div>
-
-<div class="pub-container">
-  <img src="/images/MarPT.png" class="pub-image" alt="Prospect Theory Fails">
-  <div class="pub-info">
-    <div class="pub-venue">EMNLP 2026</div>
-    <div class="pub-title">Rethinking Prospect Theory for LLMs: Revealing the Instability of Decision-Making under Epistemic Uncertainty</div>
-    <div class="pub-authors">Rui Wang<sup>*</sup>, Qihan Lin<sup>*</sup>, <strong>Jiayu Liu<sup>*</sup></strong>, Qing Zong, Tianshi Zheng, Dadi Guo, Haochen Shi, Peixuan Han, Weiqi Wang, Yangqiu Song</div>
-    <div class="pub-links">
-      <a href="https://arxiv.org/abs/2508.08992">arxiv</a>
-      <a href="https://github.com/HKUST-KnowComp/MarPT">code</a>
+      <a href="https://aclanthology.org/2024.fever-1.14/">ACL Anthology</a>
+      <a href="https://github.com/HKUST-KnowComp/GProofT">Code</a>
     </div>
   </div>
 </div>
 
 ---
 
-## 🧾 Academic & community services
+## 🧾 Academic & Community Service
 
-- Founder@[HKUST-UGAIL](https://github.com/HKUST-UGAIL)
-- Reviewer@*IJCAI 2025*, Reviewer@*COLM 2026*, Reviewer@*ARR* (Since ARR May 2026)
+- Founder, [HKUST UGAI Lab](https://github.com/HKUST-UGAIL)
+- Reviewer: IJCAI 2025, COLM 2026, and ARR (since May 2026)
 - HKUST COMP and CPEG Mentor 2024/25
 - HKUST PMP group mentor
 - IT Secretary of Chinese Folks and Arts Society, HKUST
@@ -404,9 +296,9 @@ Note: Only first author/co-first author papers are listed. Please refer to [the 
 
 ## Misc
 
-In my spare time, I’m passionate about music and sports. I play the piano and violin, and I also enjoy singing and sharing my performances on social media. For sports, football is my absolute favorite—I’m a member of both the HKUST Mainland Students Football Team and the Guangdong Experimental High School Football Team, and I truly cherish the memories and friendships from those times. I also enjoying sailing in the sea, and yatching makes me feel an incredible sense of freedom.
+In my spare time, I’m passionate about music and sports. I play the piano and violin, and I also enjoy singing and sharing my performances on social media. For sports, football is my absolute favorite—I’m a member of both the HKUST Mainland Students Football Team and the Guangdong Experimental High School Football Team, and I truly cherish the memories and friendships from those times. I also enjoy sailing at sea, and yachting makes me feel an incredible sense of freedom.
 
 Feel free to check out some of my music:
-- Me playing Chopin's Fantaisie-Impromptu: [Youtube](https://youtu.be/5r_Y9tE_fbo?si=Rnv-_KuOYPt7_rPF)
-- Me performing the Chinese ballad *Why Are the Flowers So Red*: [Youtube](https://youtu.be/-ohoA3pO9Ks?si=8ZsqIn7GO0pp31UR)
+- Me playing Chopin's Fantaisie-Impromptu: [YouTube](https://youtu.be/5r_Y9tE_fbo?si=Rnv-_KuOYPt7_rPF)
+- Me performing the Chinese ballad *Why Are the Flowers So Red*: [YouTube](https://youtu.be/-ohoA3pO9Ks?si=8ZsqIn7GO0pp31UR)
 - My singing profile: [WeSing (全民k歌)](https://static-play.kg.qq.com/node/personal_v2?uid=6a9f9483252b3f8a3c&shareUid=6a9f9483252b3f8a3c&chain_share_id=12cDdiw3bQNxKeGru7pNO5KrOoI0EhK6_zgdH0wyvu0&pageId=homepage_me) (~200 fans)
