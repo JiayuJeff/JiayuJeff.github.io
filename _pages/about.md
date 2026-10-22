@@ -142,7 +142,7 @@ Selected first-author and co-first-author papers are listed below, ordered by ye
   <div class="pub-info">
     <div class="pub-venue">EMNLP 2026</div>
     <div class="pub-title">PlanBench-XL: Evaluating Long-Horizon Planning of LLM Tool-Use Agents in Large-Scale Tool Ecosystems</div>
-    <div class="pub-authors"><strong>Jiayu Liu<sup>*</sup></strong>, <strong>Qihan Lin<sup>*</sup></strong>, Cheng Qian, Rui Wang, Emre Can Acikgoz, Xiaocheng Yang, Qing Zong, Jiateng Liu, Zhenhailong Wang, Xiusi Chen, Heng Ji, Dilek Hakkani-Tür</div>
+    <div class="pub-authors"><strong>Jiayu Liu<sup>*</sup></strong>, Qihan Lin<sup>*</sup>, Cheng Qian, Rui Wang, Emre Can Acikgoz, Xiaocheng Yang, Qing Zong, Jiateng Liu, Zhenhailong Wang, Xiusi Chen, Heng Ji, Dilek Hakkani-Tür</div>
     <div class="pub-links">
       <a href="https://arxiv.org/abs/2606.22388">arXiv</a>
       <a href="https://huggingface.co/papers/2606.22388">HF Daily Papers</a>
@@ -156,7 +156,7 @@ Selected first-author and co-first-author papers are listed below, ordered by ye
   <div class="pub-info">
     <div class="pub-venue">EMNLP 2026</div>
     <div class="pub-title">Rethinking Prospect Theory for LLMs: Revealing the Instability of Decision-Making under Epistemic Uncertainty</div>
-    <div class="pub-authors"><strong>Rui Wang<sup>*</sup></strong>, <strong>Qihan Lin<sup>*</sup></strong>, <strong>Jiayu Liu<sup>*</sup></strong>, Qing Zong, Tianshi Zheng, Dadi Guo, Haochen Shi, Peixuan Han, Weiqi Wang, Yangqiu Song</div>
+    <div class="pub-authors">Rui Wang<sup>*</sup>, Qihan Lin<sup>*</sup>, <strong>Jiayu Liu<sup>*</sup></strong>, Qing Zong, Tianshi Zheng, Dadi Guo, Haochen Shi, Peixuan Han, Weiqi Wang, Yangqiu Song</div>
     <div class="pub-links">
       <a href="https://arxiv.org/abs/2508.08992">arXiv</a>
       <a href="https://github.com/HKUST-KnowComp/MarPT">Code</a>
@@ -169,7 +169,7 @@ Selected first-author and co-first-author papers are listed below, ordered by ye
   <div class="pub-info">
     <div class="pub-venue">Findings of EMNLP 2026</div>
     <div class="pub-title">NAACL: Noise-AwAre Verbal Confidence Calibration for LLMs in RAG Systems</div>
-    <div class="pub-authors"><strong>Jiayu Liu<sup>*</sup></strong>, <strong>Rui Wang<sup>*</sup></strong>, Qing Zong, Qingcheng Zeng, Tianshi Zheng, Haochen Shi, Dadi Guo, Baixuan Xu, Chunyang Li, Yangqiu Song</div>
+    <div class="pub-authors"><strong>Jiayu Liu<sup>*</sup></strong>, Rui Wang<sup>*</sup>, Qing Zong, Qingcheng Zeng, Tianshi Zheng, Haochen Shi, Dadi Guo, Baixuan Xu, Chunyang Li, Yangqiu Song</div>
     <div class="pub-links">
       <a href="https://arxiv.org/abs/2601.11004">arXiv</a>
       <a href="https://huggingface.co/papers/2601.11004">HF Daily Papers</a>
@@ -211,7 +211,7 @@ Selected first-author and co-first-author papers are listed below, ordered by ye
   <div class="pub-info">
     <div class="pub-venue">ACL 2026</div>
     <div class="pub-title">Mathematical Proof as a Litmus Test: Revealing Failure Modes of Advanced Large Reasoning Models</div>
-    <div class="pub-authors"><strong>Dadi Guo<sup>*</sup></strong>, <strong>Jiayu Liu<sup>*</sup></strong>, Zhiyuan Fan, Zhitao He, Haoran Li, Yumeng Wang, Yi R. Fung</div>
+    <div class="pub-authors">Dadi Guo<sup>*</sup>, <strong>Jiayu Liu<sup>*</sup></strong>, Zhiyuan Fan, Zhitao He, Haoran Li, Yumeng Wang, Yi R. Fung</div>
     <div class="pub-links">
       <a href="https://arxiv.org/abs/2506.17114">arXiv</a>
       <a href="https://github.com/guodadi/RFMDataset">Code</a>
@@ -224,7 +224,7 @@ Selected first-author and co-first-author papers are listed below, ordered by ye
   <div class="pub-info">
     <div class="pub-venue">ICLR 2026</div>
     <div class="pub-title">Diversity-Enhanced Reasoning for Subjective Questions</div>
-    <div class="pub-authors"><strong>Yumeng Wang<sup>*</sup></strong>, <strong>Zhiyuan Fan<sup>*</sup></strong>, <strong>Jiayu Liu<sup>*</sup></strong>, Jen-tse Huang, Yi R. Fung</div>
+    <div class="pub-authors">Yumeng Wang<sup>*</sup>, Zhiyuan Fan<sup>*</sup>, <strong>Jiayu Liu<sup>*</sup></strong>, Jen-tse Huang, Yi R. Fung</div>
     <div class="pub-links">
       <a href="https://arxiv.org/abs/2507.20187">arXiv</a>
       <a href="https://huggingface.co/papers/2507.20187">HF Daily Papers</a>
@@ -252,7 +252,7 @@ Selected first-author and co-first-author papers are listed below, ordered by ye
   <div class="pub-info">
     <div class="pub-venue">FEVER 2024</div>
     <div class="pub-title">GProofT: A Multi-dimension Multi-round Fact Checking Framework Based on Claim Fact Extraction</div>
-    <div class="pub-authors"><strong>Jiayu Liu<sup>*</sup></strong>, <strong>Junhao Tang<sup>*</sup></strong>, <strong>Hanwen Wang<sup>*</sup></strong>, Baixuan Xu, Haochen Shi, Weiqi Wang, Yangqiu Song</div>
+    <div class="pub-authors"><strong>Jiayu Liu<sup>*</sup></strong>, Junhao Tang<sup>*</sup>, Hanwen Wang<sup>*</sup>, Baixuan Xu, Haochen Shi, Weiqi Wang, Yangqiu Song</div>
     <div class="pub-links">
       <a href="https://aclanthology.org/2024.fever-1.14/">ACL Anthology</a>
       <a href="https://github.com/HKUST-KnowComp/GProofT">Code</a>
